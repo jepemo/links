@@ -1,9 +1,21 @@
 # Reading List
 
-- [Databases](#databases)
-- [Distributed Systems](#distributed-systems)
 - [Cryptocurrencies](#cryptocurrencies)
   - [Prepare and install](#prepare-and-install)
+  - [Stats](#stats)
+- [Databases](#databases)
+- [Distributed Systems](#distributed-systems)
+- [Machine Learning](#machine-learning)
+  - [NLP](#nlp)
+
+## Cryptocurrencies
+
+### Prepare and install
+  * [Ethereum GPU Mining on Linux How-To](https://www.meebey.net/posts/ethereum_gpu_mining_on_linux_howto/)
+  * [Getting Started mining Ethereum on Ubuntu (January 2017)](https://medium.com/@oconnorct1/getting-started-mining-ethereum-on-ubuntu-january-2017-148c53f8793b)
+  
+### Stats
+  * [CryptoCurrency Market Capitalizations](https://coinmarketcap.com)
 
 ## Databases
 
@@ -16,9 +28,7 @@
 * [Storage engine design(Part 1)](http://akumuli.org/akumuli/2017/04/29/nbplustree/)
 * [Storage engine design(Part 2)](http://akumuli.org/akumuli/2017/08/01/storage-engine-design2/)
 
-
 ## Distributed Systems
-
 * [A curated list to learn about distributed systems](https://github.com/theanalyst/awesome-distributed-systems)
 * [What We Talk About When We Talk About Distributed Systems](http://videlalvaro.github.io/2015/12/learning-about-distributed-systems.html)
 * [Four easy reads to understand distributed systems issues](https://blog.separateconcerns.com/2015-07-07-four-easy-reads-distsys.html)
@@ -26,10 +36,7 @@
 * [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
 * [Go, for Distributed Systems](https://talks.golang.org/2013/distsys.slide#1)
 
+## Machine Learning
 
-## Cryptocurrencies
-
-### Prepare and install
-  * [Ethereum GPU Mining on Linux How-To](https://www.meebey.net/posts/ethereum_gpu_mining_on_linux_howto/)
-  * [Getting Started mining Ethereum on Ubuntu (January 2017)](https://medium.com/@oconnorct1/getting-started-mining-ethereum-on-ubuntu-january-2017-148c53f8793b)
-  * [CryptoCurrency Market Capitalizations](https://coinmarketcap.com)
+### NLP
+  * [Finding the right representation for your NLP data](https://tryolabs.com/blog/2017/08/10/finding-the-right-representation-for-your-nlp-data/)
