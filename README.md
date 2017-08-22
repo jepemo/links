@@ -13,6 +13,7 @@
 - [Game Programming](#game-programming)
   - [Tutorials](#game_prog_tutorials)
 - [Machine Learning](#machine-learning)
+  - [Theory](#ml_theory)
   - [NLP](#nlp)
 - [Web Development](#web-development)
   - [React](#react)
@@ -69,6 +70,10 @@
 Particle example
 
 ## Machine Learning
+
+<a name="ml_theory"></a>
+### Theory
+  * [Machine learning for humans](https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12)
 
 ### NLP
   * [Finding the right representation for your NLP data](https://tryolabs.com/blog/2017/08/10/finding-the-right-representation-for-your-nlp-data/)
