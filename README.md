@@ -12,6 +12,8 @@
   - [Design and Implementation](#ds_design_impl)
 - [Machine Learning](#machine-learning)
   - [NLP](#nlp)
+- [React](#react)
+  - [Tutorials](#react_tutorials)
 
 ## Cryptocurrencies
 
@@ -61,3 +63,10 @@
 
 ### NLP
   * [Finding the right representation for your NLP data](https://tryolabs.com/blog/2017/08/10/finding-the-right-representation-for-your-nlp-data/)
+  
+## React
+
+<a name="react_tutorials"></a>
+### Tutorials
+  * [The SoundCloud Client in React + Redux](https://www.robinwieruch.de/the-soundcloud-client-in-react-redux/)
+ 
