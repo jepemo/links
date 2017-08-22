@@ -72,6 +72,7 @@ Particle example
 
 ### NLP
   * [Finding the right representation for your NLP data](https://tryolabs.com/blog/2017/08/10/finding-the-right-representation-for-your-nlp-data/)
+  * [NLP tasks with various libraries](http://clarkgrubb.com/nlp)
   
 ## Web Development
 
