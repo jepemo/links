@@ -10,12 +10,14 @@
 
 ## Cryptocurrencies
 
+*All about cryptocurrencies.*
+
 ### Prepare and install
   * [Ethereum GPU Mining on Linux How-To](https://www.meebey.net/posts/ethereum_gpu_mining_on_linux_howto/)
   * [Getting Started mining Ethereum on Ubuntu (January 2017)](https://medium.com/@oconnorct1/getting-started-mining-ethereum-on-ubuntu-january-2017-148c53f8793b)
   
 ### Stats
-  * [CryptoCurrency Market Capitalizations](https://coinmarketcap.com)
+  * [CryptoCurrency Market Capitalizations](https://coinmarketcap.com) - Show the historical values of the cryptocurrencies.
 
 ## Databases
 
