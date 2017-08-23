@@ -3,6 +3,7 @@
 - [Cryptocurrencies](#cryptocurrencies)
   - [Prepare and install](#prepare-and-install)
   - [Stats](#stats)
+  - [Trading](#trading)
 - [Databases](#databases)
   - [Theory](#databases_theory)
   - [Design and Implementation](#databases_design_impl)
@@ -30,6 +31,12 @@
 ### Stats
   * [CryptoCurrency Market Capitalizations](https://coinmarketcap.com) - Show the historical values of the cryptocurrencies.
 
+### Trading
+  * [The Best Bitcoin Trading Strategy – 5 Easy Steps to Profit](http://www.tradingstrategyguides.com/best-bitcoin-trading-strategy/)
+  * [Bitcoin Trading Guide](https://www.buybitcoinworldwide.com/trading/)
+  * [Tutorial – Altcoin Flipping (Cryptocurrency Trading Strategies That Always Win)](https://www.deepdotweb.com/2017/04/30/tutorial-altcoin-flipping-cryptocurrency-trading-strategies-always-win/)
+  * [5 Easy Steps For Bitcoin Trading For Profit and Beginners](https://www.weusecoins.com/bitcoin-trading/)
+  
 ## Databases
 
 <a name="databases_theory"></a>
