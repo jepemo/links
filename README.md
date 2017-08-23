@@ -42,6 +42,7 @@
   * [Tutorial – Altcoin Flipping (Cryptocurrency Trading Strategies That Always Win)](https://www.deepdotweb.com/2017/04/30/tutorial-altcoin-flipping-cryptocurrency-trading-strategies-always-win/)
   * [5 Easy Steps For Bitcoin Trading For Profit and Beginners](https://www.weusecoins.com/bitcoin-trading/)
   * [The Complete Newbie’s Guide to Trading Bitcoins](https://99bitcoins.com/newbies-guide-trading-bitcoins/)
+  * [A Boring Investor’s Guide to Cryptocurrency Investing](https://www.reddit.com/r/CryptoCurrency/comments/6l130v/a_boring_investors_guide_to_cryptocurrency/)
   
 ## Databases
 
