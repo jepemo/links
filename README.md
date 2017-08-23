@@ -24,6 +24,9 @@
 
 *All about cryptocurrencies.*
 
+### News
+  * [Reddit August 2017](https://www.reddit.com/r/CryptoCurrency/comments/6quukh/monthly_general_discussion_august_01_2017/)
+
 ### Prepare and install
   * [Ethereum GPU Mining on Linux How-To](https://www.meebey.net/posts/ethereum_gpu_mining_on_linux_howto/)
   * [Getting Started mining Ethereum on Ubuntu (January 2017)](https://medium.com/@oconnorct1/getting-started-mining-ethereum-on-ubuntu-january-2017-148c53f8793b)
