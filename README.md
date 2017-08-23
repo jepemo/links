@@ -81,7 +81,10 @@
 
 <a name="game_prog_tutorials"></a>
 ### Tutorials
-Particle example
+  * [Creating Some Fireworks with Lua](https://pragprog.com/magazines/2013-05/a-functional-introduction-to-lua)
+
+### Packaging
+  * [Love2d Android Bitbucket](https://bitbucket.org/MartinFelis/love-android-sdl2/)
 
 ## Machine Learning
 
