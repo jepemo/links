@@ -20,6 +20,7 @@
 - [Web Development](#web-development)
   - [React](#react)
     - [Tutorials](#react_tutorials)
+  - [Resources](#web_resources)
 
 ## Cryptocurrencies
 
@@ -105,4 +106,8 @@
 <a name="react_tutorials"></a>
 #### Tutorials
   * [The SoundCloud Client in React + Redux](https://www.robinwieruch.de/the-soundcloud-client-in-react-redux/)
+  
+<a name="web_resources"></a>
+### Resources
+  * [FREE SSL Web Certificate](https://letsencrypt.org)
  
