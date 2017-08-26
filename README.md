@@ -46,6 +46,7 @@
   * [5 Easy Steps For Bitcoin Trading For Profit and Beginners](https://www.weusecoins.com/bitcoin-trading/)
   * [The Complete Newbie’s Guide to Trading Bitcoins](https://99bitcoins.com/newbies-guide-trading-bitcoins/)
   * [A Boring Investor’s Guide to Cryptocurrency Investing](https://www.reddit.com/r/CryptoCurrency/comments/6l130v/a_boring_investors_guide_to_cryptocurrency/)
+  * [Bitcoin Trading – The Ultimate Guide](http://www.forexnews.com/bitcoin-trading/)
   
 ## Databases
 
