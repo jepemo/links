@@ -30,6 +30,7 @@
 
 <a name="crypto_news"></a>
 ### News
+  * [BlockGeeks Articles](https://blockgeeks.com/guides/?filter=latest)
   * [Reddit August 2017](https://www.reddit.com/r/CryptoCurrency/comments/6quukh/monthly_general_discussion_august_01_2017/)
 
 ### Prepare and install
