@@ -1,7 +1,7 @@
 # Reading List
 
 - [Cryptocurrencies](#cryptocurrencies)
-  - [News](#crypto_news)
+  - [Read](#crypto_read)
   - [Prepare and install](#prepare-and-install)
   - [Stats](#stats)
   - [Trading](#trading)
@@ -28,11 +28,12 @@
 
 [awesome-cryptocurrency](https://github.com/cmahon/awesome-cryptocurrency)
 
-<a name="crypto_news"></a>
-### News
+<a name="crypto_read"></a>
+### Read
   * [Reddit September 2017](https://www.reddit.com/r/CryptoCurrency/comments/6xd6jr/monthly_general_discussion_september_01_2017/?utm_content=title&utm_medium=hot&utm_source=reddit&utm_name=CryptoCurrency)
   * [Reddit August 2017](https://www.reddit.com/r/CryptoCurrency/comments/6quukh/monthly_general_discussion_august_01_2017/)
   * [BlockGeeks Articles](https://blockgeeks.com/guides/?filter=latest)
+  * [Bitcoin Workings Explained, For Real](http://michal.space/ipns/michal.space/)
 
 ### Prepare and install
   * [Ethereum GPU Mining on Linux How-To](https://www.meebey.net/posts/ethereum_gpu_mining_on_linux_howto/)
