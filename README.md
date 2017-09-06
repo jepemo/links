@@ -30,6 +30,7 @@
 
 <a name="crypto_read"></a>
 ### Read
+  * [CryptoNews - Like HackerNews](https://www.crypto.study/)
   * [Reddit September 2017](https://www.reddit.com/r/CryptoCurrency/comments/6xd6jr/monthly_general_discussion_september_01_2017/?utm_content=title&utm_medium=hot&utm_source=reddit&utm_name=CryptoCurrency)
   * [Reddit August 2017](https://www.reddit.com/r/CryptoCurrency/comments/6quukh/monthly_general_discussion_august_01_2017/)
   * [BlockGeeks Articles](https://blockgeeks.com/guides/?filter=latest)
