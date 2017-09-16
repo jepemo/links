@@ -17,6 +17,8 @@
 - [Machine Learning](#machine-learning)
   - [Theory](#ml_theory)
   - [NLP](#nlp)
+- [Web Architecture](#web-architecture)
+  - [Examples](#wa_examples)
 - [Web Development](#web-development)
   - [Tutorials](#web_tutorials)
   - [React](#react)
@@ -96,6 +98,9 @@
 
 ### Packaging
   * [Love2d Android Bitbucket](https://bitbucket.org/MartinFelis/love-android-sdl2/)
+  * [Love2d Adnroid Fork. With ads?](https://bitbucket.org/npinochet/love-android-sdl2/commits/all)
+  * [Admob Interstitial ad - LÖVE-Android](https://www.love2d.org/forums/viewtopic.php?f=11&t=81224%20I)
+  * [Android Admob and Google Play Game Services Support](https://love2d.org/forums/viewtopic.php?t=82166)
 
 ## Machine Learning
 
@@ -107,12 +112,19 @@
   * [Finding the right representation for your NLP data](https://tryolabs.com/blog/2017/08/10/finding-the-right-representation-for-your-nlp-data/)
   * [NLP tasks with various libraries](http://clarkgrubb.com/nlp)
   
+## Web Architecture
+
+<a name="wa_examples"></a>
+### Examples
+  * [The architecture behind Skyscanner’s recommended destinations](https://medium.com/towards-data-science/write-the-code-f6d58c728df0)
+  
 ## Web Development
 
 <a name="web_tutorials"></a>
 ### Tutorials
   * [Study guide and introduction to the modern front end stack](https://github.com/grab/front-end-guide)
   * [Modern JavaScript Tutorial](https://github.com/iliakan/javascript-tutorial-en)
+  * [Step-by-step tutorial to build a modern JavaScript stack.](https://github.com/verekia/js-stack-from-scratch)
 
 ### React
 
