@@ -18,6 +18,7 @@
   - [Theory](#ml_theory)
   - [NLP](#nlp)
 - [Web Development](#web-development)
+  - [Tutorials](#web_tutorials)
   - [React](#react)
     - [Tutorials](#react_tutorials)
   - [Resources](#web_resources)
@@ -107,6 +108,11 @@
   * [NLP tasks with various libraries](http://clarkgrubb.com/nlp)
   
 ## Web Development
+
+<a name="web_tutorials"></a>
+### Tutorials
+  * [Study guide and introduction to the modern front end stack](https://github.com/grab/front-end-guide)
+  * [Modern JavaScript Tutorial](https://github.com/iliakan/javascript-tutorial-en)
 
 ### React
 
