@@ -6,7 +6,19 @@ https://developerthing.blogspot.com.es/2017/09/every-developer-should-know_12.ht
 https://medium.com/startup-grind/what-every-software-engineer-should-know-about-search-27d1df99f80d
 https://github.com/yandexdataschool
 https://github.com/jwasham/coding-interview-university#pick-one-language-for-the-interview
+http://web.stanford.edu/class/cs276/
 ```
+
+My personal preparation course in the following subjects:
+* English (Advanced)
+* Consolidation of: Java, C/C++ and Python
+* Quick scientific articles lecture and comprehension
+* CS subjects:
+  * Consolidation of algorithms and data structures
+  * Distributed Systems
+  * Advanced Web concepts (architecture, protocols)
+  * Machine learning and Deep Learning
+  * Information retrieval and Search Engines
 
 ## English Preparation
 - [ ] [English Google Documentation Style](https://developers.google.com/style/)
