@@ -17,6 +17,7 @@ My personal preparation course in the following subjects:
   * Consolidation of algorithms and data structures
   * Distributed Systems
   * Advanced Web concepts (architecture, protocols)
+  * System's design (Software architecture, planification, etc.)
   * Machine learning and Deep Learning
   * Information retrieval and Search Engines
 
