@@ -20,6 +20,7 @@ My personal preparation course in the following subjects:
   * System's design (Software architecture, planification, etc.)
   * Machine learning and Deep Learning
   * Information retrieval and Search Engines
+  * Advanced Linux Administration & Architecture
 
 ## English Preparation
 - [ ] [English Google Documentation Style](https://developers.google.com/style/)
