@@ -18,6 +18,7 @@
   - [Theory](#ml_theory)
   - [NLP](#nlp)
 - [Web Architecture](#web-architecture)
+  - [Manuals](#wa_manuals)
   - [Examples](#wa_examples)
 - [Web Development](#web-development)
   - [Tutorials](#web_tutorials)
@@ -117,7 +118,11 @@
 <a name="wa_examples"></a>
 ### Examples
   * [The architecture behind Skyscanner’s recommended destinations](https://medium.com/towards-data-science/write-the-code-f6d58c728df0)
-  
+
+<a name="wa_manuals"></a>
+### Manuals 
+  * [Amazon Web Services — a practical guide](https://github.com/open-guides/og-aws)
+
 ## Web Development
 
 <a name="web_tutorials"></a>
