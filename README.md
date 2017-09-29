@@ -99,6 +99,7 @@
 <a name="game_prog_tutorials"></a>
 ### Tutorials
   * [Creating Some Fireworks with Lua](https://pragprog.com/magazines/2013-05/a-functional-introduction-to-lua)
+  * [Marketing for Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers)
 
 ### Packaging
   * [Love2d Android Bitbucket](https://bitbucket.org/MartinFelis/love-android-sdl2/)
