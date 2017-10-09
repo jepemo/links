@@ -151,4 +151,15 @@
 <a name="web_resources"></a>
 ### Resources
   * [FREE SSL Web Certificate](https://letsencrypt.org)
+  
+
+Stack:
+```
+https://medium.com/startup-grind/what-every-software-engineer-should-know-about-search-27d1df99f80d
+https://github.com/yandexdataschool
+https://github.com/jwasham/coding-interview-university#pick-one-language-for-the-interview
+http://web.stanford.edu/class/cs276/
+https://monkeylearn.com/blog/beginners-guide-text-vectorization/
+https://github.com/harpribot/awesome-information-retrieval
+```
  
