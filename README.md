@@ -19,6 +19,7 @@
   - [NLP](#nlp)
 - [Web Architecture](#web-architecture)
   - [Manuals](#wa_manuals)
+  - [Technical](#wa_tech)
   - [Examples](#wa_examples)
 - [Web Development](#web-development)
   - [Tutorials](#web_tutorials)
@@ -122,6 +123,12 @@
 <a name="wa_examples"></a>
 ### Examples
   * [The architecture behind Skyscanner’s recommended destinations](https://medium.com/towards-data-science/write-the-code-f6d58c728df0)
+
+<a name="wa_tech"></a>
+### Technical
+  * [Concurrent Servers: Part 1 - Introduction](https://eli.thegreenplace.net/2017/concurrent-servers-part-1-introduction/)
+  * [Concurrent Servers: Part 2 - Threads](https://eli.thegreenplace.net/2017/concurrent-servers-part-2-threads/)
+  * [Concurrent Servers: Part 3 - Event-driven](https://eli.thegreenplace.net/2017/concurrent-servers-part-3-event-driven/)
 
 <a name="wa_manuals"></a>
 ### Manuals 
