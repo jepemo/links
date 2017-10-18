@@ -61,6 +61,7 @@
   * [A Boring Investor’s Guide to Cryptocurrency Investing](https://www.reddit.com/r/CryptoCurrency/comments/6l130v/a_boring_investors_guide_to_cryptocurrency/)
   * [Bitcoin Trading – The Ultimate Guide](http://www.forexnews.com/bitcoin-trading/)
   * [First CryptoIndex](https://www.bitwiseinvestments.com/index)
+  * [Plataforma de Trading](https://www.coinigy.com/)
   
 ## Databases
 
