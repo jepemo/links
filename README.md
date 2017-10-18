@@ -17,6 +17,7 @@
 - [Machine Learning](#machine-learning)
   - [Theory](#ml_theory)
   - [NLP](#nlp)
+- [Python](#python)
 - [Web Architecture](#web-architecture)
   - [Manuals](#wa_manuals)
   - [Technical](#wa_tech)
@@ -119,6 +120,10 @@
 ### NLP
   * [Finding the right representation for your NLP data](https://tryolabs.com/blog/2017/08/10/finding-the-right-representation-for-your-nlp-data/)
   * [NLP tasks with various libraries](http://clarkgrubb.com/nlp)
+  
+## Python
+  * [Creating a site preview like in slack (using aiohttp)](https://gearheart.io/blog/creating-a-site-preview-like-in-slack-using-aiohttp/)
+  * [From Python to Numpy](http://www.labri.fr/perso/nrougier/from-python-to-numpy/#id9)
   
 ## Web Architecture
 
