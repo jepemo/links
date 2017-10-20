@@ -27,6 +27,7 @@
   - [React](#react)
     - [Tutorials](#react_tutorials)
   - [Resources](#web_resources)
+- [Stack](#stack)
 
 ## Cryptocurrencies
 
@@ -159,8 +160,7 @@
 ### Resources
   * [FREE SSL Web Certificate](https://letsencrypt.org)
   
-
-Stack:
+## Stack:
 ```
 https://medium.com/startup-grind/what-every-software-engineer-should-know-about-search-27d1df99f80d
 https://github.com/yandexdataschool
@@ -168,5 +168,6 @@ https://github.com/jwasham/coding-interview-university#pick-one-language-for-the
 http://web.stanford.edu/class/cs276/
 https://monkeylearn.com/blog/beginners-guide-text-vectorization/
 https://github.com/harpribot/awesome-information-retrieval
+https://qotoqot.com/blog/founder-skills/
 ```
  
