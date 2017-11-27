@@ -46,6 +46,7 @@
   * [Why Everyone Missed the Most Mind-Blowing Feature of Cryptocurrency](https://hackernoon.com/why-everyone-missed-the-most-mind-blowing-feature-of-cryptocurrency-860c3f25f1fb)
   * [UNDERSTANDING CRYPTO REGULATIONS](https://multicoin.capital/2017/09/05/understanding-crypto-regulations/)
   * [Bitcoin y la nueva burbuja especulativa de las criptomonedas](http://www.publico.es/economia/bitcoin-nueva-burbuja-especulativa-criptomonedas.html)
+  * [Understanding Ethereum Smart Contracts](http://www.gjermundbjaanes.com/understanding-ethereum-smart-contracts/)
 
 ### Prepare and install
   * [Ethereum GPU Mining on Linux How-To](https://www.meebey.net/posts/ethereum_gpu_mining_on_linux_howto/)
