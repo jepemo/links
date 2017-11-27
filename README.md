@@ -45,6 +45,7 @@
   * [How to invest in Bitcoin properly. Blockchain and other cryptocurrencies](https://medium.com/@nellsonx/how-to-properly-invest-in-bitcoin-blockchain-and-other-cryptocurrencies-in-2017-32d59e2ff435)
   * [Why Everyone Missed the Most Mind-Blowing Feature of Cryptocurrency](https://hackernoon.com/why-everyone-missed-the-most-mind-blowing-feature-of-cryptocurrency-860c3f25f1fb)
   * [UNDERSTANDING CRYPTO REGULATIONS](https://multicoin.capital/2017/09/05/understanding-crypto-regulations/)
+  * [Bitcoin y la nueva burbuja especulativa de las criptomonedas](http://www.publico.es/economia/bitcoin-nueva-burbuja-especulativa-criptomonedas.html)
 
 ### Prepare and install
   * [Ethereum GPU Mining on Linux How-To](https://www.meebey.net/posts/ethereum_gpu_mining_on_linux_howto/)
