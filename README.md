@@ -47,6 +47,8 @@
   * [UNDERSTANDING CRYPTO REGULATIONS](https://multicoin.capital/2017/09/05/understanding-crypto-regulations/)
   * [Bitcoin y la nueva burbuja especulativa de las criptomonedas](http://www.publico.es/economia/bitcoin-nueva-burbuja-especulativa-criptomonedas.html)
   * [Understanding Ethereum Smart Contracts](http://www.gjermundbjaanes.com/understanding-ethereum-smart-contracts/)
+  * [Everything You Wanted To Know About Blockchains: Part 1](https://unwttng.com/what-is-a-blockchain)
+  * [Everything You Wanted To Know About Blockchains: Part 2](https://unwttng.com/what-is-bitcoin-ethereum)
 
 ### Prepare and install
   * [Ethereum GPU Mining on Linux How-To](https://www.meebey.net/posts/ethereum_gpu_mining_on_linux_howto/)
