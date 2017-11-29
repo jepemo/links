@@ -68,6 +68,7 @@
   * [Bitcoin Trading – The Ultimate Guide](http://www.forexnews.com/bitcoin-trading/)
   * [First CryptoIndex](https://www.bitwiseinvestments.com/index)
   * [Plataforma de Trading](https://www.coinigy.com/)
+  * [Top 25 Cryptocurrency Exchanges of 2017](https://blockexplorer.com/news/top-25-cryptocurrency-exchanges-2017/)
   
 ## Databases
 
