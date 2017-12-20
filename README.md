@@ -49,6 +49,7 @@
   * [Understanding Ethereum Smart Contracts](http://www.gjermundbjaanes.com/understanding-ethereum-smart-contracts/)
   * [Everything You Wanted To Know About Blockchains: Part 1](https://unwttng.com/what-is-a-blockchain)
   * [Everything You Wanted To Know About Blockchains: Part 2](https://unwttng.com/what-is-bitcoin-ethereum)
+  * [What Bitcoin Shows Us About How Money Works](http://www.bzarg.com/p/what-bitcoin-shows-us-about-how-money-works/)
 
 ### Prepare and install
   * [Ethereum GPU Mining on Linux How-To](https://www.meebey.net/posts/ethereum_gpu_mining_on_linux_howto/)
