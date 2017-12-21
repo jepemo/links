@@ -18,6 +18,7 @@
   - [Theory](#ml_theory)
   - [NLP](#nlp)
 - [Python](#python)
+  - [Libraries](#python_lib)
 - [Web Architecture](#web-architecture)
   - [Manuals](#wa_manuals)
   - [Technical](#wa_tech)
@@ -134,6 +135,12 @@
 ## Python
   * [Creating a site preview like in slack (using aiohttp)](https://gearheart.io/blog/creating-a-site-preview-like-in-slack-using-aiohttp/)
   * [From Python to Numpy](http://www.labri.fr/perso/nrougier/from-python-to-numpy/#id9)
+  
+<a name="python_lib"></a>
+### Libraries
+  * [**pendulum**: Python datetimes made easy](https://github.com/sdispater/pendulum)
+  * [**pipenv**: Python Development Workflow for Humans](https://github.com/pypa/pipenv)
+  * [**fire**: Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.](https://github.com/google/python-fire)
   
 ## Web Architecture
 
