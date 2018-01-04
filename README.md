@@ -23,6 +23,7 @@
   - [Manuals](#wa_manuals)
   - [Technical](#wa_tech)
   - [Examples](#wa_examples)
+  - [Future](#wa_fut)
 - [Web Development](#web-development)
   - [Tutorials](#web_tutorials)
   - [React](#react)
@@ -153,6 +154,10 @@
   * [Concurrent Servers: Part 1 - Introduction](https://eli.thegreenplace.net/2017/concurrent-servers-part-1-introduction/)
   * [Concurrent Servers: Part 2 - Threads](https://eli.thegreenplace.net/2017/concurrent-servers-part-2-threads/)
   * [Concurrent Servers: Part 3 - Event-driven](https://eli.thegreenplace.net/2017/concurrent-servers-part-3-event-driven/)
+  
+<a name="wa_fut"></a>
+### Future
+  * [BACK TO THE FUTURE: THE DECENTRALIZED WEB - A report by the Digital Currency Initiative and the Center for Civic Media](http://dci.mit.edu/decentralizedweb)
 
 <a name="wa_manuals"></a>
 ### Manuals 
