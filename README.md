@@ -29,6 +29,7 @@
   - [React](#react)
     - [Tutorials](#react_tutorials)
   - [Resources](#web_resources)
+- [Natural Language Processing](#natural-language-processing)
 - [Stack](#stack)
 
 ## Cryptocurrencies
@@ -180,6 +181,10 @@
 <a name="web_resources"></a>
 ### Resources
   * [FREE SSL Web Certificate](https://letsencrypt.org)
+  
+## Natural Language Processing
+  * [Complete Guide to Topic Modeling](https://nlpforhackers.io/topic-modeling/)
+  * [TextRank for Text Summarization](https://nlpforhackers.io/textrank-text-summarization/)
   
 ## Stack:
 ```
