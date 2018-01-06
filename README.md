@@ -196,5 +196,6 @@ https://monkeylearn.com/blog/beginners-guide-text-vectorization/
 https://github.com/harpribot/awesome-information-retrieval
 https://qotoqot.com/blog/founder-skills/
 https://github.com/learn-anything/books
+https://github.com/tombusby/cypherpunk-research
 ```
  
