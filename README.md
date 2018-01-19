@@ -152,6 +152,7 @@ Bitcoin Bubble](https://www.nytimes.com/2018/01/16/magazine/beyond-the-bitcoin-b
 <a name="wa_examples"></a>
 ### Examples
   * [The architecture behind Skyscanner’s recommended destinations](https://medium.com/towards-data-science/write-the-code-f6d58c728df0)
+  * [Stream & Go: News Feeds for Over 300 Million End Users](https://stackshare.io/stream/stream-and-go-news-feeds-for-over-300-million-end-users)
 
 <a name="wa_tech"></a>
 ### Technical
