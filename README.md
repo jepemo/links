@@ -56,6 +56,7 @@
   * [Building for the Blockchain](http://blog.ycombinator.com/building-for-the-blockchain/)
   * [Beyond the
 Bitcoin Bubble](https://www.nytimes.com/2018/01/16/magazine/beyond-the-bitcoin-bubble.html)
+  * [Decentralization vs Scale: Crypto's Growing Struggle](https://www.coindesk.com/decentralization-vs-scale-studies-explore-cryptos-growing-struggle/)
 
 ### Prepare and install
   * [Ethereum GPU Mining on Linux How-To](https://www.meebey.net/posts/ethereum_gpu_mining_on_linux_howto/)
