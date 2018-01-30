@@ -203,5 +203,6 @@ https://github.com/harpribot/awesome-information-retrieval
 https://qotoqot.com/blog/founder-skills/
 https://github.com/learn-anything/books
 https://github.com/tombusby/cypherpunk-research
+Blog example: https://monades.roperzh.com/
 ```
  
