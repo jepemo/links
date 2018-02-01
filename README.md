@@ -66,6 +66,7 @@ Bitcoin Bubble](https://www.nytimes.com/2018/01/16/magazine/beyond-the-bitcoin-b
   
 ### Stats
   * [CryptoCurrency Market Capitalizations](https://coinmarketcap.com) - Show the historical values of the cryptocurrencies.
+  * [**Trading SIGNALS**](https://www.tradingview.com/cryptocurrency-signals/)
 
 ### Trading
   * [The Best Bitcoin Trading Strategy – 5 Easy Steps to Profit](http://www.tradingstrategyguides.com/best-bitcoin-trading-strategy/)
