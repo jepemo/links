@@ -139,6 +139,7 @@ Bitcoin Bubble](https://www.nytimes.com/2018/01/16/magazine/beyond-the-bitcoin-b
 ### NLP
   * [Finding the right representation for your NLP data](https://tryolabs.com/blog/2017/08/10/finding-the-right-representation-for-your-nlp-data/)
   * [NLP tasks with various libraries](http://clarkgrubb.com/nlp)
+  * [Handling natural languages in search](https://blog.algolia.com/natural-languages-in-search/)
   
 ## Python
   * [Creating a site preview like in slack (using aiohttp)](https://gearheart.io/blog/creating-a-site-preview-like-in-slack-using-aiohttp/)
