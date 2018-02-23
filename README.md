@@ -144,6 +144,7 @@ Bitcoin Bubble](https://www.nytimes.com/2018/01/16/magazine/beyond-the-bitcoin-b
 ## Python
   * [Creating a site preview like in slack (using aiohttp)](https://gearheart.io/blog/creating-a-site-preview-like-in-slack-using-aiohttp/)
   * [From Python to Numpy](http://www.labri.fr/perso/nrougier/from-python-to-numpy/#id9)
+  * [MY PYTHON DEVELOPMENT ENVIRONMENT, 2018 EDITION](https://jacobian.org/writing/python-environment-2018/)
   
 <a name="python_lib"></a>
 ### Libraries
