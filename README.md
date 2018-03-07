@@ -211,5 +211,6 @@ http://www.linuxjournal.com/content/zfs-linux
 simple blog: http://aliceinwire.net/
 http://waveforms.surge.sh/waveforms-intro
 https://github.com/RasaHQ/rasa_nlu
+https://jvns.ca/blog/2018/03/05/things-ive-learned-networking/
 ```
  
