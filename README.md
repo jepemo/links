@@ -80,6 +80,7 @@ Bitcoin Bubble](https://www.nytimes.com/2018/01/16/magazine/beyond-the-bitcoin-b
   * [Plataforma de Trading](https://www.coinigy.com/)
   * [Top 25 Cryptocurrency Exchanges of 2017](https://blockexplorer.com/news/top-25-cryptocurrency-exchanges-2017/)
   * [**Trading Cryptocurrency in 2018: The Definitive Guide**](https://chainoperator.com/cryptocurrency-trading-guide/)
+  * [I would like to learn algo trading. Where should I start?](https://www.quora.com/I-would-like-to-learn-algo-trading-Where-should-I-start)
   
 ## Databases
 
