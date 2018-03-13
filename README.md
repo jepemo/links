@@ -81,6 +81,7 @@ Bitcoin Bubble](https://www.nytimes.com/2018/01/16/magazine/beyond-the-bitcoin-b
   * [Top 25 Cryptocurrency Exchanges of 2017](https://blockexplorer.com/news/top-25-cryptocurrency-exchanges-2017/)
   * [**Trading Cryptocurrency in 2018: The Definitive Guide**](https://chainoperator.com/cryptocurrency-trading-guide/)
   * [I would like to learn algo trading. Where should I start?](https://www.quora.com/I-would-like-to-learn-algo-trading-Where-should-I-start)
+  * [Top 15 Altcoins for Long Term Hold (Part I - The First 5)](https://www.tradingview.com/chart/BTCUSD/d5ttTGGF-Top-15-Altcoins-for-Long-Term-Hold-Part-I-The-First-5/?utm_source=notification_email&utm_medium=email&utm_campaign=notification_follower_idea_update)
   
 ## Databases
 
