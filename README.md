@@ -1,4 +1,4 @@
-# Reading List
+# Links
 
 - [Cryptocurrencies](#cryptocurrencies)
   - [Read](#crypto_read)
