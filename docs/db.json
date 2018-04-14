@@ -1,4 +1,23 @@
 {
+  "http://norvig.com/21-days.html": {
+    "desc": "Teach Yourself Programming in Ten Years",
+    "name": "Teach Yourself Programming in Ten Years",
+    "tags": [
+      "article",
+      "peternorving",
+      "programming"
+    ]
+  },
+  "http://web.stanford.edu/class/cs276/": {
+    "desc": "MOOC about information retrieval and web search",
+    "name": "CS 276 / LING 286: Information Retrieval and Web Search",
+    "tags": [
+      "informationretrieval",
+      "websearch",
+      "course",
+      "stanford"
+    ]
+  },
   "https://github.com/cmahon/awesome-cryptocurrency": {
     "desc": "A curated list of awesome blockchain, cryptocurrency and fintech resources. Early stage work in progress.",
     "name": "awesome cryptocurrencies",
@@ -7,6 +26,46 @@
       "bitcoin",
       "cryptocurrencies",
       "cryptocurrency"
+    ]
+  },
+  "https://github.com/jwasham/coding-interview-university#pick-one-language-for-the-interview": {
+    "desc": "A complete computer science study plan to become a software engineer.",
+    "name": "A complete computer science study plan to become a software engineer.",
+    "tags": [
+      "roadmap",
+      "programming",
+      "codinginterview",
+      "studyplan"
+    ]
+  },
+  "https://github.com/kamranahmedse/developer-roadmap": {
+    "desc": "Roadmap to becoming a web developer in 2018",
+    "name": "Backend developer roadmap",
+    "tags": [
+      "backend",
+      "graphic",
+      "diagram",
+      "developer"
+    ]
+  },
+  "https://github.com/yandexdataschool": {
+    "desc": "Yandex data analysis projects",
+    "name": "Yandex data analysis projects",
+    "tags": [
+      "yandex",
+      "dataanalysis",
+      "machinelearning",
+      "projects"
+    ]
+  },
+  "https://medium.com/startup-grind/what-every-software-engineer-should-know-about-search-27d1df99f80d": {
+    "desc": "Want to build or improve a search experience? Start here.",
+    "name": "What every software engineer should know about search",
+    "tags": [
+      "search",
+      "article",
+      "roadmap",
+      "searchengines"
     ]
   },
   "https://www.meebey.net/posts/ethereum_gpu_mining_on_linux_howto/": {
