@@ -29,8 +29,6 @@
   - [React](#react)
     - [Tutorials](#react_tutorials)
   - [Resources](#web_resources)
-- [Natural Language Processing](#natural-language-processing)
-- [Stack](#stack)
 
 ## Cryptocurrencies
 
@@ -40,10 +38,6 @@
 
 <a name="crypto_read"></a>
 ### Read
-  * [CryptoNews - Like HackerNews](https://www.crypto.study/)
-  * [Reddit September 2017](https://www.reddit.com/r/CryptoCurrency/comments/6xd6jr/monthly_general_discussion_september_01_2017/?utm_content=title&utm_medium=hot&utm_source=reddit&utm_name=CryptoCurrency)
-  * [Reddit August 2017](https://www.reddit.com/r/CryptoCurrency/comments/6quukh/monthly_general_discussion_august_01_2017/)
-  * [BlockGeeks Articles](https://blockgeeks.com/guides/?filter=latest)
   * [Bitcoin Workings Explained, For Real](http://michal.space/ipns/michal.space/)
   * [How to invest in Bitcoin properly. Blockchain and other cryptocurrencies](https://medium.com/@nellsonx/how-to-properly-invest-in-bitcoin-blockchain-and-other-cryptocurrencies-in-2017-32d59e2ff435)
   * [Why Everyone Missed the Most Mind-Blowing Feature of Cryptocurrency](https://hackernoon.com/why-everyone-missed-the-most-mind-blowing-feature-of-cryptocurrency-860c3f25f1fb)
@@ -59,11 +53,9 @@ Bitcoin Bubble](https://www.nytimes.com/2018/01/16/magazine/beyond-the-bitcoin-b
   * [Decentralization vs Scale: Crypto's Growing Struggle](https://www.coindesk.com/decentralization-vs-scale-studies-explore-cryptos-growing-struggle/)
 
 ### Prepare and install
-  * [Ethereum GPU Mining on Linux How-To](https://www.meebey.net/posts/ethereum_gpu_mining_on_linux_howto/)
-  * [Getting Started mining Ethereum on Ubuntu (January 2017)](https://medium.com/@oconnorct1/getting-started-mining-ethereum-on-ubuntu-january-2017-148c53f8793b)
   * [Coincontrol: Python Bot Trader](https://github.com/jakubroztocil/cointrol)
   * [How to get started mining crypto on Linux with Nvidia](https://www.linuxserver.io/2017/12/17/how-to-get-started-mining-crypto-on-linux-with-nvidia/)
-  
+
 ### Stats
   * [CryptoCurrency Market Capitalizations](https://coinmarketcap.com) - Show the historical values of the cryptocurrencies.
   * [**Trading SIGNALS**](https://www.tradingview.com/cryptocurrency-signals/)
@@ -83,7 +75,7 @@ Bitcoin Bubble](https://www.nytimes.com/2018/01/16/magazine/beyond-the-bitcoin-b
   * [I would like to learn algo trading. Where should I start?](https://www.quora.com/I-would-like-to-learn-algo-trading-Where-should-I-start)
   * [Top 15 Altcoins for Long Term Hold (Part I - The First 5)](https://www.tradingview.com/chart/BTCUSD/d5ttTGGF-Top-15-Altcoins-for-Long-Term-Hold-Part-I-The-First-5/?utm_source=notification_email&utm_medium=email&utm_campaign=notification_follower_idea_update)
   * [Trading Strategy 101 – Understanding Cryptocurrency Volume](https://steemit.com/bitcoin/@vhmcrypto/trading-strategy-101-understanding-cryptocurrency-volume)
-  
+
 ## Databases
 
 <a name="databases_theory"></a>
@@ -143,18 +135,18 @@ Bitcoin Bubble](https://www.nytimes.com/2018/01/16/magazine/beyond-the-bitcoin-b
   * [Finding the right representation for your NLP data](https://tryolabs.com/blog/2017/08/10/finding-the-right-representation-for-your-nlp-data/)
   * [NLP tasks with various libraries](http://clarkgrubb.com/nlp)
   * [Handling natural languages in search](https://blog.algolia.com/natural-languages-in-search/)
-  
+
 ## Python
   * [Creating a site preview like in slack (using aiohttp)](https://gearheart.io/blog/creating-a-site-preview-like-in-slack-using-aiohttp/)
   * [From Python to Numpy](http://www.labri.fr/perso/nrougier/from-python-to-numpy/#id9)
   * [MY PYTHON DEVELOPMENT ENVIRONMENT, 2018 EDITION](https://jacobian.org/writing/python-environment-2018/)
-  
+
 <a name="python_lib"></a>
 ### Libraries
   * [**pendulum**: Python datetimes made easy](https://github.com/sdispater/pendulum)
   * [**pipenv**: Python Development Workflow for Humans](https://github.com/pypa/pipenv)
   * [**fire**: Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.](https://github.com/google/python-fire)
-  
+
 ## Web Architecture
 
 <a name="wa_examples"></a>
@@ -167,13 +159,13 @@ Bitcoin Bubble](https://www.nytimes.com/2018/01/16/magazine/beyond-the-bitcoin-b
   * [Concurrent Servers: Part 1 - Introduction](https://eli.thegreenplace.net/2017/concurrent-servers-part-1-introduction/)
   * [Concurrent Servers: Part 2 - Threads](https://eli.thegreenplace.net/2017/concurrent-servers-part-2-threads/)
   * [Concurrent Servers: Part 3 - Event-driven](https://eli.thegreenplace.net/2017/concurrent-servers-part-3-event-driven/)
-  
+
 <a name="wa_fut"></a>
 ### Future
   * [BACK TO THE FUTURE: THE DECENTRALIZED WEB - A report by the Digital Currency Initiative and the Center for Civic Media](http://dci.mit.edu/decentralizedweb)
 
 <a name="wa_manuals"></a>
-### Manuals 
+### Manuals
   * [Amazon Web Services — a practical guide](https://github.com/open-guides/og-aws)
 
 ## Web Development
@@ -189,36 +181,7 @@ Bitcoin Bubble](https://www.nytimes.com/2018/01/16/magazine/beyond-the-bitcoin-b
 <a name="react_tutorials"></a>
 #### Tutorials
   * [The SoundCloud Client in React + Redux](https://www.robinwieruch.de/the-soundcloud-client-in-react-redux/)
-  
+
 <a name="web_resources"></a>
 ### Resources
   * [FREE SSL Web Certificate](https://letsencrypt.org)
-  
-## Natural Language Processing
-  * [Complete Guide to Topic Modeling](https://nlpforhackers.io/topic-modeling/)
-  * [TextRank for Text Summarization](https://nlpforhackers.io/textrank-text-summarization/)
-  
-## Stack:
-```
-https://medium.com/startup-grind/what-every-software-engineer-should-know-about-search-27d1df99f80d
-https://github.com/yandexdataschool
-https://github.com/jwasham/coding-interview-university#pick-one-language-for-the-interview
-http://web.stanford.edu/class/cs276/
-https://monkeylearn.com/blog/beginners-guide-text-vectorization/
-https://github.com/harpribot/awesome-information-retrieval
-https://qotoqot.com/blog/founder-skills/
-https://github.com/learn-anything/books
-https://github.com/tombusby/cypherpunk-research
-Blog example: https://monades.roperzh.com/
-http://www.linuxjournal.com/content/zfs-linux
-simple blog: http://aliceinwire.net/
-http://waveforms.surge.sh/waveforms-intro
-https://github.com/RasaHQ/rasa_nlu
-https://jvns.ca/blog/2018/03/05/things-ive-learned-networking/
-https://withintent.uncorkedstudios.com/inside-el-paquete-cubas-social-network-2fa6c99660ee
-https://medium.com/tech-tajawal/modern-backend-developer-in-2018-6b3f7b5f8b9
-https://www.nayuki.io/page/designing-better-file-organization-around-tags-not-hierarchies
-https://bluxte.net/musings/2018/04/10/go-good-bad-ugly/
-https://opensource.com/article/18/4/ext4-filesystem
-```
- 
