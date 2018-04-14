@@ -1,27 +1,42 @@
 <html>
     <head>
         <title>Links</title>
-        <script src="https://cdn.jsdelivr.net/npm/vue"></script>
+        <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+
         <link rel="stylesheet" href="http://jepemo.github.io/css/main.css">
         <link href="https://fonts.googleapis.com/css?family=Inconsolata|Roboto+Mono" rel="stylesheet">
+        <style type="text/css">
+        .badge {
+            display: inline-block;
+            padding: .25em .4em;
+            font-size: 75%;
+            font-weight: 700;
+            line-height: 1;
+            text-align: center;
+            white-space: nowrap;
+            vertical-align: baseline;
+            border-radius: .25rem;
+            }
+            .badge-secondary {
+    color: #fff;
+    background-color: #6c757d;
+}
+        </style>
     </head>
     <body>
         <div class="container">
             <div class="wrapper">
                 <h1>Links</h1>
                 <div class="home">
-                    <div id="app">
-                        <ul>
-                          <link-item
-                            v-for="item in links"
-                            v-bind:link="item"
-                            v-bind:key="item.id">
-                        </link-item>
-                      </ul>
+                    <div id="links">
                     </div>
                 </div>
             </div>
         </div>
+
         <script src="app.js"></script>
+        <script type="text/javascript">
+            $(document).ready(start);
+        </script>
     </body>
 </html>
