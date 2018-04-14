@@ -1,0 +1,21 @@
+{
+  "https://github.com/cmahon/awesome-cryptocurrency": {
+    "desc": "A curated list of awesome blockchain, cryptocurrency and fintech resources. Early stage work in progress.",
+    "name": "awesome cryptocurrencies",
+    "tags": [
+      "awesome-list",
+      "bitcoin",
+      "cryptocurrencies",
+      "cryptocurrency"
+    ]
+  },
+  "https://www.meebey.net/posts/ethereum_gpu_mining_on_linux_howto/": {
+    "desc": "Ethereum GPU Mining on Linux How-To",
+    "name": "Ethereum GPU Mining on Linux How-To",
+    "tags": [
+      "ethereum",
+      "cryptocurrencies",
+      "cryptocurrency"
+    ]
+  }
+}

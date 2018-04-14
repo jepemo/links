@@ -1,0 +1,27 @@
+<html>
+    <head>
+        <title>Links</title>
+        <script src="https://cdn.jsdelivr.net/npm/vue"></script>
+        <link rel="stylesheet" href="http://jepemo.github.io/css/main.css">
+        <link href="https://fonts.googleapis.com/css?family=Inconsolata|Roboto+Mono" rel="stylesheet">
+    </head>
+    <body>
+        <div class="container">
+            <div class="wrapper">
+                <h1>Links</h1>
+                <div class="home">
+                    <div id="app">
+                        <ul>
+                          <link-item
+                            v-for="item in links"
+                            v-bind:link="item"
+                            v-bind:key="item.id">
+                        </link-item>
+                      </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <script src="app.js"></script>
+    </body>
+</html>
