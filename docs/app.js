@@ -34,7 +34,7 @@ function create_link(name, url, tags, desc)
     </div>
     <div>{3}</div>
     <hr/>
-`.format(url, name, desc, get_str_tags(tags));
+`.format(url, name, desc, ""); //get_str_tags(tags));
 }
 
 function convert_entries(data)
@@ -56,16 +56,70 @@ function convert_entries(data)
     return ll;
 }
 
-function to_components(list)
+function to_components(all_tags, entries)
 {
     result = "";
-    for(var index in list)
-    {
-        entry = list[index];
-        result += create_link(entry["name"], entry["url"], entry["tags"], entry["desc"]);
+
+    for (var iTag in all_tags) {
+        let sectionTag = tags[iTag];
+
+        result += "<a id=\"" + sectionTag + "\"><h2>" + sectionTag + "</h2></a>";
+
+        for(var index in entries)
+        {
+            let entry = entries[index];
+            let name = entry["name"];
+            let url = entry["url"];
+            let tags = entry["tags"];
+            let desc = entry["desc"];
+
+            if ($.inArray(sectionTag, tags) >= 0) {
+                result += create_link(name, url, tags, desc);
+            }
+        }
     }
 
     return result;
+}
+
+function get_tags(entries)
+{
+    all_tags = [];
+    for (var index in entries) {
+        let entry = entries[index];
+        let tags = entry["tags"];
+        for (var iTag in tags) {
+            let tag = tags[iTag];
+            if($.inArray(tag, all_tags) == -1) {
+                all_tags.push(tag);
+            }
+        }
+    }
+
+    all_tags.sort();
+
+    return all_tags;
+}
+
+function to_tag_links(tags)
+{
+    let content = "<div>";
+    let cols = 5;
+
+    let num=1;
+    for (var iTag in tags) {
+        let tag = tags[iTag];
+        content += `
+    <a href="#{0}">[{1}]</a>&nbsp;
+`.format(tag, tag);
+
+        if(num++ > cols) {
+            content +=" <br/>";
+            num = 1;
+        }
+    }
+
+    return content + "</div><br/>";
 }
 
 function load_db()
@@ -73,9 +127,13 @@ function load_db()
     $.get( "https://jepemo.github.io/links/db.json", function( data ) {
 
       entries = convert_entries(data);
-      components = to_components(entries);
-      $("#links").html(components);
+      tags = get_tags(entries);
 
+      components = "";
+      components += to_tag_links(tags);
+      components += to_components(tags, entries);
+
+      $("#links").html(components);
     });
 }
 
