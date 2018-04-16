@@ -45,6 +45,16 @@
       "language"
     ]
   },
+  "https://diaspora.github.io/diaspora_federation/index.html": {
+    "desc": "The purpose of this document is to specify the communications that go on between diaspora* servers (and other servers supporting this protocol). If you experience any issues, feel free to get in touch with us",
+    "name": "diaspora* federation protocol",
+    "tags": [
+      "protocol",
+      "internet",
+      "communication",
+      "reference"
+    ]
+  },
   "https://github.com/RasaHQ/rasa_nlu": {
     "desc": "Rasa NLU (Natural Language Understanding) is a tool for understanding what is being said in short pieces of text",
     "name": "turn natural language into structured data",
@@ -215,6 +225,16 @@
       "softwarecompany"
     ]
   },
+  "https://raw.githubusercontent.com/w3c/activitypub/gh-pages/activitypub-tutorial.txt": {
+    "desc": "Simple Activitypub tutorial example",
+    "name": "ActivityPub tutorial",
+    "tags": [
+      "activitypub",
+      "internet",
+      "communication",
+      "protocol"
+    ]
+  },
   "https://withintent.uncorkedstudios.com/inside-el-paquete-cubas-social-network-2fa6c99660ee": {
     "desc": "Inside El Paquete, Cuba\u2019s Social Network",
     "name": "Inside El Paquete, Cuba\u2019s Social Network",
@@ -222,6 +242,15 @@
       "article",
       "hacktivism",
       "cuba"
+    ]
+  },
+  "https://www.jtolio.com/2017/01/writing-advanced-web-applications-with-go/": {
+    "desc": "Writing Advanced Web Applications with Go",
+    "name": "Writing Advanced Web Applications with Go",
+    "tags": [
+      "golang",
+      "article",
+      "programming"
     ]
   },
   "https://www.meebey.net/posts/ethereum_gpu_mining_on_linux_howto/": {
