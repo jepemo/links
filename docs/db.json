@@ -65,6 +65,16 @@
       "handbook"
     ]
   },
+  "https://gamedevelopment.tutsplus.com/tutorials/code-optimizations-for-game-development-basic-structures-and-mindsets--cms-30760": {
+    "desc": "Code Optimizations for Game Development: Basic Structures and Mindsets",
+    "name": "Code Optimizations for Game Development: Basic Structures and Mindsets",
+    "tags": [
+      "gamedevelopment",
+      "gameprogramming",
+      "codioptimizations",
+      "programming"
+    ]
+  },
   "https://github.com/RasaHQ/rasa_nlu": {
     "desc": "Rasa NLU (Natural Language Understanding) is a tool for understanding what is being said in short pieces of text",
     "name": "turn natural language into structured data",
@@ -124,12 +134,32 @@
       "it"
     ]
   },
+  "https://github.com/rby90/Project-Based-Tutorials-in-C": {
+    "desc": "A curated list of project-based tutorials in C",
+    "name": "Project based tutorials in C",
+    "tags": [
+      "clang",
+      "projects",
+      "sourcecode",
+      "examples"
+    ]
+  },
   "https://github.com/tombusby/cypherpunk-research": {
     "desc": "This repository is essentially for compiling information about Cypherpunks, the history of the movement, and the people/events of note.",
     "name": "Cypherpunk Research",
     "tags": [
       "cypherpunk",
       "awesome-list"
+    ]
+  },
+  "https://github.com/wimvanderbauwhede/limited-systems/wiki/Hacking-the-Pleroma:-Elixir,-Phoenix-and-a-bit-of-ActivityPub": {
+    "desc": "Hacking the Pleroma: Elixir, Phoenix and a bit of ActivityPub",
+    "name": "Hacking the Pleroma: Elixir, Phoenix and a bit of ActivityPub",
+    "tags": [
+      "activitypub",
+      "hacking",
+      "programming",
+      "tutorial"
     ]
   },
   "https://github.com/yandexdataschool": {
@@ -149,6 +179,15 @@
       "networking",
       "linux",
       "miniguide"
+    ]
+  },
+  "https://lethain.com//some-of-my-favorite-technical-papers/": {
+    "desc": "Some of my favorite technical papers.",
+    "name": "Some of my favorite technical papers.",
+    "tags": [
+      "papers",
+      "readinglist",
+      "computerscience"
     ]
   },
   "https://medium.com/startup-grind/what-every-software-engineer-should-know-about-search-27d1df99f80d": {
@@ -208,6 +247,16 @@
       "guide"
     ]
   },
+  "https://numaverse.com/": {
+    "desc": "Open source, on Ethereum, with built-in support for federation.",
+    "name": "A distributed social network",
+    "tags": [
+      "ethereum",
+      "socialnetwork",
+      "activitypub",
+      "project"
+    ]
+  },
   "https://opensource.com/article/18/4/ext4-filesystem": {
     "desc": "Learn the history of ext4, including what's different from ext3 and the other filesystems that came before it.",
     "name": "Understanding Linux filesystems: ext4 and beyond",
@@ -254,6 +303,16 @@
       "cuba"
     ]
   },
+  "https://www.inqdo.com/aws-explained-the-basics/?lang=en": {
+    "desc": "AWS explained: the basics",
+    "name": "AWS explained: the basics",
+    "tags": [
+      "aws",
+      "tutorial",
+      "101",
+      "introduction"
+    ]
+  },
   "https://www.jtolio.com/2017/01/writing-advanced-web-applications-with-go/": {
     "desc": "Writing Advanced Web Applications with Go",
     "name": "Writing Advanced Web Applications with Go",
@@ -261,6 +320,15 @@
       "golang",
       "article",
       "programming"
+    ]
+  },
+  "https://www.kdnuggets.com/2018/04/understanding-behind-sentiment-analysis-part-1.html": {
+    "desc": "Build your first sentiment classifier in 3 steps",
+    "name": "Understanding What is Behind Sentiment Analysis \u2013 Part 1",
+    "tags": [
+      "nlp",
+      "sentimentanalysis",
+      "machinelearning"
     ]
   },
   "https://www.meebey.net/posts/ethereum_gpu_mining_on_linux_howto/": {
