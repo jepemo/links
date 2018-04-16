@@ -55,6 +55,16 @@
       "reference"
     ]
   },
+  "https://frontendmasters.com/books/front-end-handbook/2018/": {
+    "desc": "Front-End Developer Handbook 2018",
+    "name": "Front-End Developer Handbook 2018",
+    "tags": [
+      "frontend",
+      "development",
+      "web",
+      "handbook"
+    ]
+  },
   "https://github.com/RasaHQ/rasa_nlu": {
     "desc": "Rasa NLU (Natural Language Understanding) is a tool for understanding what is being said in short pieces of text",
     "name": "turn natural language into structured data",
