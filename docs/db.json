@@ -181,6 +181,16 @@
       "miniguide"
     ]
   },
+  "https://jvns.ca/blog/2018/04/16/new-perf-zine/": {
+    "desc": "Profiling & tracing with perf",
+    "name": "Profiling & tracing with perf",
+    "tags": [
+      "ezine",
+      "perf",
+      "network",
+      "comic"
+    ]
+  },
   "https://lethain.com//some-of-my-favorite-technical-papers/": {
     "desc": "Some of my favorite technical papers.",
     "name": "Some of my favorite technical papers.",
