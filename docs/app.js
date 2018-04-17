@@ -190,3 +190,15 @@ function start()
     load_data();
     //console.log(g_entries);
 }
+
+/*
+function App(){
+  return(
+  <div>
+	Yeeee!
+  </div>
+  );
+}
+		
+ReactDOM.render(<App />, document.getElementById('root'));
+*/
