@@ -170,14 +170,18 @@ class ResultLinks extends React.Component
           && e['desc'].toLowerCase().indexOf(searchTerm.toLowerCase()) !== -1
       });
 
+      let results = _.filter(entries, e => {
+        return e['name'].toLowerCase().indexOf(searchTerm.toLowerCase()) !== -1
+          || e['desc'].toLowerCase().indexOf(searchTerm.toLowerCase()) !== -1
+          || _.contains(e['tags'], searchTerm.toLowerCase())
+      });
+
       return (
         <div>
+          <span>{results.length} results [<a href="#" onClick={this.props.clickReset}>Reset</a>]</span>
+          <br/>
           <ul>
-          {_.map(_.filter(entries, e => {
-            return e['name'].toLowerCase().indexOf(searchTerm.toLowerCase()) !== -1
-              || e['desc'].toLowerCase().indexOf(searchTerm.toLowerCase()) !== -1
-              || _.contains(e['tags'], searchTerm.toLowerCase())
-          }), e =>
+          {_.map(results, e =>
             <ResultRow entry={e} />
           )}
           </ul>
@@ -205,6 +209,7 @@ class App extends React.Component
 
       this.handleChange = this.handleChange.bind(this);
       this.handleTagClick = this.handleTagClick.bind(this);
+      this.handleResetClick = this.handleResetClick.bind(this);
   }
 
   componentDidMount() {
@@ -229,6 +234,10 @@ class App extends React.Component
     this.setState({textSearch: tagName})
   }
 
+  handleResetClick(event) {
+    this.setState({ textSearch: '' });
+  }
+
   render() {
     const showText = validText(this.state.textSearch);
 
@@ -237,7 +246,7 @@ class App extends React.Component
       <InputSearch handleChange={this.handleChange} text={this.state.textSearch} />
       <br/><br/>
       <TagCloud tags={this.state.tags} show={!showText} onTagClick={this.handleTagClick} />
-      <ResultLinks searchTerm={this.state.textSearch} entries={this.state.entries} />
+      <ResultLinks searchTerm={this.state.textSearch} entries={this.state.entries} clickReset={this.handleResetClick} />
     </div>
     );
   }
