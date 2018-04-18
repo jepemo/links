@@ -1,53 +1,23 @@
 <html>
     <head>
         <title>Links</title>
-        <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+        <script type="application/javascript" src="https://unpkg.com/axios/dist/axios.min.js"></script>
+        <script type="application/javascript" src="http://underscorejs.org/underscore-min.js"></script>
         <script type="application/javascript" src="https://unpkg.com/react@16.3.2/umd/react.production.min.js"></script>
-		<script type="application/javascript" src="https://unpkg.com/react-dom@16.3.2/umd/react-dom.production.min.js"></script>
-		<script type="application/javascript" src="https://unpkg.com/babel-standalone@6.26.0/babel.js"></script>
+		    <script type="application/javascript" src="https://unpkg.com/react-dom@16.3.2/umd/react-dom.production.min.js"></script>
+		    <script type="application/javascript" src="https://unpkg.com/babel-standalone@6.26.0/babel.js"></script>
 
-        <link rel="stylesheet" href="main.css">
         <link href="https://fonts.googleapis.com/css?family=Inconsolata|Roboto+Mono" rel="stylesheet">
-        <style type="text/css">
-        .badge {
-            display: inline-block;
-            padding: .25em .4em;
-            font-size: 75%;
-            font-weight: 700;
-            line-height: 1;
-            text-align: center;
-            white-space: nowrap;
-            vertical-align: baseline;
-            border-radius: .25rem;
-            }
-            .badge-secondary {
-    color: #fff;
-    background-color: #6c757d;
-}
-
-h2 a:hover {
-color: #b1b1b1;
-}
-        </style>
+        <link rel="stylesheet" href="main.css">
     </head>
     <body>
         <div class="container">
             <div class="wrapper">
                 <h1>Links</h1>
-                <input id="textsearch" type="text" style="width:100%;"/>
-                <br/><br/>
-                <div class="home">
-                    <div id="links">
-                    </div>
-                </div>
+                <div id="root"></div>
             </div>
         </div>
 
-        <script src="app.js"></script>
-        <script type="text/javascript">
-            $(document).ready(start);
-        </script>
-        
-        <!--<script type="text/babel" src="app.js" />-->
+        <script type="text/babel" src="app.js" />
     </body>
 </html>
