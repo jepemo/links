@@ -17,18 +17,6 @@
 - [Machine Learning](#machine-learning)
   - [Theory](#ml_theory)
   - [NLP](#nlp)
-- [Python](#python)
-  - [Libraries](#python_lib)
-- [Web Architecture](#web-architecture)
-  - [Manuals](#wa_manuals)
-  - [Technical](#wa_tech)
-  - [Examples](#wa_examples)
-  - [Future](#wa_fut)
-- [Web Development](#web-development)
-  - [Tutorials](#web_tutorials)
-  - [React](#react)
-    - [Tutorials](#react_tutorials)
-  - [Resources](#web_resources)
 
 ## Cryptocurrencies
 
@@ -136,52 +124,4 @@ Bitcoin Bubble](https://www.nytimes.com/2018/01/16/magazine/beyond-the-bitcoin-b
   * [NLP tasks with various libraries](http://clarkgrubb.com/nlp)
   * [Handling natural languages in search](https://blog.algolia.com/natural-languages-in-search/)
 
-## Python
-  * [Creating a site preview like in slack (using aiohttp)](https://gearheart.io/blog/creating-a-site-preview-like-in-slack-using-aiohttp/)
-  * [From Python to Numpy](http://www.labri.fr/perso/nrougier/from-python-to-numpy/#id9)
-  * [MY PYTHON DEVELOPMENT ENVIRONMENT, 2018 EDITION](https://jacobian.org/writing/python-environment-2018/)
 
-<a name="python_lib"></a>
-### Libraries
-  * [**pendulum**: Python datetimes made easy](https://github.com/sdispater/pendulum)
-  * [**pipenv**: Python Development Workflow for Humans](https://github.com/pypa/pipenv)
-  * [**fire**: Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.](https://github.com/google/python-fire)
-
-## Web Architecture
-
-<a name="wa_examples"></a>
-### Examples
-  * [The architecture behind Skyscanner’s recommended destinations](https://medium.com/towards-data-science/write-the-code-f6d58c728df0)
-  * [Stream & Go: News Feeds for Over 300 Million End Users](https://stackshare.io/stream/stream-and-go-news-feeds-for-over-300-million-end-users)
-
-<a name="wa_tech"></a>
-### Technical
-  * [Concurrent Servers: Part 1 - Introduction](https://eli.thegreenplace.net/2017/concurrent-servers-part-1-introduction/)
-  * [Concurrent Servers: Part 2 - Threads](https://eli.thegreenplace.net/2017/concurrent-servers-part-2-threads/)
-  * [Concurrent Servers: Part 3 - Event-driven](https://eli.thegreenplace.net/2017/concurrent-servers-part-3-event-driven/)
-
-<a name="wa_fut"></a>
-### Future
-  * [BACK TO THE FUTURE: THE DECENTRALIZED WEB - A report by the Digital Currency Initiative and the Center for Civic Media](http://dci.mit.edu/decentralizedweb)
-
-<a name="wa_manuals"></a>
-### Manuals
-  * [Amazon Web Services — a practical guide](https://github.com/open-guides/og-aws)
-
-## Web Development
-
-<a name="web_tutorials"></a>
-### Tutorials
-  * [Study guide and introduction to the modern front end stack](https://github.com/grab/front-end-guide)
-  * [Modern JavaScript Tutorial](https://github.com/iliakan/javascript-tutorial-en)
-  * [Step-by-step tutorial to build a modern JavaScript stack.](https://github.com/verekia/js-stack-from-scratch)
-
-### React
-
-<a name="react_tutorials"></a>
-#### Tutorials
-  * [The SoundCloud Client in React + Redux](https://www.robinwieruch.de/the-soundcloud-client-in-react-redux/)
-
-<a name="web_resources"></a>
-### Resources
-  * [FREE SSL Web Certificate](https://letsencrypt.org)
