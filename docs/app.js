@@ -1,204 +1,255 @@
-/* --------------------- GLOBALS ---------------------- */
-var g_entries = []
-var g_tags = []
+/* -------------- STYLES ----------------------*/
+const inputStyle = {
+  width: '100%',
+  'border' : '0px solid',
+  'border-bottom': '1px dashed black'
+}
 
-/* --------------------- UTILS ---------------------- */
+/* ------------- UTILS ------------------------ */
+
 function capitalize(string) {
     return string.charAt(0).toUpperCase() + string.slice(1);
 }
 
-String.prototype.format = String.prototype.f = function() {
-    var s = this,
-        i = arguments.length;
-
-    while (i--) {
-        s = s.replace(new RegExp('\\{' + i + '\\}', 'gm'), arguments[i]);
-    }
-    return s;
-};
-
-
-/* --------------------- COMPONENTS ---------------------- */
-function get_str_tags(tags)
-{
-    var res = "";
-    for(var index in tags) {
-        res += "<div class=\"badge badge-secondary\">{0}</div>&nbsp;".format(tags[index]);
-    }
-    return res;
+function validText(text) {
+  return text != null
+    && text != ''
+    && text.length > 2
+    ;
 }
 
-function create_link(name, url, tags, desc)
+function get_entries(data)
 {
-    return `
-    <div>
-        <a href="{0}" target="_blank">
-            {1}
-        </a>
-    </div>
-    <div style=\"font-size:75%;\">
-        {2}
-    </div>
-    <div>{3}</div>
-    <hr/>
-`.format(url, name, desc, ""); //get_str_tags(tags));
-}
-
-function to_components(all_tags, entries)
-{
-    result = "";
-
-    /*
-    for (var iTag in all_tags) {
-        let sectionTag = tags[iTag];
-
-        result += "<a id=\"" + sectionTag + "\"><h2>" + sectionTag + "</h2></a>";
-    */
-        for(var index in entries)
-        {
-            let entry = entries[index];
-            let name = entry["name"];
-            let url = entry["url"];
-            let tags = entry["tags"];
-            let desc = entry["desc"];
-
-            //if ($.inArray(sectionTag, tags) >= 0) {
-                result += create_link(name, url, tags, desc);
-            //}
-        }
-    //}
-
-    return result;
-}
-
-function to_tag_links(tags)
-{
-    let content = "<div>";
-    let cols = 5;
-
-    let num=1;
-    for (var iTag in tags) {
-        let tag = tags[iTag];
-        content += `
-    <a href="#{0}">[{1}]</a>&nbsp;
-`.format(tag, tag);
-
-        if(num++ > cols) {
-            content +=" <br/>";
-            num = 1;
-        }
+  let id = 0;
+  return _.map(_.keys(data), url => {
+    let entry = data[url];
+    return {
+      id: ++id,
+      url: url,
+      name: capitalize(entry['name']),
+      desc: capitalize(entry['desc']),
+      tags: entry['tags'],
     }
-
-    return content + "</div><br/>";
-}
-
-/* --------------------- MODEL ---------------------- */
-function convert_entries(data)
-{
-    var ll = [];
-    var id = 0;
-    for (var key in data) {
-        const entry = data[key];
-        ll.push({
-            id: id,
-            url: key,
-            name: capitalize(entry['name']),
-            desc: capitalize(entry['desc']),
-            tags: entry['tags'],
-        });
-        id++;
-    }
-
-    return ll;
+  });
 }
 
 function get_tags(entries)
 {
-    all_tags = [];
-    for (var index in entries) {
-        let entry = entries[index];
-        let tags = entry["tags"];
-        for (var iTag in tags) {
-            let tag = tags[iTag];
-            if($.inArray(tag, all_tags) == -1) {
-                all_tags.push(tag);
-            }
-        }
-    }
+    var all_tags = [];
 
-    all_tags.sort();
+    _.each(entries, entry => {
+      let tags = entry["tags"];
+
+      _.each(tags, tag => {
+        if (_.findIndex(all_tags, e => e.name == tag) == -1) {
+          all_tags.push({'name': tag, 'count': 0});
+        }
+
+        const pos = _.findIndex(all_tags, e => e.name == tag);
+
+        all_tags[pos]['count']++;
+      });
+
+    });
+
+    all_tags = _.sortBy(all_tags,'count');
+    all_tags.reverse();
 
     return all_tags;
 }
 
-/* --------------------- COM ---------------------- */
-function load_data()
+/* --------------- COMPONENTS -----------------*/
+class Tag extends React.Component
 {
-    $.get( "https://jepemo.github.io/links/db.json", function( data ) {
+  constructor(props) {
+      super(props);
 
-      g_entries = convert_entries(data);
-      g_tags = get_tags(g_entries);
-      console.log("Entries loaded...");
+      this.handleClick = this.handleClick.bind(this);
+  }
 
-      load_text_box(g_entries, g_tags);
+  handleClick(event) {
+    this.props.onTagClick(event.target.id)
+  }
 
-      /*
-      components = "";
-      components += to_tag_links(tags);
-      components += to_components(tags, entries);
-
-      $("#links").html(components);
-      */
-    });
+  render() {
+    let style={
+      'font-size' : this.props.size + 'px',
+      'padding-right': '10px',
+      'display' : 'inline-block'
+    }
+    const name = this.props.name;
+    return (
+      <span style={style}><a href="#" id={name} onClick={this.handleClick}>{name}</a></span>
+    );
+  }
 }
 
-function load_text_box(g_entries, g_tags)
+class TagCloud extends React.Component
 {
-    $("#textsearch").keyup(function(event){
-        let text = $("#textsearch").val();
-        //console.log("input=" + text);
-        if(text.length > 3 &&  g_entries.length > 0) {
-            entries = []
-            for(var i in g_entries) {
-                entry = g_entries[i];
-                if(entry["name"].toLowerCase().indexOf(text.toLowerCase()) !== -1
-                    || entry["desc"].toLowerCase().indexOf(text.toLowerCase()) !== -1) {
-                    entries.push(entry);
-                }
-            }
+  constructor(props) {
+      super(props);
+  }
 
-            console.log(entries);
+  render() {
 
-            components = "";
-            components += to_tag_links([]);
-            components += to_components(g_tags, entries);
+    if (this.props.tags != null && this.props.tags.length > 0 && this.props.show) {
+      let minFont = 15;
+      let maxFont = 40;
+      let minCount = this.props.tags[this.props.tags.length-1]['count'];
+      let maxCount = this.props.tags[0]['count'];
+      let maxTags = this.props.tags.length; // 30
 
-            console.log(components);
-
-            $("#links").html(components);
+      let selTags = _.map(this.props.tags.slice(0, maxTags), e => {
+        const v = (maxFont - minFont) * ( ( e['count'] - minCount ) / ( maxCount - minCount ) ) + minFont;
+        return {
+          'name': e['name'],
+          'size': v
         }
-        /*
-        else {
-            console.log("There no data...");
-        }
-        */
-    });
+      });
+
+      return (
+        <div>
+          {selTags.map(tag =>
+            <Tag name={tag['name']} size={tag['size']} onTagClick={this.props.onTagClick} />
+          )}
+        </div>
+      );
+    } else {
+      return (
+        <div></div>
+      );
+    }
+  }
 }
 
-function start()
+TagCloud.defaultProps = {
+  'show': true,
+}
+
+class InputSearch extends React.Component
 {
-    load_data();
-    //console.log(g_entries);
+  render() {
+    return (
+      <div>
+      <input type="search" style={inputStyle} placeholder="Search" onChange={this.props.handleChange} value={this.props.text} />
+      </div>
+    );
+  }
 }
 
-/*
-function App(){
-  return(
-  <div>
-	Yeeee!
-  </div>
-  );
+InputSearch.defaultProps = {
+  'text': '',
 }
-		
+
+
+class ResultRow extends React.Component
+{
+    render() {
+      const entry = this.props.entry;
+      return (
+        <div>
+          <li>
+            <a href={entry.url} target="_blank">
+              <b>{entry.name}</b>: {entry.desc}
+            </a>
+          </li>
+        </div>
+      );
+    }
+}
+
+
+class ResultLinks extends React.Component
+{
+  render() {
+    const searchTerm = this.props.searchTerm;
+    const entries = this.props.entries
+    if (validText(searchTerm)) {
+      const filtered = _.filter(entries, e => {
+        return e['name'].toLowerCase().indexOf(searchTerm.toLowerCase()) !== -1
+          && e['desc'].toLowerCase().indexOf(searchTerm.toLowerCase()) !== -1
+      });
+
+      let results = _.filter(entries, e => {
+        return e['name'].toLowerCase().indexOf(searchTerm.toLowerCase()) !== -1
+          || e['desc'].toLowerCase().indexOf(searchTerm.toLowerCase()) !== -1
+          || _.contains(e['tags'], searchTerm.toLowerCase())
+      });
+
+      return (
+        <div>
+          <span>{results.length} results [<a href="#" onClick={this.props.clickReset}>Reset</a>]</span>
+          <br/>
+          <ul>
+          {_.map(results, e =>
+            <ResultRow entry={e} />
+          )}
+          </ul>
+        </div>
+      );
+    }
+    else {
+      return (
+        <div></div>
+      );
+    }
+  }
+}
+
+class App extends React.Component
+{
+  constructor(props) {
+      super(props);
+
+      this.state = {
+        entries: [],
+        tags: [],
+        textSearch: ''
+      };
+
+      this.handleChange = this.handleChange.bind(this);
+      this.handleTagClick = this.handleTagClick.bind(this);
+      this.handleResetClick = this.handleResetClick.bind(this);
+  }
+
+  componentDidMount() {
+    axios.get("https://jepemo.github.io/links/db.json")
+      .then(res => {
+        let data = res.data;
+        let entries = get_entries(data);
+        let tags = get_tags(entries);
+
+        this.setState({
+          entries: entries,
+          tags: tags
+        });
+      });
+  }
+
+  handleChange(event) {
+    this.setState({textSearch: event.target.value})
+  }
+
+  handleTagClick(tagName) {
+    this.setState({textSearch: tagName})
+  }
+
+  handleResetClick(event) {
+    this.setState({ textSearch: '' });
+  }
+
+  render() {
+    const showText = validText(this.state.textSearch);
+
+    return(
+    <div>
+      <InputSearch handleChange={this.handleChange} text={this.state.textSearch} />
+      <br/><br/>
+      <TagCloud tags={this.state.tags} show={!showText} onTagClick={this.handleTagClick} />
+      <ResultLinks searchTerm={this.state.textSearch} entries={this.state.entries} clickReset={this.handleResetClick} />
+    </div>
+    );
+  }
+}
+
 ReactDOM.render(<App />, document.getElementById('root'));
-*/

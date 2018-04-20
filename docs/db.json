@@ -4,7 +4,7 @@
     "name": "Minimal blog example",
     "tags": [
       "blog",
-      "minimalistic"
+      "tech"
     ]
   },
   "http://norvig.com/21-days.html": {
@@ -12,7 +12,7 @@
     "name": "Teach Yourself Programming in Ten Years",
     "tags": [
       "article",
-      "peternorving",
+      "teach",
       "programming"
     ]
   },
@@ -234,7 +234,6 @@
     "tags": [
       "blog",
       "programming",
-      "minimalistic",
       "oldskool"
     ]
   },
