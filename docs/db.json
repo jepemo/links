@@ -26,6 +26,15 @@
       "stanford"
     ]
   },
+  "http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/es/index.html": {
+    "desc": "Spanish tutorial about learning git with an analogy of a multiplayer game",
+    "name": "Git Magic",
+    "tags": [
+      "git",
+      "book",
+      "tutorial"
+    ]
+  },
   "http://www.linuxjournal.com/content/zfs-linux": {
     "desc": "Introduction & tutorial about ZFS in linux",
     "name": "ZFS for Linux",
@@ -357,6 +366,25 @@
       "filesystem",
       "technical",
       "article"
+    ]
+  },
+  "https://www.noisli.com/": {
+    "desc": "Configurable ambient sound",
+    "name": "Noisli ambient sound",
+    "tags": [
+      "sound",
+      "work",
+      "ambient"
+    ]
+  },
+  "https://www.tradingview.com/cryptocurrency-signals/": {
+    "desc": "Tradingview cryptocurrency signals dashboard",
+    "name": "Cryptocurrency signals",
+    "tags": [
+      "bitcoin",
+      "cryptocurrencies",
+      "signal",
+      "dashboard"
     ]
   }
 }
