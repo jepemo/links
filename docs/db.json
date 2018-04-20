@@ -7,6 +7,15 @@
       "tech"
     ]
   },
+  "http://dci.mit.edu/decentralizedweb": {
+    "desc": "BACK TO THE FUTURE: THE DECENTRALIZED WEB - A report by the Digital Currency Initiative and the Center for Civic Media",
+    "name": "BACK TO THE FUTURE: THE DECENTRALIZED WEB - A report by the Digital Currency Initiative and the Center for Civic Media",
+    "tags": [
+      "webarchitecture",
+      "future",
+      "article"
+    ]
+  },
   "http://norvig.com/21-days.html": {
     "desc": "Teach Yourself Programming in Ten Years",
     "name": "Teach Yourself Programming in Ten Years",
@@ -33,6 +42,16 @@
       "git",
       "book",
       "tutorial"
+    ]
+  },
+  "http://www.labri.fr/perso/nrougier/from-python-to-numpy/#id9": {
+    "desc": "From Python to Numpy",
+    "name": "From Python to Numpy",
+    "tags": [
+      "python",
+      "manual",
+      "book",
+      "vectorization"
     ]
   },
   "http://www.linuxjournal.com/content/zfs-linux": {
@@ -64,6 +83,30 @@
       "reference"
     ]
   },
+  "https://eli.thegreenplace.net/2017/concurrent-servers-part-1-introduction/": {
+    "desc": "Concurrent Servers: Part 1 - Introduction",
+    "name": "Concurrent Servers: Part 1 - Introduction",
+    "tags": [
+      "webarchitecture",
+      "technical"
+    ]
+  },
+  "https://eli.thegreenplace.net/2017/concurrent-servers-part-2-threads/": {
+    "desc": "Concurrent Servers: Part 2 - Threads",
+    "name": "Concurrent Servers: Part 2 - Threads",
+    "tags": [
+      "webarchitecture",
+      "technical"
+    ]
+  },
+  "https://eli.thegreenplace.net/2017/concurrent-servers-part-3-event-driven/": {
+    "desc": "Concurrent Servers: Part 3 - Event-driven",
+    "name": "Concurrent Servers: Part 3 - Event-driven",
+    "tags": [
+      "webarchitecture",
+      "technical"
+    ]
+  },
   "https://frontendmasters.com/books/front-end-handbook/2018/": {
     "desc": "Front-End Developer Handbook 2018",
     "name": "Front-End Developer Handbook 2018",
@@ -82,6 +125,15 @@
       "gameprogramming",
       "codioptimizations",
       "programming"
+    ]
+  },
+  "https://gearheart.io/blog/creating-a-site-preview-like-in-slack-using-aiohttp/": {
+    "desc": "https://gearheart.io/blog/creating-a-site-preview-like-in-slack-using-aiohttp/",
+    "name": "https://gearheart.io/blog/creating-a-site-preview-like-in-slack-using-aiohttp/",
+    "tags": [
+      "python",
+      "web",
+      "tutorial"
     ]
   },
   "https://github.com/RasaHQ/rasa_nlu": {
@@ -104,12 +156,38 @@
       "cryptocurrency"
     ]
   },
+  "https://github.com/google/python-fire": {
+    "desc": "fire: Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.",
+    "name": "fire: Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.",
+    "tags": [
+      "python",
+      "library"
+    ]
+  },
+  "https://github.com/grab/front-end-guide": {
+    "desc": "Study guide and introduction tothe modern front end stack",
+    "name": "Study guide and introduction to the modern front end stack",
+    "tags": [
+      "webdev",
+      "tutorials",
+      "guide"
+    ]
+  },
   "https://github.com/harpribot/awesome-information-retrieval": {
     "desc": "Curated list of information retrieval and web search resources from all around the web.",
     "name": "Awesome information retrieval",
     "tags": [
       "awesome-list",
       "informationretrieval"
+    ]
+  },
+  "https://github.com/iliakan/javascript-tutorial-en": {
+    "desc": "Modern javascript tutorial",
+    "name": "Modern javascript tutorial",
+    "tags": [
+      "webdev",
+      "tutorials",
+      "javascript"
     ]
   },
   "https://github.com/jwasham/coding-interview-university#pick-one-language-for-the-interview": {
@@ -143,6 +221,23 @@
       "it"
     ]
   },
+  "https://github.com/open-guides/og-aws": {
+    "desc": "Amazon Web Services \u2014 a practical guide",
+    "name": "Amazon Web Services \u2014 a practical guide",
+    "tags": [
+      "aws",
+      "webarchitecture",
+      "manuals"
+    ]
+  },
+  "https://github.com/pypa/pipenv": {
+    "desc": "pipenv: Python Development Workflow for Humans",
+    "name": "pipenv: Python Development Workflow for Humans",
+    "tags": [
+      "python",
+      "library"
+    ]
+  },
   "https://github.com/rby90/Project-Based-Tutorials-in-C": {
     "desc": "A curated list of project-based tutorials in C",
     "name": "Project based tutorials in C",
@@ -153,12 +248,29 @@
       "examples"
     ]
   },
+  "https://github.com/sdispater/pendulum": {
+    "desc": "pendulum: Python datetimes made easy",
+    "name": "pendulum: Python datetimes made easy",
+    "tags": [
+      "python",
+      "library"
+    ]
+  },
   "https://github.com/tombusby/cypherpunk-research": {
     "desc": "This repository is essentially for compiling information about Cypherpunks, the history of the movement, and the people/events of note.",
     "name": "Cypherpunk Research",
     "tags": [
       "cypherpunk",
       "awesome-list"
+    ]
+  },
+  "https://github.com/verekia/js-stack-from-scratch": {
+    "desc": "Step-by-step tutorial to build a modern JavaScript stack.",
+    "name": "Step-by-step tutorial to build a modern JavaScript stack.",
+    "tags": [
+      "webdev",
+      "tutorials",
+      "javascript"
     ]
   },
   "https://github.com/wimvanderbauwhede/limited-systems/wiki/Hacking-the-Pleroma:-Elixir,-Phoenix-and-a-bit-of-ActivityPub": {
@@ -179,6 +291,14 @@
       "dataanalysis",
       "machinelearning",
       "projects"
+    ]
+  },
+  "https://jacobian.org/writing/python-environment-2018/": {
+    "desc": "MY PYTHON DEVELOPMENT ENVIRONMENT, 2018 EDITION",
+    "name": "MY PYTHON DEVELOPMENT ENVIRONMENT, 2018 EDITION",
+    "tags": [
+      "python",
+      "environment"
     ]
   },
   "https://jvns.ca/blog/2018/03/05/things-ive-learned-networking/": {
@@ -209,6 +329,15 @@
       "computerscience"
     ]
   },
+  "https://letsencrypt.org/": {
+    "desc": "Free, automated and open certificate authority",
+    "name": "FREE SSL Web Certificate",
+    "tags": [
+      "webdev",
+      "resources",
+      "ssl"
+    ]
+  },
   "https://medium.com/startup-grind/what-every-software-engineer-should-know-about-search-27d1df99f80d": {
     "desc": "Want to build or improve a search experience? Start here.",
     "name": "What every software engineer should know about search",
@@ -226,6 +355,14 @@
       "backend",
       "developer",
       "roadmap"
+    ]
+  },
+  "https://medium.com/towards-data-science/write-the-code-f6d58c728df0": {
+    "desc": "The architecture behind Skyscanner\u2019s recommended destinations",
+    "name": "The architecture behind Skyscanner\u2019s recommended destinations",
+    "tags": [
+      "webarchitecture",
+      "examples"
     ]
   },
   "https://monades.roperzh.com/": {
@@ -312,6 +449,16 @@
       "protocol"
     ]
   },
+  "https://stackshare.io/stream/stream-and-go-news-feeds-for-over-300-million-end-users": {
+    "desc": "Stream & Go: News Feeds for Over 300 Million End Users",
+    "name": "Stream & Go: News Feeds for Over 300 Million End Users",
+    "tags": [
+      "webarchitecture",
+      "examples",
+      "stream",
+      "golang"
+    ]
+  },
   "https://withintent.uncorkedstudios.com/inside-el-paquete-cubas-social-network-2fa6c99660ee": {
     "desc": "Inside El Paquete, Cuba\u2019s Social Network",
     "name": "Inside El Paquete, Cuba\u2019s Social Network",
@@ -374,6 +521,15 @@
       "sound",
       "work",
       "ambient"
+    ]
+  },
+  "https://www.robinwieruch.de/the-soundcloud-client-in-react-redux/": {
+    "desc": "The soundcloud client in react + redux",
+    "name": "The soundcloud client in react + redux",
+    "tags": [
+      "webdev",
+      "react",
+      "tutorial"
     ]
   },
   "https://www.tradingview.com/cryptocurrency-signals/": {
