@@ -128,8 +128,8 @@
     ]
   },
   "https://gearheart.io/blog/creating-a-site-preview-like-in-slack-using-aiohttp/": {
-    "desc": "https://gearheart.io/blog/creating-a-site-preview-like-in-slack-using-aiohttp/",
-    "name": "https://gearheart.io/blog/creating-a-site-preview-like-in-slack-using-aiohttp/",
+    "desc": "Creating a site preview like in slack (using aiohttp)",
+    "name": "Creating a site preview like in slack (using aiohttp)",
     "tags": [
       "python",
       "web",
