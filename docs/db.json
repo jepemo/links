@@ -459,6 +459,15 @@
       "golang"
     ]
   },
+  "https://tomassetti.me/guide-parsing-algorithms-terminology/": {
+    "desc": "in-depth presentation of the concepts and algorithms used in parsing",
+    "name": "A Guide to Parsing: Algorithms and Terminology",
+    "tags": [
+      "parsing",
+      "guide",
+      "algorithm"
+    ]
+  },
   "https://withintent.uncorkedstudios.com/inside-el-paquete-cubas-social-network-2fa6c99660ee": {
     "desc": "Inside El Paquete, Cuba\u2019s Social Network",
     "name": "Inside El Paquete, Cuba\u2019s Social Network",
