@@ -146,6 +146,15 @@
       "tutorial"
     ]
   },
+  "https://github.com/GetStoryline/awesome-bots": {
+    "desc": "Awesome bots",
+    "name": "awesome-bots",
+    "tags": [
+      "awesome-list",
+      "chatbot",
+      "nlp"
+    ]
+  },
   "https://github.com/RasaHQ/rasa_nlu": {
     "desc": "Rasa NLU (Natural Language Understanding) is a tool for understanding what is being said in short pieces of text",
     "name": "turn natural language into structured data",
