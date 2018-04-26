@@ -2,6 +2,8 @@
 all:
 	@echo "type make publish"
 
+update:
+	git pull origin master
 view:
 	cd docs
 	python -m SimpleHTTPServer 8000

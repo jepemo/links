@@ -64,6 +64,16 @@
       "tutorial"
     ]
   },
+  "https://blog.jooq.org/2016/07/04/how-functional-programming-will-finally-do-away-with-the-gof-patterns/": {
+    "desc": "Revision functional programming compartinf gof pattern",
+    "name": "How Functional Programming will (Finally) do Away With the GoF Patterns",
+    "tags": [
+      "article",
+      "functional-programming",
+      "pattern",
+      "gof"
+    ]
+  },
   "https://bluxte.net/musings/2018/04/10/go-good-bad-ugly/": {
     "desc": "Go: the Good, the Bad and the Ugly",
     "name": "Go: the Good, the Bad and the Ugly",
