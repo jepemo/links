@@ -450,6 +450,17 @@
       "linux"
     ]
   },
+  "https://ordepdev.me/posts/what-you-should-know-about-database-storage-and-retrieval": {
+    "desc": "List of papers about databases",
+    "name": "What you should know about database storage and retrieval",
+    "tags": [
+      "databases",
+      "retrieval",
+      "theory",
+      "papers",
+      "article"
+    ]
+  },
   "https://pudding.cool/2018/02/waveforms/": {
     "desc": "Interactive guide that introduce waveforms",
     "name": "WaveForms",
