@@ -12,12 +12,7 @@
 - [Distributed Systems](#distributed-systems)
   - [Theory](#ds_theory)
   - [Design and Implementation](#ds_design_impl)
-- [Game Programming](#game-programming)
-  - [Tutorials](#game_prog_tutorials)
-- [Machine Learning](#machine-learning)
-  - [Theory](#ml_theory)
-  - [NLP](#nlp)
-
+  
 ## Cryptocurrencies
 
 *All about cryptocurrencies.*
