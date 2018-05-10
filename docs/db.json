@@ -7,6 +7,16 @@
       "tech"
     ]
   },
+  "http://clarkgrubb.com/nlp": {
+    "desc": "NLP tasks with various libraries",
+    "name": "NLP tasks with various libraries",
+    "tags": [
+      "nlp",
+      "libraries",
+      "blog",
+      "howto"
+    ]
+  },
   "http://dci.mit.edu/decentralizedweb": {
     "desc": "BACK TO THE FUTURE: THE DECENTRALIZED WEB - A report by the Digital Currency Initiative and the Center for Civic Media",
     "name": "BACK TO THE FUTURE: THE DECENTRALIZED WEB - A report by the Digital Currency Initiative and the Center for Civic Media",
@@ -62,6 +72,14 @@
       "linux",
       "article",
       "tutorial"
+    ]
+  },
+  "https://blog.algolia.com/natural-languages-in-search/": {
+    "desc": "Handling natural languages in search",
+    "name": "Handling natural languages in search",
+    "tags": [
+      "nlp",
+      "search"
     ]
   },
   "https://blog.jooq.org/2016/07/04/how-functional-programming-will-finally-do-away-with-the-gof-patterns/": {
@@ -367,6 +385,15 @@
       "ssl"
     ]
   },
+  "https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12": {
+    "desc": "Machine learning for humans",
+    "name": "Machine learning for humans",
+    "tags": [
+      "101",
+      "introduction",
+      "machinelearning"
+    ]
+  },
   "https://medium.com/startup-grind/what-every-software-engineer-should-know-about-search-27d1df99f80d": {
     "desc": "Want to build or improve a search experience? Start here.",
     "name": "What every software engineer should know about search",
@@ -506,6 +533,14 @@
       "parsing",
       "guide",
       "algorithm"
+    ]
+  },
+  "https://tryolabs.com/blog/2017/08/10/finding-the-right-representation-for-your-nlp-data/": {
+    "desc": "Finding the right representation for your NLP data",
+    "name": "Finding the right representation for your NLP data",
+    "tags": [
+      "nlp",
+      "practical"
     ]
   },
   "https://withintent.uncorkedstudios.com/inside-el-paquete-cubas-social-network-2fa6c99660ee": {
