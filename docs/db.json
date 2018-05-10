@@ -74,6 +74,25 @@
       "tutorial"
     ]
   },
+  "https://bitbucket.org/MartinFelis/love-android-sdl2/": {
+    "desc": "Love2d Android Bitbucket",
+    "name": "Love2d Android Bitbucket",
+    "tags": [
+      "gameprogramming",
+      "love2d",
+      "android",
+      "packaging"
+    ]
+  },
+  "https://bitbucket.org/npinochet/love-android-sdl2/commits/all": {
+    "desc": "Love2d Adnroid Fork. With ads?",
+    "name": "Love2d Adnroid Fork. With ads?",
+    "tags": [
+      "gameprogramming",
+      "android",
+      "love2d"
+    ]
+  },
   "https://blog.algolia.com/natural-languages-in-search/": {
     "desc": "Handling natural languages in search",
     "name": "Handling natural languages in search",
@@ -171,6 +190,15 @@
       "awesome-list",
       "chatbot",
       "nlp"
+    ]
+  },
+  "https://github.com/LisaDziuba/Marketing-for-Engineers": {
+    "desc": "Marketing for Engineers",
+    "name": "Marketing for Engineers",
+    "tags": [
+      "gameprogramming",
+      "tutorials",
+      "marketing"
     ]
   },
   "https://github.com/RasaHQ/rasa_nlu": {
@@ -385,6 +413,16 @@
       "ssl"
     ]
   },
+  "https://love2d.org/forums/viewtopic.php?t=82166": {
+    "desc": "Android Admob and Google Play Game Services Support",
+    "name": "Android Admob and Google Play Game Services Support",
+    "tags": [
+      "gameprogramming",
+      "packaging",
+      "love2d",
+      "android"
+    ]
+  },
   "https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12": {
     "desc": "Machine learning for humans",
     "name": "Machine learning for humans",
@@ -486,6 +524,15 @@
       "theory",
       "papers",
       "article"
+    ]
+  },
+  "https://pragprog.com/magazines/2013-05/a-functional-introduction-to-lua": {
+    "desc": "Creating Some Fireworks with Lua",
+    "name": "Creating Some Fireworks with Lua",
+    "tags": [
+      "gameprogramming",
+      "lua",
+      "tutorial"
     ]
   },
   "https://pudding.cool/2018/02/waveforms/": {
