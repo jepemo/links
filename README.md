@@ -100,28 +100,4 @@ Bitcoin Bubble](https://www.nytimes.com/2018/01/16/magazine/beyond-the-bitcoin-b
 * [Go, for Distributed Systems](https://talks.golang.org/2013/distsys.slide#1)
 * [Designing Distributed Systems](files/Designing_Distributed_Systems.pdf)
 
-## Game programming
-
-<a name="game_prog_tutorials"></a>
-### Tutorials
-  * [Creating Some Fireworks with Lua](https://pragprog.com/magazines/2013-05/a-functional-introduction-to-lua)
-  * [Marketing for Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers)
-
-### Packaging
-  * [Love2d Android Bitbucket](https://bitbucket.org/MartinFelis/love-android-sdl2/)
-  * [Love2d Adnroid Fork. With ads?](https://bitbucket.org/npinochet/love-android-sdl2/commits/all)
-  * [Admob Interstitial ad - LÖVE-Android](https://www.love2d.org/forums/viewtopic.php?f=11&t=81224%20I)
-  * [Android Admob and Google Play Game Services Support](https://love2d.org/forums/viewtopic.php?t=82166)
-
-## Machine Learning
-
-<a name="ml_theory"></a>
-### Theory
-  * [Machine learning for humans](https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12)
-
-### NLP
-  * [Finding the right representation for your NLP data](https://tryolabs.com/blog/2017/08/10/finding-the-right-representation-for-your-nlp-data/)
-  * [NLP tasks with various libraries](http://clarkgrubb.com/nlp)
-  * [Handling natural languages in search](https://blog.algolia.com/natural-languages-in-search/)
-
 
