@@ -573,6 +573,16 @@
       "golang"
     ]
   },
+  "https://talks.golang.org/2013/distsys.slide#1": {
+    "desc": "Go, for Distributed Systems",
+    "name": "Go, for Distributed Systems",
+    "tags": [
+      "golang",
+      "implementation",
+      "design",
+      "distributedsystems"
+    ]
+  },
   "https://tomassetti.me/guide-parsing-algorithms-terminology/": {
     "desc": "in-depth presentation of the concepts and algorithms used in parsing",
     "name": "A Guide to Parsing: Algorithms and Terminology",

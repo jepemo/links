@@ -12,7 +12,7 @@
 - [Distributed Systems](#distributed-systems)
   - [Theory](#ds_theory)
   - [Design and Implementation](#ds_design_impl)
-  
+
 ## Cryptocurrencies
 
 *All about cryptocurrencies.*
@@ -92,7 +92,4 @@ Bitcoin Bubble](https://www.nytimes.com/2018/01/16/magazine/beyond-the-bitcoin-b
 <a name="ds_design_impl"></a>
 ### Design and Implementation
 * [Designing a search system for log data — part 1](http://www.philipotoole.com/designing-a-search-system-for-log-data-part-i/)
-* [Go, for Distributed Systems](https://talks.golang.org/2013/distsys.slide#1)
 * [Designing Distributed Systems](files/Designing_Distributed_Systems.pdf)
-
-
