@@ -35,6 +35,23 @@
       "programming"
     ]
   },
+  "http://pages.cs.wisc.edu/~remzi/OSTEP/": {
+    "desc": "Operating Systems: Three Easy Pieces",
+    "name": "Operating Systems: Three Easy Pieces",
+    "tags": [
+      "distributedsystems",
+      "theory",
+      "os"
+    ]
+  },
+  "http://videlalvaro.github.io/2015/12/learning-about-distributed-systems.html": {
+    "desc": "What We Talk About When We Talk About Distributed Systems",
+    "name": "What We Talk About When We Talk About Distributed Systems",
+    "tags": [
+      "distributedsystems",
+      "theory"
+    ]
+  },
   "http://web.stanford.edu/class/cs276/": {
     "desc": "MOOC about information retrieval and web search",
     "name": "CS 276 / LING 286: Information Retrieval and Web Search",
@@ -74,6 +91,16 @@
       "tutorial"
     ]
   },
+  "http://www.philipotoole.com/designing-a-search-system-for-log-data-part-i/": {
+    "desc": "Designing a search system for log data \u2014 part 1",
+    "name": "Designing a search system for log data \u2014 part 1",
+    "tags": [
+      "distributedsystems",
+      "log",
+      "design",
+      "implementation"
+    ]
+  },
   "https://bitbucket.org/MartinFelis/love-android-sdl2/": {
     "desc": "Love2d Android Bitbucket",
     "name": "Love2d Android Bitbucket",
@@ -109,6 +136,14 @@
       "functional-programming",
       "pattern",
       "gof"
+    ]
+  },
+  "https://blog.separateconcerns.com/2015-07-07-four-easy-reads-distsys.html": {
+    "desc": "Four easy reads to understand distributed systems issues",
+    "name": "Four easy reads to understand distributed systems issues",
+    "tags": [
+      "distributedsystems",
+      "theory"
     ]
   },
   "https://bluxte.net/musings/2018/04/10/go-good-bad-ugly/": {
@@ -152,6 +187,15 @@
     "tags": [
       "webarchitecture",
       "technical"
+    ]
+  },
+  "https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying": {
+    "desc": "The Log: What every software engineer should know about real-time data's unifying abstraction",
+    "name": "The Log: What every software engineer should know about real-time data's unifying abstraction",
+    "tags": [
+      "distributedsystems",
+      "theory",
+      "log"
     ]
   },
   "https://frontendmasters.com/books/front-end-handbook/2018/": {
@@ -321,6 +365,14 @@
       "library"
     ]
   },
+  "https://github.com/theanalyst/awesome-distributed-systems": {
+    "desc": "A curated list to learn about distributed systems",
+    "name": "A curated list to learn about distributed systems",
+    "tags": [
+      "distributedsystems",
+      "theory"
+    ]
+  },
   "https://github.com/tombusby/cypherpunk-research": {
     "desc": "This repository is essentially for compiling information about Cypherpunks, the history of the movement, and the people/events of note.",
     "name": "Cypherpunk Research",
@@ -356,6 +408,16 @@
       "dataanalysis",
       "machinelearning",
       "projects"
+    ]
+  },
+  "https://grothoff.org/christian/habil.pdf": {
+    "desc": "GNUNET Paper",
+    "name": "GNUNET Paper",
+    "tags": [
+      "distributedsystems",
+      "gnunet",
+      "paper",
+      "theory"
     ]
   },
   "https://increment.com/programming-languages/crash-course-in-compilers/": {
