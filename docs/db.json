@@ -1,4 +1,22 @@
 {
+  "http://akumuli.org/akumuli/2017/04/29/nbplustree/": {
+    "desc": "Storage engine design(Part 1)",
+    "name": "Storage engine design(Part 1)",
+    "tags": [
+      "databases",
+      "design",
+      "implementation"
+    ]
+  },
+  "http://akumuli.org/akumuli/2017/08/01/storage-engine-design2/": {
+    "desc": "Storage engine design(Part 2)",
+    "name": "Storage engine design(Part 2)",
+    "tags": [
+      "databases",
+      "design",
+      "implementation"
+    ]
+  },
   "http://aliceinwire.net/": {
     "desc": "Minimal blog example",
     "name": "Minimal blog example",
@@ -69,6 +87,15 @@
       "git",
       "book",
       "tutorial"
+    ]
+  },
+  "http://www.dbms2.com/2015/04/16/notes-on-indexes-and-index-like-structures/": {
+    "desc": "Notes on indexes and index-like structures",
+    "name": "Notes on indexes and index-like structures",
+    "tags": [
+      "databases",
+      "design",
+      "implementation"
     ]
   },
   "http://www.labri.fr/perso/nrougier/from-python-to-numpy/#id9": {
@@ -556,6 +583,15 @@
       "nlp",
       "topicmodeling",
       "guide"
+    ]
+  },
+  "https://nosql.zeef.com/stefan.edlich": {
+    "desc": "NoSQL Database List",
+    "name": "NoSQL Database List",
+    "tags": [
+      "databases",
+      "examples",
+      "nosql"
     ]
   },
   "https://numaverse.com/": {

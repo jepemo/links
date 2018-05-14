@@ -7,8 +7,6 @@
   - [Trading](#trading)
 - [Databases](#databases)
   - [Theory](#databases_theory)
-  - [Design and Implementation](#databases_design_impl)
-  - [Examples](#databases_examples)
 
 ## Cryptocurrencies
 
@@ -64,14 +62,3 @@ Bitcoin Bubble](https://www.nytimes.com/2018/01/16/magazine/beyond-the-bitcoin-b
 * [CMU 15-721 (SPRING 2016) Database Systems](http://15721.courses.cs.cmu.edu/spring2016/)
 * [CMU 15-721 (SPRING 2017) Advanced Database Systems](http://15721.courses.cs.cmu.edu/spring2017/)
 * [Readings in Database Systems, 5th Edition](http://www.redbook.io/index.html)
-
-<a name="databases_design_impl"></a>
-### Design and Implementation
-* [Notes on indexes and index-like structures](http://www.dbms2.com/2015/04/16/notes-on-indexes-and-index-like-structures/)
-* [Storage engine design(Part 1)](http://akumuli.org/akumuli/2017/04/29/nbplustree/)
-* [Storage engine design(Part 2)](http://akumuli.org/akumuli/2017/08/01/storage-engine-design2/)
-
-<a name="databases_examples"></a>
-### Examples
-* [NoSQL Database List](https://nosql.zeef.com/stefan.edlich)
-
