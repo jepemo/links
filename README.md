@@ -5,14 +5,8 @@
   - [Prepare and install](#prepare-and-install)
   - [Stats](#stats)
   - [Trading](#trading)
-- [Databases](#databases)
-  - [Theory](#databases_theory)
 
 ## Cryptocurrencies
-
-*All about cryptocurrencies.*
-
-[awesome-cryptocurrency](https://github.com/cmahon/awesome-cryptocurrency)
 
 <a name="crypto_read"></a>
 ### Read
@@ -53,12 +47,3 @@ Bitcoin Bubble](https://www.nytimes.com/2018/01/16/magazine/beyond-the-bitcoin-b
   * [I would like to learn algo trading. Where should I start?](https://www.quora.com/I-would-like-to-learn-algo-trading-Where-should-I-start)
   * [Top 15 Altcoins for Long Term Hold (Part I - The First 5)](https://www.tradingview.com/chart/BTCUSD/d5ttTGGF-Top-15-Altcoins-for-Long-Term-Hold-Part-I-The-First-5/?utm_source=notification_email&utm_medium=email&utm_campaign=notification_follower_idea_update)
   * [Trading Strategy 101 – Understanding Cryptocurrency Volume](https://steemit.com/bitcoin/@vhmcrypto/trading-strategy-101-understanding-cryptocurrency-volume)
-
-## Databases
-
-<a name="databases_theory"></a>
-### Theory
-* [Readings in Databases](https://github.com/rxin/db-readings)
-* [CMU 15-721 (SPRING 2016) Database Systems](http://15721.courses.cs.cmu.edu/spring2016/)
-* [CMU 15-721 (SPRING 2017) Advanced Database Systems](http://15721.courses.cs.cmu.edu/spring2017/)
-* [Readings in Database Systems, 5th Edition](http://www.redbook.io/index.html)

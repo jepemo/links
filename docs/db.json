@@ -1,4 +1,20 @@
 {
+  "http://15721.courses.cs.cmu.edu/spring2016/": {
+    "desc": "CMU 15-721 (SPRING 2016) Database Systems",
+    "name": "CMU 15-721 (SPRING 2016) Database Systems",
+    "tags": [
+      "databases",
+      "theory"
+    ]
+  },
+  "http://15721.courses.cs.cmu.edu/spring2017/": {
+    "desc": "CMU 15-721 (SPRING 2017) Advanced Database Systems",
+    "name": "CMU 15-721 (SPRING 2017) Advanced Database Systems",
+    "tags": [
+      "databases",
+      "theory"
+    ]
+  },
   "http://akumuli.org/akumuli/2017/04/29/nbplustree/": {
     "desc": "Storage engine design(Part 1)",
     "name": "Storage engine design(Part 1)",
@@ -126,6 +142,14 @@
       "log",
       "design",
       "implementation"
+    ]
+  },
+  "http://www.redbook.io/index.html": {
+    "desc": "Readings in Database Systems, 5th Edition",
+    "name": "Readings in Database Systems, 5th Edition",
+    "tags": [
+      "databases",
+      "theory"
     ]
   },
   "https://bitbucket.org/MartinFelis/love-android-sdl2/": {
@@ -382,6 +406,14 @@
       "projects",
       "sourcecode",
       "examples"
+    ]
+  },
+  "https://github.com/rxin/db-readings": {
+    "desc": "Readings in Databases",
+    "name": "Readings in Databases",
+    "tags": [
+      "databases",
+      "theory"
     ]
   },
   "https://github.com/sdispater/pendulum": {
