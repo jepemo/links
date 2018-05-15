@@ -3,8 +3,6 @@
 - [Cryptocurrencies](#cryptocurrencies)
   - [Read](#crypto_read)
   - [Prepare and install](#prepare-and-install)
-  - [Stats](#stats)
-  - [Trading](#trading)
 
 ## Cryptocurrencies
 
@@ -28,22 +26,3 @@ Bitcoin Bubble](https://www.nytimes.com/2018/01/16/magazine/beyond-the-bitcoin-b
   * [Coincontrol: Python Bot Trader](https://github.com/jakubroztocil/cointrol)
   * [How to get started mining crypto on Linux with Nvidia](https://www.linuxserver.io/2017/12/17/how-to-get-started-mining-crypto-on-linux-with-nvidia/)
 
-### Stats
-  * [CryptoCurrency Market Capitalizations](https://coinmarketcap.com) - Show the historical values of the cryptocurrencies.
-  * [**Trading SIGNALS**](https://www.tradingview.com/cryptocurrency-signals/)
-
-### Trading
-  * [The Best Bitcoin Trading Strategy – 5 Easy Steps to Profit](http://www.tradingstrategyguides.com/best-bitcoin-trading-strategy/)
-  * [Bitcoin Trading Guide](https://www.buybitcoinworldwide.com/trading/)
-  * [Tutorial – Altcoin Flipping (Cryptocurrency Trading Strategies That Always Win)](https://www.deepdotweb.com/2017/04/30/tutorial-altcoin-flipping-cryptocurrency-trading-strategies-always-win/)
-  * [5 Easy Steps For Bitcoin Trading For Profit and Beginners](https://www.weusecoins.com/bitcoin-trading/)
-  * [The Complete Newbie’s Guide to Trading Bitcoins](https://99bitcoins.com/newbies-guide-trading-bitcoins/)
-  * [A Boring Investor’s Guide to Cryptocurrency Investing](https://www.reddit.com/r/CryptoCurrency/comments/6l130v/a_boring_investors_guide_to_cryptocurrency/)
-  * [Bitcoin Trading – The Ultimate Guide](http://www.forexnews.com/bitcoin-trading/)
-  * [First CryptoIndex](https://www.bitwiseinvestments.com/index)
-  * [Plataforma de Trading](https://www.coinigy.com/)
-  * [Top 25 Cryptocurrency Exchanges of 2017](https://blockexplorer.com/news/top-25-cryptocurrency-exchanges-2017/)
-  * [**Trading Cryptocurrency in 2018: The Definitive Guide**](https://chainoperator.com/cryptocurrency-trading-guide/)
-  * [I would like to learn algo trading. Where should I start?](https://www.quora.com/I-would-like-to-learn-algo-trading-Where-should-I-start)
-  * [Top 15 Altcoins for Long Term Hold (Part I - The First 5)](https://www.tradingview.com/chart/BTCUSD/d5ttTGGF-Top-15-Altcoins-for-Long-Term-Hold-Part-I-The-First-5/?utm_source=notification_email&utm_medium=email&utm_campaign=notification_follower_idea_update)
-  * [Trading Strategy 101 – Understanding Cryptocurrency Volume](https://steemit.com/bitcoin/@vhmcrypto/trading-strategy-101-understanding-cryptocurrency-volume)

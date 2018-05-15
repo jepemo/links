@@ -114,6 +114,14 @@
       "implementation"
     ]
   },
+  "http://www.forexnews.com/bitcoin-trading/": {
+    "desc": "Bitcoin Trading \u2013 The Ultimate Guide",
+    "name": "Bitcoin Trading \u2013 The Ultimate Guide",
+    "tags": [
+      "cryptocurrencies",
+      "trading"
+    ]
+  },
   "http://www.labri.fr/perso/nrougier/from-python-to-numpy/#id9": {
     "desc": "From Python to Numpy",
     "name": "From Python to Numpy",
@@ -171,6 +179,14 @@
       "love2d"
     ]
   },
+  "https://blockexplorer.com/news/top-25-cryptocurrency-exchanges-2017/": {
+    "desc": "Top 25 Cryptocurrency Exchanges of 2017",
+    "name": "Top 25 Cryptocurrency Exchanges of 2017",
+    "tags": [
+      "cryptocurrencies",
+      "trading"
+    ]
+  },
   "https://blog.algolia.com/natural-languages-in-search/": {
     "desc": "Handling natural languages in search",
     "name": "Handling natural languages in search",
@@ -204,6 +220,22 @@
       "golang",
       "programming",
       "language"
+    ]
+  },
+  "https://chainoperator.com/cryptocurrency-trading-guide/": {
+    "desc": "Trading Cryptocurrency in 2018: The Definitive Guide",
+    "name": "Trading Cryptocurrency in 2018: The Definitive Guide",
+    "tags": [
+      "cryptocurrencies",
+      "trading"
+    ]
+  },
+  "https://coinmarketcap.com": {
+    "desc": "Show the historical values of the cryptocurrencies",
+    "name": "CryptoCurrency Market Capitalizations",
+    "tags": [
+      "cryptocurrencies",
+      "stats"
     ]
   },
   "https://diaspora.github.io/diaspora_federation/index.html": {
@@ -703,6 +735,14 @@
       "golang"
     ]
   },
+  "https://steemit.com/bitcoin/@vhmcrypto/trading-strategy-101-understanding-cryptocurrency-volume": {
+    "desc": "Trading Strategy 101 \u2013 Understanding Cryptocurrency Volume",
+    "name": "Trading Strategy 101 \u2013 Understanding Cryptocurrency Volume",
+    "tags": [
+      "cryptocurrencies",
+      "trading"
+    ]
+  },
   "https://talks.golang.org/2013/distsys.slide#1": {
     "desc": "Go, for Distributed Systems",
     "name": "Go, for Distributed Systems",
@@ -737,6 +777,14 @@
       "article",
       "hacktivism",
       "cuba"
+    ]
+  },
+  "https://www.bitwiseinvestments.com/index": {
+    "desc": "First CryptoIndex",
+    "name": "First CryptoIndex",
+    "tags": [
+      "cryptocurrencies",
+      "trading"
     ]
   },
   "https://www.inqdo.com/aws-explained-the-basics/?lang=en": {
@@ -792,6 +840,14 @@
       "sound",
       "work",
       "ambient"
+    ]
+  },
+  "https://www.reddit.com/r/CryptoCurrency/comments/6l130v/a_boring_investors_guide_to_cryptocurrency/": {
+    "desc": "A Boring Investor\u2019s Guide to Cryptocurrency Investing",
+    "name": "A Boring Investor\u2019s Guide to Cryptocurrency Investing",
+    "tags": [
+      "cryptocurrencies",
+      "trading"
     ]
   },
   "https://www.robinwieruch.de/the-soundcloud-client-in-react-redux/": {
