@@ -725,6 +725,14 @@
       "softwarecompany"
     ]
   },
+  "https://queue.acm.org/detail.cfm?id=3220266": {
+    "desc": "Algorithms Behind Modern Storage Systems",
+    "name": "Algorithms Behind Modern Storage Systems",
+    "tags": [
+      "databases",
+      "algorithm"
+    ]
+  },
   "https://raw.githubusercontent.com/w3c/activitypub/gh-pages/activitypub-tutorial.txt": {
     "desc": "Simple Activitypub tutorial example",
     "name": "ActivityPub tutorial",
