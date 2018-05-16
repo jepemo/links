@@ -735,6 +735,14 @@
       "protocol"
     ]
   },
+  "https://realpython.com/python-data-classes/": {
+    "desc": "The Ultimate Guide to Data Classes in Python 3.7",
+    "name": "The Ultimate Guide to Data Classes in Python 3.7",
+    "tags": [
+      "python",
+      "advanced"
+    ]
+  },
   "https://stackshare.io/stream/stream-and-go-news-feeds-for-over-300-million-end-users": {
     "desc": "Stream & Go: News Feeds for Over 300 Million End Users",
     "name": "Stream & Go: News Feeds for Over 300 Million End Users",

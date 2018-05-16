@@ -2,7 +2,6 @@
 
 - [Cryptocurrencies](#cryptocurrencies)
   - [Read](#crypto_read)
-  - [Prepare and install](#prepare-and-install)
 
 ## Cryptocurrencies
 
@@ -21,8 +20,4 @@
   * [Beyond the
 Bitcoin Bubble](https://www.nytimes.com/2018/01/16/magazine/beyond-the-bitcoin-bubble.html)
   * [Decentralization vs Scale: Crypto's Growing Struggle](https://www.coindesk.com/decentralization-vs-scale-studies-explore-cryptos-growing-struggle/)
-
-### Prepare and install
-  * [Coincontrol: Python Bot Trader](https://github.com/jakubroztocil/cointrol)
-  * [How to get started mining crypto on Linux with Nvidia](https://www.linuxserver.io/2017/12/17/how-to-get-started-mining-crypto-on-linux-with-nvidia/)
 
