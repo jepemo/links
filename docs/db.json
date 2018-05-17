@@ -41,6 +41,15 @@
       "tech"
     ]
   },
+  "http://blog.ycombinator.com/building-for-the-blockchain/": {
+    "desc": "Building for the Blockchain",
+    "name": "Building for the Blockchain",
+    "tags": [
+      "cryptocurrencies",
+      "blockchain",
+      "article"
+    ]
+  },
   "http://clarkgrubb.com/nlp": {
     "desc": "NLP tasks with various libraries",
     "name": "NLP tasks with various libraries",
@@ -58,6 +67,33 @@
       "webarchitecture",
       "future",
       "article"
+    ]
+  },
+  "http://michal.space/ipns/michal.space/bitcoin-explained-part-one/": {
+    "desc": "Bitcoin Workings Explained, For Real: Part One",
+    "name": "Bitcoin Workings Explained, For Real: Part One",
+    "tags": [
+      "cryptocurrencies",
+      "bitcoin",
+      "article"
+    ]
+  },
+  "http://michal.space/ipns/michal.space/bitcoin-explained-part-three/": {
+    "desc": "Bitcoin Workings Explained, For Real: Part Three",
+    "name": "Bitcoin Workings Explained, For Real: Part Three",
+    "tags": [
+      "cryptocurrencies",
+      "bitcoin",
+      "article"
+    ]
+  },
+  "http://michal.space/ipns/michal.space/bitcoin-explained-part-two/": {
+    "desc": "Bitcoin Workings Explained, For Real: Part Two",
+    "name": "Bitcoin Workings Explained, For Real: Part Two",
+    "tags": [
+      "cryptocurrencies",
+      "article",
+      "bitcoin"
     ]
   },
   "http://norvig.com/21-days.html": {
@@ -120,6 +156,16 @@
     "tags": [
       "cryptocurrencies",
       "trading"
+    ]
+  },
+  "http://www.gjermundbjaanes.com/understanding-ethereum-smart-contracts/": {
+    "desc": "Understanding Ethereum Smart Contracts",
+    "name": "Understanding Ethereum Smart Contracts",
+    "tags": [
+      "cryptocurrencies",
+      "blockchain",
+      "ethereum",
+      "smartcontracts"
     ]
   },
   "http://www.labri.fr/perso/nrougier/from-python-to-numpy/#id9": {
@@ -796,6 +842,40 @@
       "practical"
     ]
   },
+  "https://unwttng.com/home": {
+    "desc": "Jack Preston blog",
+    "name": "Jack Preston blog",
+    "tags": [
+      "blog",
+      "technology"
+    ]
+  },
+  "https://unwttng.com/how-does-procedural-generation-work-random-noise": {
+    "desc": "Random Noise and Procedural Generation",
+    "name": "Random Noise and Procedural Generation",
+    "tags": [
+      "gameprogramming",
+      "procedural"
+    ]
+  },
+  "https://unwttng.com/what-is-a-blockchain": {
+    "desc": "Everything You Wanted To Know About Blockchains: Part 1",
+    "name": "Everything You Wanted To Know About Blockchains: Part 1",
+    "tags": [
+      "cryptocurrencies",
+      "blockchain",
+      "bitcoin"
+    ]
+  },
+  "https://unwttng.com/what-is-bitcoin-ethereum": {
+    "desc": "Everything You Wanted To Know About Blockchains: Part 2",
+    "name": "Everything You Wanted To Know About Blockchains: Part 2",
+    "tags": [
+      "cryptocurrencies",
+      "blockchain",
+      "ethereum"
+    ]
+  },
   "https://withintent.uncorkedstudios.com/inside-el-paquete-cubas-social-network-2fa6c99660ee": {
     "desc": "Inside El Paquete, Cuba\u2019s Social Network",
     "name": "Inside El Paquete, Cuba\u2019s Social Network",
@@ -811,6 +891,15 @@
     "tags": [
       "cryptocurrencies",
       "trading"
+    ]
+  },
+  "https://www.coindesk.com/decentralization-vs-scale-studies-explore-cryptos-growing-struggle/": {
+    "desc": "Decentralization vs Scale: Crypto's Growing Struggle",
+    "name": "Decentralization vs Scale: Crypto's Growing Struggle",
+    "tags": [
+      "cryptocurrencies",
+      "article",
+      "blockchain"
     ]
   },
   "https://www.inqdo.com/aws-explained-the-basics/?lang=en": {
@@ -866,6 +955,15 @@
       "sound",
       "work",
       "ambient"
+    ]
+  },
+  "https://www.nytimes.com/2018/01/16/magazine/beyond-the-bitcoin-bubble.html": {
+    "desc": "Beyond the Bitcoin Bubble",
+    "name": "Beyond the Bitcoin Bubble",
+    "tags": [
+      "cryptocurrencies",
+      "bitcoin",
+      "article"
     ]
   },
   "https://www.reddit.com/r/CryptoCurrency/comments/6l130v/a_boring_investors_guide_to_cryptocurrency/": {
