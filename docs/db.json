@@ -150,6 +150,15 @@
       "implementation"
     ]
   },
+  "http://www.dourish.com/goodies/jargon.html": {
+    "desc": "The Original Hacker's Dictionary",
+    "name": "The Original Hacker's Dictionary",
+    "tags": [
+      "dictionary",
+      "hacker",
+      "oldskool"
+    ]
+  },
   "http://www.forexnews.com/bitcoin-trading/": {
     "desc": "Bitcoin Trading \u2013 The Ultimate Guide",
     "name": "Bitcoin Trading \u2013 The Ultimate Guide",
