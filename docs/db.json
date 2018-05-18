@@ -668,6 +668,15 @@
       "examples"
     ]
   },
+  "https://ml-compiled.readthedocs.io/en/latest/about.html": {
+    "desc": "ML Compiled is an encyclopedia for machine learning and related subjects with an emphasis on explanations that are concise and intuitive",
+    "name": "ML Compiled",
+    "tags": [
+      "machinelearning",
+      "101",
+      "awesome-list"
+    ]
+  },
   "https://monades.roperzh.com/": {
     "desc": "Ramblings about Programming, Elixir, JavaScript and others",
     "name": "Monades blog",
