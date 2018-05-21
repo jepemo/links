@@ -304,6 +304,16 @@
       "university"
     ]
   },
+  "https://developers.google.com/machine-learning/rules-of-ml/": {
+    "desc": "Recomendaciones para la ingenier\u00eda de aprendizaje autom\u00e1tico",
+    "name": "Recomendaciones para la ingenier\u00eda de aprendizaje autom\u00e1tico",
+    "tags": [
+      "machinelearning",
+      "guide",
+      "tutorial",
+      "101"
+    ]
+  },
   "https://diaspora.github.io/diaspora_federation/index.html": {
     "desc": "The purpose of this document is to specify the communications that go on between diaspora* servers (and other servers supporting this protocol). If you experience any issues, feel free to get in touch with us",
     "name": "diaspora* federation protocol",
