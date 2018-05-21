@@ -293,6 +293,17 @@
       "stats"
     ]
   },
+  "https://cs50.github.io/games/": {
+    "desc": "harvard basic game programming course",
+    "name": "[CSCI E-23a] Introduction to Game Development",
+    "tags": [
+      "gameprogramming",
+      "course",
+      "love2d",
+      "gamedevelopment",
+      "university"
+    ]
+  },
   "https://diaspora.github.io/diaspora_federation/index.html": {
     "desc": "The purpose of this document is to specify the communications that go on between diaspora* servers (and other servers supporting this protocol). If you experience any issues, feel free to get in touch with us",
     "name": "diaspora* federation protocol",
