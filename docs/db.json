@@ -614,6 +614,16 @@
       "comic"
     ]
   },
+  "https://learnxinyminutes.com/docs/elixir/": {
+    "desc": "Learn Elixir in Y minutes",
+    "name": "Learn Elixir in Y Minutes",
+    "tags": [
+      "elixir",
+      "tutorial",
+      "programming",
+      "cheatsheet"
+    ]
+  },
   "https://lethain.com//some-of-my-favorite-technical-papers/": {
     "desc": "Some of my favorite technical papers.",
     "name": "Some of my favorite technical papers.",
