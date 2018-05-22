@@ -277,6 +277,15 @@
       "language"
     ]
   },
+  "https://boyter.org/posts/how-to-start-go-project-2018/": {
+    "desc": "How to start a Go project in 2018",
+    "name": "How to start a Go project in 2018",
+    "tags": [
+      "golang",
+      "101",
+      "programming"
+    ]
+  },
   "https://chainoperator.com/cryptocurrency-trading-guide/": {
     "desc": "Trading Cryptocurrency in 2018: The Definitive Guide",
     "name": "Trading Cryptocurrency in 2018: The Definitive Guide",
@@ -355,6 +364,15 @@
       "distributedsystems",
       "theory",
       "log"
+    ]
+  },
+  "https://fabxc.org/tsdb/": {
+    "desc": "Writing a Time Series Database from Scratch",
+    "name": "Writing a Time Series Database from Scratch",
+    "tags": [
+      "databases",
+      "programing",
+      "timeseries"
     ]
   },
   "https://frontendmasters.com/books/front-end-handbook/2018/": {
