@@ -313,6 +313,16 @@
       "university"
     ]
   },
+  "https://developers.google.com/machine-learning/crash-course/": {
+    "desc": "MACHINE LEARNING CRASH COURSE FROM GOOGLE",
+    "name": "Curso intensivo de aprendizaje autom\u00e1tico",
+    "tags": [
+      "machinelearning",
+      "course",
+      "tensorflow",
+      "google"
+    ]
+  },
   "https://developers.google.com/machine-learning/rules-of-ml/": {
     "desc": "Recomendaciones para la ingenier\u00eda de aprendizaje autom\u00e1tico",
     "name": "Recomendaciones para la ingenier\u00eda de aprendizaje autom\u00e1tico",
