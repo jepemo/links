@@ -96,6 +96,16 @@
       "bitcoin"
     ]
   },
+  "http://nicktasios.nl/posts/space-invaders-from-scratch-part-1.html": {
+    "desc": "Space Invaders from Scratch - Part 1",
+    "name": "Space Invaders from Scratch - Part 1",
+    "tags": [
+      "gameprogramming",
+      "spaceinvaders",
+      "opengl",
+      "cpp"
+    ]
+  },
   "http://norvig.com/21-days.html": {
     "desc": "Teach Yourself Programming in Ten Years",
     "name": "Teach Yourself Programming in Ten Years",
