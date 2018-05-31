@@ -1008,6 +1008,17 @@
       "blockchain"
     ]
   },
+  "https://www.datacamp.com/community/tutorials/finance-python-trading": {
+    "desc": "Python For Finance: Algorithmic Trading",
+    "name": "Python For Finance: Algorithmic Trading",
+    "tags": [
+      "python",
+      "finance",
+      "algorithms",
+      "101",
+      "introduction"
+    ]
+  },
   "https://www.inqdo.com/aws-explained-the-basics/?lang=en": {
     "desc": "AWS explained: the basics",
     "name": "AWS explained: the basics",
