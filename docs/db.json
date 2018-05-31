@@ -60,6 +60,16 @@
       "howto"
     ]
   },
+  "http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf": {
+    "desc": "Architecture of a Database System",
+    "name": "Architecture of a Database System",
+    "tags": [
+      "paper",
+      "databases",
+      "implementation",
+      "architecture"
+    ]
+  },
   "http://dci.mit.edu/decentralizedweb": {
     "desc": "BACK TO THE FUTURE: THE DECENTRALIZED WEB - A report by the Digital Currency Initiative and the Center for Civic Media",
     "name": "BACK TO THE FUTURE: THE DECENTRALIZED WEB - A report by the Digital Currency Initiative and the Center for Civic Media",
