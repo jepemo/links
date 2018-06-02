@@ -850,6 +850,16 @@
       "article"
     ]
   },
+  "https://pillow.readthedocs.io/en/5.1.x/": {
+    "desc": "Pillow is the friendly PIL fork",
+    "name": "Pillow is the friendly PIL fork",
+    "tags": [
+      "imageprocessing",
+      "python",
+      "computervision",
+      "machinelearning"
+    ]
+  },
   "https://pragprog.com/magazines/2013-05/a-functional-introduction-to-lua": {
     "desc": "Creating Some Fireworks with Lua",
     "name": "Creating Some Fireworks with Lua",
