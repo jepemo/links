@@ -913,6 +913,17 @@
       "advanced"
     ]
   },
+  "https://safe-network-explained.github.io/safe-for-bitcoiners": {
+    "desc": "SAFE Network explained using bitcoin terminology",
+    "name": "SAFE Network explained using bitcoin terminology",
+    "tags": [
+      "blockchain",
+      "maidsafe",
+      "cryptocurrencies",
+      "decentralized",
+      "web"
+    ]
+  },
   "https://stackshare.io/stream/stream-and-go-news-feeds-for-over-300-million-end-users": {
     "desc": "Stream & Go: News Feeds for Over 300 Million End Users",
     "name": "Stream & Go: News Feeds for Over 300 Million End Users",
