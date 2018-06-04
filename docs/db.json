@@ -1138,6 +1138,16 @@
       "tutorial"
     ]
   },
+  "https://www.toptal.com/python/introduction-python-microservices-nameko": {
+    "desc": "Introduction to Python Microservices with Nameko",
+    "name": "Introduction to Python Microservices with Nameko",
+    "tags": [
+      "microservices",
+      "python",
+      "nameko",
+      "introduction"
+    ]
+  },
   "https://www.tradingview.com/cryptocurrency-signals/": {
     "desc": "Tradingview cryptocurrency signals dashboard",
     "name": "Cryptocurrency signals",
