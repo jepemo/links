@@ -850,6 +850,15 @@
       "article"
     ]
   },
+  "https://ownyourbits.com/2018/05/23/the-real-power-of-linux-executables/": {
+    "desc": "The real power of Linux executables",
+    "name": "The real power of Linux executables",
+    "tags": [
+      "linux",
+      "internals",
+      "executable"
+    ]
+  },
   "https://pillow.readthedocs.io/en/5.1.x/": {
     "desc": "Pillow is the friendly PIL fork",
     "name": "Pillow is the friendly PIL fork",
