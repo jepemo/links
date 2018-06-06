@@ -179,6 +179,15 @@
       "oldskool"
     ]
   },
+  "http://www.fast.ai/": {
+    "desc": "fast.ai is dedicated to making the power of deep learning accessible to all",
+    "name": "fast.ai: Making neural nets uncool again",
+    "tags": [
+      "deeplearning",
+      "marchinlearning",
+      "blog"
+    ]
+  },
   "http://www.forexnews.com/bitcoin-trading/": {
     "desc": "Bitcoin Trading \u2013 The Ultimate Guide",
     "name": "Bitcoin Trading \u2013 The Ultimate Guide",
