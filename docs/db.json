@@ -279,6 +279,16 @@
       "search"
     ]
   },
+  "https://blog.gojekengineering.com/resiliency-in-distributed-systems-efd30f74baf4": {
+    "desc": "Resiliency in Distributed Systems",
+    "name": "Resiliency in Distributed Systems",
+    "tags": [
+      "distributedsystems",
+      "resiliency",
+      "article",
+      "intro"
+    ]
+  },
   "https://blog.jooq.org/2016/07/04/how-functional-programming-will-finally-do-away-with-the-gof-patterns/": {
     "desc": "Revision functional programming compartinf gof pattern",
     "name": "How Functional Programming will (Finally) do Away With the GoF Patterns",
