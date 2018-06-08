@@ -820,6 +820,16 @@
       "introduction"
     ]
   },
+  "https://monkeylearn.com/blog/getting-started-in-natural-language-processing-nlp/": {
+    "desc": "Getting started in Natural Language Processing (NLP)",
+    "name": "Getting started in Natural Language Processing (NLP)",
+    "tags": [
+      "nlp",
+      "machinelearning",
+      "introduction",
+      "101"
+    ]
+  },
   "https://nlpforhackers.io/textrank-text-summarization/": {
     "desc": "TextRank for Text Summarization",
     "name": "TextRank for Text Summarization",
