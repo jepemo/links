@@ -988,6 +988,15 @@
       "trading"
     ]
   },
+  "https://suckless.org/": {
+    "desc": "software that sucks less",
+    "name": "software that sucks less",
+    "tags": [
+      "software",
+      "blog",
+      "oldskool"
+    ]
+  },
   "https://talks.golang.org/2013/distsys.slide#1": {
     "desc": "Go, for Distributed Systems",
     "name": "Go, for Distributed Systems",
