@@ -490,6 +490,17 @@
       "tutorial"
     ]
   },
+  "https://github.com/DovAmir/awesome-design-patterns": {
+    "desc": "Awesome design patterns list",
+    "name": "Awesome design patterns",
+    "tags": [
+      "awesome-list",
+      "designpattern",
+      "softwaredesign",
+      "microservices",
+      "cloud"
+    ]
+  },
   "https://github.com/GetStoryline/awesome-bots": {
     "desc": "Awesome bots",
     "name": "awesome-bots",
