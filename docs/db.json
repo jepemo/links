@@ -50,6 +50,17 @@
       "article"
     ]
   },
+  "http://catswhisker.xyz/log/2017/9/7/a_first_excercise_in_natural_language_processing_with_python_counting_hapaxes/#_finding_hapaxes_with_spacy": {
+    "desc": "A First Exercise in Natural Language Processing with Python: Counting Hapaxes",
+    "name": "A First Exercise in Natural Language Processing with Python: Counting Hapaxes",
+    "tags": [
+      "nlp",
+      "example",
+      "hapaxes",
+      "nltk",
+      "spacy"
+    ]
+  },
   "http://clarkgrubb.com/nlp": {
     "desc": "NLP tasks with various libraries",
     "name": "NLP tasks with various libraries",
