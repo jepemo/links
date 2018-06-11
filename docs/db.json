@@ -152,6 +152,15 @@
       "stanford"
     ]
   },
+  "http://wttr.in/": {
+    "desc": "Ascii weather",
+    "name": "Ascii weather",
+    "tags": [
+      "oldskool",
+      "ascii",
+      "weather"
+    ]
+  },
   "http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/es/index.html": {
     "desc": "Spanish tutorial about learning git with an analogy of a multiplayer game",
     "name": "Git Magic",
