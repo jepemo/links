@@ -830,6 +830,16 @@
       "oldskool"
     ]
   },
+  "https://monkey.org/~marius/unix-tools-hints.html": {
+    "desc": "HINTS FOR WRITING UNIX TOOLS",
+    "name": "HINTS FOR WRITING UNIX TOOLS",
+    "tags": [
+      "unix",
+      "tools",
+      "programming",
+      "linux"
+    ]
+  },
   "https://monkeylearn.com/blog/beginners-guide-text-vectorization/": {
     "desc": "The Beginner\u2019s Guide to Text Vectorization",
     "name": "The Beginner\u2019s Guide to Text Vectorization",
@@ -1160,6 +1170,15 @@
       "nlp",
       "sentimentanalysis",
       "machinelearning"
+    ]
+  },
+  "https://www.mariocampos.io/blog/more-unix-tools-hints/": {
+    "desc": "More Hints for Writing Unix Tools",
+    "name": "More Hints for Writing Unix Tools",
+    "tags": [
+      "unix",
+      "tools",
+      "programming"
     ]
   },
   "https://www.meebey.net/posts/ethereum_gpu_mining_on_linux_howto/": {
