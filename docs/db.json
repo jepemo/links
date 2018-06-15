@@ -153,6 +153,16 @@
       "os"
     ]
   },
+  "http://rogueliketutorials.com/": {
+    "desc": "Python Roguelike Tutorial",
+    "name": "Python Roguelike Tutorial",
+    "tags": [
+      "gameprogramming",
+      "python",
+      "roguelike",
+      "console"
+    ]
+  },
   "http://videlalvaro.github.io/2015/12/learning-about-distributed-systems.html": {
     "desc": "What We Talk About When We Talk About Distributed Systems",
     "name": "What We Talk About When We Talk About Distributed Systems",
