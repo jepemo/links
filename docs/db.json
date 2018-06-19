@@ -803,6 +803,16 @@
       "android"
     ]
   },
+  "https://medium.com/data-from-the-trenches/text-classification-the-first-step-toward-nlp-mastery-f5f95d525d73": {
+    "desc": "Build a Strong Baseline by Following Simple Steps",
+    "name": "Text Classification: The First Step Toward NLP Mastery",
+    "tags": [
+      "nlp",
+      "introduction",
+      "101",
+      "machinelearning"
+    ]
+  },
   "https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12": {
     "desc": "Machine learning for humans",
     "name": "Machine learning for humans",
