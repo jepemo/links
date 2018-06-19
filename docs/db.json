@@ -282,6 +282,14 @@
       "theory"
     ]
   },
+  "https://able.bio/drenther/react-server-side-rendering-from-scratch--43mfqwo": {
+    "desc": "We will implement a basic server-side rendering React app from scratch using express",
+    "name": "React Server-Side Rendering from Scratch",
+    "tags": [
+      "react",
+      "webdevelopment"
+    ]
+  },
   "https://bitbucket.org/MartinFelis/love-android-sdl2/": {
     "desc": "Love2d Android Bitbucket",
     "name": "Love2d Android Bitbucket",
