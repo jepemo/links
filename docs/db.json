@@ -813,6 +813,15 @@
       "android"
     ]
   },
+  "https://medium.com/airbnb-engineering/react-native-at-airbnb-f95aa460be1c": {
+    "desc": "In 2016, we took a big bet on React Native. Two years later, we\u2019re ready to share our experience with the world and show what\u2019s next",
+    "name": "React Native at Airbnb",
+    "tags": [
+      "react",
+      "reactnative",
+      "mobile"
+    ]
+  },
   "https://medium.com/data-from-the-trenches/text-classification-the-first-step-toward-nlp-mastery-f5f95d525d73": {
     "desc": "Build a Strong Baseline by Following Simple Steps",
     "name": "Text Classification: The First Step Toward NLP Mastery",
