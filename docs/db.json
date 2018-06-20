@@ -396,6 +396,16 @@
       "stats"
     ]
   },
+  "https://cs.uwaterloo.ca/~plragde/flaneries/FDS/": {
+    "desc": "Book about Functional Data Structures",
+    "name": "Functional Data Structures",
+    "tags": [
+      "book",
+      "functionalprogramming",
+      "datastructures",
+      "programming"
+    ]
+  },
   "https://cs50.github.io/games/": {
     "desc": "harvard basic game programming course",
     "name": "[CSCI E-23a] Introduction to Game Development",
