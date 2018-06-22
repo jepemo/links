@@ -317,6 +317,15 @@
       "trading"
     ]
   },
+  "https://blog.ably.io/how-to-implement-consistent-hashing-efficiently-fe038d59fff2": {
+    "desc": "Ably\u2019s realtime platform is distributed across more than 14 physical data centres and 100s of nodes. In order for us to ensure both load and data are distributed evenly and consistently across all our nodes, we use consistent hashing algorithms",
+    "name": "How we implemented consistent hashing efficiently",
+    "tags": [
+      "distributedsystems",
+      "implementation",
+      "datastructures"
+    ]
+  },
   "https://blog.algolia.com/natural-languages-in-search/": {
     "desc": "Handling natural languages in search",
     "name": "Handling natural languages in search",
