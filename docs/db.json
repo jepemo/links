@@ -1255,6 +1255,15 @@
       "introduction"
     ]
   },
+  "https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147": {
+    "desc": "Article about network protocols for programmers",
+    "name": "Network protocols for anyone who knows a programming language",
+    "tags": [
+      "networks",
+      "routing",
+      "protocols"
+    ]
+  },
   "https://www.inqdo.com/aws-explained-the-basics/?lang=en": {
     "desc": "AWS explained: the basics",
     "name": "AWS explained: the basics",
