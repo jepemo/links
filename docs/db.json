@@ -1217,6 +1217,15 @@
       "cuba"
     ]
   },
+  "https://www.alchemistowl.org/pocorgtfo/": {
+    "desc": "A friendly little collection of articles for ladies an gentlemen of distinguished ability and taste in the field of reverse engineering and the study of weird machines",
+    "name": "International Journal of Proof-of-Concept or Get The Fuck Out",
+    "tags": [
+      "magazine",
+      "reverseengineering",
+      "articles"
+    ]
+  },
   "https://www.bitwiseinvestments.com/index": {
     "desc": "First CryptoIndex",
     "name": "First CryptoIndex",
