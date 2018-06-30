@@ -1226,6 +1226,14 @@
       "articles"
     ]
   },
+  "https://www.begin.re/": {
+    "desc": "Reverse Engineering for Beginners",
+    "name": "Reverse Engineering for Beginners",
+    "tags": [
+      "reverseengineering",
+      "introduction"
+    ]
+  },
   "https://www.bitwiseinvestments.com/index": {
     "desc": "First CryptoIndex",
     "name": "First CryptoIndex",
