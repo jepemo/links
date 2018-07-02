@@ -282,6 +282,15 @@
       "theory"
     ]
   },
+  "http://www.tenox.net/books/Microsoft_Windows/Inside_the_Windows95_File_System.pdf": {
+    "desc": "Inside the Windows 95 Filesystem",
+    "name": "Inside the Windows 95 Filesystem",
+    "tags": [
+      "filesystem",
+      "windows",
+      "implementation"
+    ]
+  },
   "https://able.bio/drenther/react-server-side-rendering-from-scratch--43mfqwo": {
     "desc": "We will implement a basic server-side rendering React app from scratch using express",
     "name": "React Server-Side Rendering from Scratch",
