@@ -199,6 +199,16 @@
       "tutorial"
     ]
   },
+  "http://www.carbondesignsystem.com/": {
+    "desc": "Carbon design system",
+    "name": "Carbon design System",
+    "tags": [
+      "css",
+      "html",
+      "style",
+      "theme"
+    ]
+  },
   "http://www.dbms2.com/2015/04/16/notes-on-indexes-and-index-like-structures/": {
     "desc": "Notes on indexes and index-like structures",
     "name": "Notes on indexes and index-like structures",
