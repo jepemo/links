@@ -425,6 +425,15 @@
       "trading"
     ]
   },
+  "https://chris.beams.io/posts/git-commit/": {
+    "desc": "How to write a Git Commit Message",
+    "name": "How to write a Git Commit Message",
+    "tags": [
+      "article",
+      "git",
+      "rules"
+    ]
+  },
   "https://coinmarketcap.com": {
     "desc": "Show the historical values of the cryptocurrencies",
     "name": "CryptoCurrency Market Capitalizations",
