@@ -254,6 +254,14 @@
       "smartcontracts"
     ]
   },
+  "http://www.invece.org/tclwise/": {
+    "desc": "tcl wise: Guide to the Tcl programming language",
+    "name": "tcl wise: Guide to the Tcl programming language",
+    "tags": [
+      "tcl",
+      "guide"
+    ]
+  },
   "http://www.labri.fr/perso/nrougier/from-python-to-numpy/#id9": {
     "desc": "From Python to Numpy",
     "name": "From Python to Numpy",
