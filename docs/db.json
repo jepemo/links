@@ -989,6 +989,15 @@
       "101"
     ]
   },
+  "https://monkeylearn.com/sentiment-analysis/": {
+    "desc": "Sentiment Analysis: nearly everything you need to know",
+    "name": "Sentiment Analysis: nearly everything you need to know",
+    "tags": [
+      "nlp",
+      "sentimentanalysis",
+      "introduction"
+    ]
+  },
   "https://nlpforhackers.io/textrank-text-summarization/": {
     "desc": "TextRank for Text Summarization",
     "name": "TextRank for Text Summarization",
