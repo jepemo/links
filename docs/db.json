@@ -1480,5 +1480,16 @@
       "signal",
       "dashboard"
     ]
+  },
+  "https://www.w3.org/TR/websub/": {
+    "desc": "WebSub provides a common mechanism for communication between publishers of any kind of Web content and their subscribers, based on HTTP web hooks. Subscription requests are relayed through hubs, which validate and verify the request. Hubs then distribute new and updated content to subscribers when it becomes available. WebSub was previously known as PubSubHubbub",
+    "name": "WebSub",
+    "tags": [
+      "websub",
+      "w3c",
+      "standard",
+      "protocol",
+      "web"
+    ]
   }
 }
