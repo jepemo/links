@@ -774,6 +774,14 @@
       "projects"
     ]
   },
+  "https://gkbrk.com/2018/06/fetching-activitypub-feeds/": {
+    "desc": "Fetching ActivityPub Feeds",
+    "name": "Fetching ActivityPub Feeds",
+    "tags": [
+      "activitypub",
+      "programming"
+    ]
+  },
   "https://grothoff.org/christian/habil.pdf": {
     "desc": "GNUNET Paper",
     "name": "GNUNET Paper",
