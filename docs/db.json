@@ -1211,6 +1211,15 @@
       "distributedsystems"
     ]
   },
+  "https://thegradient.pub/nlp-imagenet/": {
+    "desc": "NLP's ImageNet Moment: From Shallow to Deep Pre-Training",
+    "name": "NLP's ImageNet Moment: From Shallow to Deep Pre-Training",
+    "tags": [
+      "machinelearning",
+      "deeplearning",
+      "nlp"
+    ]
+  },
   "https://tomassetti.me/guide-parsing-algorithms-terminology/": {
     "desc": "in-depth presentation of the concepts and algorithms used in parsing",
     "name": "A Guide to Parsing: Algorithms and Terminology",
