@@ -1090,6 +1090,15 @@
       "executable"
     ]
   },
+  "https://pdfs.semanticscholar.org/342d/672ba656102fd5a98df2c882723ef3022efe.pdf": {
+    "desc": "In this short essay, we discuss some basic features of cognitive activity at several different space\u2013time scales: from neural networks in the brain to civilisations. One motivation for such comparative study is its heuristic value. Attempts to better understand the functioning of \u201cwetware\u201d involved in cognitive activities of central nervous system by comparing it with a computing device have a long tradition. We suggest that comparison with Internet might be more adequate. We briefly touch upon such subjects as encoding, compression, and Saussurean trichotomy langue/langage/parole in various environments.",
+    "name": "Cognitive Networks: Brains, Internet, and civilizations",
+    "tags": [
+      "paper",
+      "article",
+      "essay"
+    ]
+  },
   "https://pillow.readthedocs.io/en/5.1.x/": {
     "desc": "Pillow is the friendly PIL fork",
     "name": "Pillow is the friendly PIL fork",
