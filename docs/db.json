@@ -262,6 +262,15 @@
       "guide"
     ]
   },
+  "http://www.kamalnigam.com/papers/maxent-ijcaiws99.pdf": {
+    "desc": "This paper proposes the use of maximum entropy techniques for text classification",
+    "name": "Using Maximum Entropy for Text Classification",
+    "tags": [
+      "nlp",
+      "paper",
+      "entropy"
+    ]
+  },
   "http://www.labri.fr/perso/nrougier/from-python-to-numpy/#id9": {
     "desc": "From Python to Numpy",
     "name": "From Python to Numpy",
