@@ -1024,6 +1024,15 @@
       "introduction"
     ]
   },
+  "https://nlp.stanford.edu/fsnlp/": {
+    "desc": "Foundations of Statistical Natural Language Processing",
+    "name": "Foundations of Statistical Natural Language Processing",
+    "tags": [
+      "nlp",
+      "book",
+      "statistics"
+    ]
+  },
   "https://nlpforhackers.io/textrank-text-summarization/": {
     "desc": "TextRank for Text Summarization",
     "name": "TextRank for Text Summarization",
