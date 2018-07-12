@@ -818,6 +818,14 @@
       "theory"
     ]
   },
+  "https://hackaday.com/2018/07/12/its-all-in-the-libs-building-a-plugin-system-using-dynamic-loading/": {
+    "desc": "IT\u2019S ALL IN THE LIBS \u2013 BUILDING A PLUGIN SYSTEM USING DYNAMIC LOADING",
+    "name": "IT\u2019S ALL IN THE LIBS \u2013 BUILDING A PLUGIN SYSTEM USING DYNAMIC LOADING",
+    "tags": [
+      "clang",
+      "programming"
+    ]
+  },
   "https://hackernoon.com/consensuspedia-an-encyclopedia-of-29-consensus-algorithms-e9c4b4b7d08f": {
     "desc": "A complete list of all consensus algorithms",
     "name": "ConsensusPedia: An Encyclopedia of 29 Consensus Algorithms",
