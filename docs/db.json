@@ -1552,5 +1552,13 @@
       "protocol",
       "web"
     ]
+  },
+  "https://zendev.com/ultimate-guide-to-learning-css.html": {
+    "desc": "The Ultimate Guide to Learning CSS",
+    "name": "The Ultimate Guide to Learning CSS",
+    "tags": [
+      "css",
+      "guide"
+    ]
   }
 }
