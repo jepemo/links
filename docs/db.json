@@ -98,6 +98,14 @@
       "article"
     ]
   },
+  "http://doc.honeypot.io/elixir-documentary-2018/": {
+    "desc": "Elixir: A Mini-Documentary",
+    "name": "Elixir: A Mini-Documentary",
+    "tags": [
+      "elixir",
+      "documentary"
+    ]
+  },
   "http://michal.space/ipns/michal.space/bitcoin-explained-part-one/": {
     "desc": "Bitcoin Workings Explained, For Real: Part One",
     "name": "Bitcoin Workings Explained, For Real: Part One",
