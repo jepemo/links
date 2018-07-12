@@ -543,6 +543,15 @@
       "log"
     ]
   },
+  "https://engineering.videoblocks.com/web-architecture-101-a3224e126947": {
+    "desc": "The basic architecture concepts I wish I knew when I was getting started as a web developer",
+    "name": "Web Architecture 101",
+    "tags": [
+      "web",
+      "architecture",
+      "patterns"
+    ]
+  },
   "https://fabxc.org/tsdb/": {
     "desc": "Writing a Time Series Database from Scratch",
     "name": "Writing a Time Series Database from Scratch",
