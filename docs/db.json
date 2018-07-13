@@ -1392,6 +1392,15 @@
       "blockchain"
     ]
   },
+  "https://www.computist.xyz/2018/07/optimisation-techniques.html": {
+    "desc": "a variety of commonly-used, simple approaches for optimising algorithms.",
+    "name": "OPTIMISATION TECHNIQUES",
+    "tags": [
+      "optimization",
+      "techniques",
+      "cpp"
+    ]
+  },
   "https://www.cs.cornell.edu/home/kleinber/networks-book/": {
     "desc": "Book about networks and graphs",
     "name": "Networks, Crowds, and Markets: Reasoning About a Highly Connected World",
