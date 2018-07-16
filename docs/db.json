@@ -663,6 +663,15 @@
       "cryptocurrency"
     ]
   },
+  "https://github.com/donnemartin/system-design-primer": {
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview.",
+    "name": "Systems design primer",
+    "tags": [
+      "systemsdesign",
+      "mooc",
+      "study"
+    ]
+  },
   "https://github.com/englianhu/binary.com-interview-question": {
     "desc": "The sample question for Interview a job in Binary options",
     "name": "The sample question for Interview a job in Binary options",
