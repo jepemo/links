@@ -626,6 +626,14 @@
       "nlp"
     ]
   },
+  "https://github.com/JamesCarl/CEN4020": {
+    "desc": "CEN4020: Quantitative books repo",
+    "name": "CEN4020: Quantitative books repo",
+    "tags": [
+      "books",
+      "quantitative"
+    ]
+  },
   "https://github.com/LisaDziuba/Marketing-for-Engineers": {
     "desc": "Marketing for Engineers",
     "name": "Marketing for Engineers",
@@ -653,6 +661,16 @@
       "bitcoin",
       "cryptocurrencies",
       "cryptocurrency"
+    ]
+  },
+  "https://github.com/englianhu/binary.com-interview-question": {
+    "desc": "The sample question for Interview a job in Binary options",
+    "name": "The sample question for Interview a job in Binary options",
+    "tags": [
+      "machinelearning",
+      "books",
+      "notes",
+      "quantitative"
     ]
   },
   "https://github.com/google/python-fire": {
