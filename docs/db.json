@@ -309,6 +309,14 @@
       "implementation"
     ]
   },
+  "http://www.r2d3.us/visual-intro-to-machine-learning-part-2/": {
+    "desc": "Visual introduction machine learning (Part2)",
+    "name": "Visual introduction machine learning (Part2)",
+    "tags": [
+      "machinelearning",
+      "introduction"
+    ]
+  },
   "http://www.redbook.io/index.html": {
     "desc": "Readings in Database Systems, 5th Edition",
     "name": "Readings in Database Systems, 5th Edition",
@@ -1119,6 +1127,16 @@
       "distributedsystems",
       "theorem",
       "intro"
+    ]
+  },
+  "https://news.ycombinator.com/item?id=17441820": {
+    "desc": "Reddit: Tim Berners-Lee\u2019s Solid is a platform designed to re-decentralize the web",
+    "name": "Reddit: Tim Berners-Lee\u2019s Solid is a platform designed to re-decentralize the web",
+    "tags": [
+      "solid",
+      "w3c",
+      "conversation",
+      "reddit"
     ]
   },
   "https://nlp.stanford.edu/fsnlp/": {
