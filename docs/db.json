@@ -396,6 +396,15 @@
       "intro"
     ]
   },
+  "https://blog.golang.org/ismmkeynote": {
+    "desc": "This is the transcript from the keynote I gave at the International Symposium on Memory Management (ISMM) on June 18, 2018. For the past 25 years ISMM has been the premier venue for publishing memory management and garbage collection papers and it was an honor to have been invited to give the keynote",
+    "name": "Getting To Go (Golang GC)",
+    "tags": [
+      "garbagecollection",
+      "golang",
+      "keynote"
+    ]
+  },
   "https://blog.joinmastodon.org/2018/06/how-to-implement-a-basic-activitypub-server/": {
     "desc": "How to implement a basic ActivityPub server",
     "name": "How to implement a basic ActivityPub server",
