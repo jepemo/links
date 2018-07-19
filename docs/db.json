@@ -998,6 +998,15 @@
       "android"
     ]
   },
+  "https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e": {
+    "desc": "How computers understand Human Language",
+    "name": "Natural Language Processing is Fun!",
+    "tags": [
+      "nlp",
+      "machinelearning",
+      "introduction"
+    ]
+  },
   "https://medium.com/airbnb-engineering/react-native-at-airbnb-f95aa460be1c": {
     "desc": "In 2016, we took a big bet on React Native. Two years later, we\u2019re ready to share our experience with the world and show what\u2019s next",
     "name": "React Native at Airbnb",
