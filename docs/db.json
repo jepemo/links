@@ -833,6 +833,16 @@
       "awesome-list"
     ]
   },
+  "https://github.com/tpn/pdfs": {
+    "desc": "Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc)",
+    "name": "Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc)",
+    "tags": [
+      "papers",
+      "books",
+      "pdfs",
+      "repository"
+    ]
+  },
   "https://github.com/verekia/js-stack-from-scratch": {
     "desc": "Step-by-step tutorial to build a modern JavaScript stack.",
     "name": "Step-by-step tutorial to build a modern JavaScript stack.",
