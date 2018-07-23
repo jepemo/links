@@ -1458,6 +1458,15 @@
       "cuba"
     ]
   },
+  "https://www.aitribune.com/article/2018071087": {
+    "desc": "This tutorial will implement the genetic algorithm optimization technique in Python based on a simple example in which we are trying to maximize the output of an equation. The tutorial uses the decimal representation for genes, one point crossover, and uniform mutation",
+    "name": "Genetic Algorithm Implementation in Python",
+    "tags": [
+      "python",
+      "artificialintelligence",
+      "geneticalgorithms"
+    ]
+  },
   "https://www.alchemistowl.org/pocorgtfo/": {
     "desc": "A friendly little collection of articles for ladies an gentlemen of distinguished ability and taste in the field of reverse engineering and the study of weird machines",
     "name": "International Journal of Proof-of-Concept or Get The Fuck Out",
