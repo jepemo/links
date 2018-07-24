@@ -534,6 +534,17 @@
       "google"
     ]
   },
+  "https://developers.google.com/machine-learning/guides/": {
+    "desc": "Simple step-by-step walkthroughs to solve common machine learning problems using best practices",
+    "name": "Google Machine Learning Guides",
+    "tags": [
+      "nlp",
+      "machinelearning",
+      "google",
+      "guide",
+      "textclassification"
+    ]
+  },
   "https://developers.google.com/machine-learning/rules-of-ml/": {
     "desc": "Recomendaciones para la ingenier\u00eda de aprendizaje autom\u00e1tico",
     "name": "Recomendaciones para la ingenier\u00eda de aprendizaje autom\u00e1tico",
