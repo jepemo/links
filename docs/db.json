@@ -1411,6 +1411,15 @@
       "distributedsystems"
     ]
   },
+  "https://terriblecode.com/blog/how-docker-images-work-union-file-systems-for-dummies/": {
+    "desc": "HOW DOCKER IMAGES WORK: UNION FILE SYSTEMS FOR DUMMIES",
+    "name": "HOW DOCKER IMAGES WORK: UNION FILE SYSTEMS FOR DUMMIES",
+    "tags": [
+      "docker",
+      "101",
+      "filesystems"
+    ]
+  },
   "https://thegradient.pub/nlp-imagenet/": {
     "desc": "NLP's ImageNet Moment: From Shallow to Deep Pre-Training",
     "name": "NLP's ImageNet Moment: From Shallow to Deep Pre-Training",
