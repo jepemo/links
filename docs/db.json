@@ -512,6 +512,15 @@
       "stats"
     ]
   },
+  "https://cryptowat.ch/": {
+    "desc": "Cryptowatch is a cryptocurrency charting and trading platform owned by Kraken. Our system serves live data on 400+ markets to clients around the world.",
+    "name": "CryptoWatch (charting & trading platform)",
+    "tags": [
+      "cryptocurrencies",
+      "trading",
+      "charting"
+    ]
+  },
   "https://cs.uwaterloo.ca/~plragde/flaneries/FDS/": {
     "desc": "Book about Functional Data Structures",
     "name": "Functional Data Structures",
