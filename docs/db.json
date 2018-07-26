@@ -1625,6 +1625,15 @@
       "machinelearning"
     ]
   },
+  "https://www.lesswrong.com/posts/xg3hXCYQPJkwHyik2/the-best-textbooks-on-every-subject": {
+    "desc": "The Best Textbooks on Every Subject",
+    "name": "The Best Textbooks on Every Subject",
+    "tags": [
+      "books",
+      "selfeducation",
+      "awesome-list"
+    ]
+  },
   "https://www.mariocampos.io/blog/more-unix-tools-hints/": {
     "desc": "More Hints for Writing Unix Tools",
     "name": "More Hints for Writing Unix Tools",
