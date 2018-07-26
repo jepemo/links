@@ -310,6 +310,14 @@
       "tutorial"
     ]
   },
+  "http://www.petecorey.com/blog/2018/07/23/building-a-better-receive-loop/": {
+    "desc": "Building a Better Receive Loop",
+    "name": "Building a Better Receive Loop",
+    "tags": [
+      "elixir",
+      "bitcoin"
+    ]
+  },
   "http://www.philipotoole.com/designing-a-search-system-for-log-data-part-i/": {
     "desc": "Designing a search system for log data \u2014 part 1",
     "name": "Designing a search system for log data \u2014 part 1",
