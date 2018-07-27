@@ -512,6 +512,16 @@
       "rules"
     ]
   },
+  "https://codewords.recurse.com/issues/five/building-a-web-framework-from-scratch-in-elixir": {
+    "desc": "Building a web framework from scratch in Elixir",
+    "name": "Building a web framework from scratch in Elixir",
+    "tags": [
+      "elixir",
+      "web",
+      "plug",
+      "ecto"
+    ]
+  },
   "https://coinmarketcap.com": {
     "desc": "Show the historical values of the cryptocurrencies",
     "name": "CryptoCurrency Market Capitalizations",
