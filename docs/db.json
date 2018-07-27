@@ -413,6 +413,17 @@
       "search"
     ]
   },
+  "https://blog.cloudflare.com/the-road-to-quic/": {
+    "desc": "The Road to QUIC",
+    "name": "The Road to QUIC",
+    "tags": [
+      "quic",
+      "networking",
+      "http2",
+      "performance",
+      "security"
+    ]
+  },
   "https://blog.cryptographyengineering.com/2018/04/07/hash-based-signatures-an-illustrated-primer/": {
     "desc": "Hash-based Signatures: An illustrated Primer",
     "name": "Hash-based Signatures: An illustrated Primer",
