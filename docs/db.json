@@ -413,6 +413,14 @@
       "search"
     ]
   },
+  "https://blog.cryptographyengineering.com/2018/04/07/hash-based-signatures-an-illustrated-primer/": {
+    "desc": "Hash-based Signatures: An illustrated Primer",
+    "name": "Hash-based Signatures: An illustrated Primer",
+    "tags": [
+      "cryptography",
+      "101"
+    ]
+  },
   "https://blog.gojekengineering.com/resiliency-in-distributed-systems-efd30f74baf4": {
     "desc": "Resiliency in Distributed Systems",
     "name": "Resiliency in Distributed Systems",
