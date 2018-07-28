@@ -246,6 +246,16 @@
       "oldskool"
     ]
   },
+  "http://www.emulator101.com/": {
+    "desc": "Writing an arcade game emulator is an awesome learning project, and this tutorial will take you through the entire process in a very detailed way. Want to really learn how a CPU works? Writing an emulator is the best way to learn about it.",
+    "name": "Emulator 101",
+    "tags": [
+      "emulator",
+      "programing",
+      "101",
+      "clang"
+    ]
+  },
   "http://www.fast.ai/": {
     "desc": "fast.ai is dedicated to making the power of deep learning accessible to all",
     "name": "fast.ai: Making neural nets uncool again",
