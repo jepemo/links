@@ -41,6 +41,15 @@
       "tech"
     ]
   },
+  "http://banditalgs.com/": {
+    "desc": "Bandist algorithms book",
+    "name": "Bandit Algorithms book",
+    "tags": [
+      "statistics",
+      "algorithms",
+      "book"
+    ]
+  },
   "http://blog.ycombinator.com/building-for-the-blockchain/": {
     "desc": "Building for the Blockchain",
     "name": "Building for the Blockchain",
