@@ -598,6 +598,15 @@
       "university"
     ]
   },
+  "https://css-tricks.com/build-a-state-management-system-with-vanilla-javascript/": {
+    "desc": "Build a state management system with vanilla JavaScript",
+    "name": "Build a state management system with vanilla JavaScript",
+    "tags": [
+      "javascript",
+      "statemanagement",
+      "programming"
+    ]
+  },
   "https://developers.google.com/machine-learning/crash-course/": {
     "desc": "MACHINE LEARNING CRASH COURSE FROM GOOGLE",
     "name": "Curso intensivo de aprendizaje autom\u00e1tico",
