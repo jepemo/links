@@ -506,6 +506,14 @@
       "theory"
     ]
   },
+  "https://blog.ycombinator.com/learning-math-for-machine-learning/": {
+    "desc": "Learning Math for Machine Learning",
+    "name": "Learning Math for Machine Learning",
+    "tags": [
+      "machinelearning",
+      "math"
+    ]
+  },
   "https://bluxte.net/musings/2018/04/10/go-good-bad-ugly/": {
     "desc": "Go: the Good, the Bad and the Ugly",
     "name": "Go: the Good, the Bad and the Ugly",
