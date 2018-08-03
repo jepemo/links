@@ -50,6 +50,15 @@
       "book"
     ]
   },
+  "http://blog.erlang.org/beam-compiler-history/": {
+    "desc": "This blog post is a brief history lesson about the Erlang compiler for the BEAM machine. To provide some context, there will first be a quick look at the abstract machines for Erlang",
+    "name": "A Brief History of the BEAM Compiler",
+    "tags": [
+      "erlang",
+      "beam",
+      "vm"
+    ]
+  },
   "http://blog.ycombinator.com/building-for-the-blockchain/": {
     "desc": "Building for the Blockchain",
     "name": "Building for the Blockchain",
