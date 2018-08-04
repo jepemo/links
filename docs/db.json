@@ -124,6 +124,15 @@
       "documentary"
     ]
   },
+  "http://luk3thomas.com/notes/deploying-elixir/": {
+    "desc": "Deploying Elixir",
+    "name": "Deploying Elixir",
+    "tags": [
+      "elixir",
+      "deployment",
+      "docker"
+    ]
+  },
   "http://michal.space/ipns/michal.space/bitcoin-explained-part-one/": {
     "desc": "Bitcoin Workings Explained, For Real: Part One",
     "name": "Bitcoin Workings Explained, For Real: Part One",
