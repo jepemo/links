@@ -857,6 +857,14 @@
       "guide"
     ]
   },
+  "https://github.com/h4cc/awesome-elixir": {
+    "desc": "Awesome elixir",
+    "name": "Awesome elixir",
+    "tags": [
+      "elixir",
+      "awesome-lists"
+    ]
+  },
   "https://github.com/harpribot/awesome-information-retrieval": {
     "desc": "Curated list of information retrieval and web search resources from all around the web.",
     "name": "Awesome information retrieval",
