@@ -1599,6 +1599,16 @@
       "ethereum"
     ]
   },
+  "https://w3c-ccg.github.io/did-spec/": {
+    "desc": "Data Model and Syntaxes for Decentralized Identifiers (DIDs)",
+    "name": "Decentralized Identifiers (DIDs)",
+    "tags": [
+      "rfc",
+      "networking",
+      "protocol",
+      "digitalidentity"
+    ]
+  },
   "https://wilkerdos.com/2018/05/the-ultimate-plywood-workbench/": {
     "desc": "The Ultimate Plywood Workbench",
     "name": "The Ultimate Plywood Workbench",
