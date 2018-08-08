@@ -1463,6 +1463,15 @@
       "advanced"
     ]
   },
+  "https://research.fb.com/the-facebook-field-guide-to-machine-learning-video-series/": {
+    "desc": "Introducing the Facebook Field Guide to Machine Learning video series",
+    "name": "Introducing the Facebook Field Guide to Machine Learning video series",
+    "tags": [
+      "machinelearning",
+      "facebook",
+      "tutorial"
+    ]
+  },
   "https://safe-network-explained.github.io/safe-for-bitcoiners": {
     "desc": "SAFE Network explained using bitcoin terminology",
     "name": "SAFE Network explained using bitcoin terminology",
