@@ -830,6 +830,15 @@
       "study"
     ]
   },
+  "https://github.com/dylanaraps/pure-bash-bible": {
+    "desc": "A collection of pure bash alternatives to external processes",
+    "name": "Pure Bash Bible",
+    "tags": [
+      "bash",
+      "codesnippets",
+      "book"
+    ]
+  },
   "https://github.com/englianhu/binary.com-interview-question": {
     "desc": "The sample question for Interview a job in Binary options",
     "name": "The sample question for Interview a job in Binary options",
