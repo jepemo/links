@@ -524,6 +524,15 @@
       "theory"
     ]
   },
+  "https://blog.ssdnodes.com/blog/self-hosting-administration/": {
+    "desc": "Self-hosting administration: The self-hosting handbook",
+    "name": "Self-hosting administration: The self-hosting handbook",
+    "tags": [
+      "docker",
+      "systems",
+      "ti"
+    ]
+  },
   "https://blog.ycombinator.com/learning-math-for-machine-learning/": {
     "desc": "Learning Math for Machine Learning",
     "name": "Learning Math for Machine Learning",
