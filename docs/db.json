@@ -1726,6 +1726,16 @@
       "theory"
     ]
   },
+  "https://www.cs.vu.nl/~ast/Publications/Papers/computing-2016.pdf": {
+    "desc": "A brief introduction to distributed systems",
+    "name": "A brief introduction to distributed systems",
+    "tags": [
+      "distributedsystems",
+      "paper",
+      "tanenbaum",
+      "101"
+    ]
+  },
   "https://www.datacamp.com/community/tutorials/finance-python-trading": {
     "desc": "Python For Finance: Algorithmic Trading",
     "name": "Python For Finance: Algorithmic Trading",
