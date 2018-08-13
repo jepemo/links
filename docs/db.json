@@ -461,6 +461,15 @@
       "security"
     ]
   },
+  "https://blog.codinghorror.com/recommended-reading-for-developers/": {
+    "desc": "List of recommended readings for developers",
+    "name": "Recommended readings for developers",
+    "tags": [
+      "booklist",
+      "development",
+      "reading"
+    ]
+  },
   "https://blog.cryptographyengineering.com/2018/04/07/hash-based-signatures-an-illustrated-primer/": {
     "desc": "Hash-based Signatures: An illustrated Primer",
     "name": "Hash-based Signatures: An illustrated Primer",
