@@ -1447,6 +1447,15 @@
       "logic"
     ]
   },
+  "https://portswigger.net/blog/practical-web-cache-poisoning": {
+    "desc": "Practical Web Cache Poisoning",
+    "name": "Practical Web Cache Poisoning",
+    "tags": [
+      "web",
+      "security",
+      "cache"
+    ]
+  },
   "https://pragprog.com/magazines/2013-05/a-functional-introduction-to-lua": {
     "desc": "Creating Some Fireworks with Lua",
     "name": "Creating Some Fireworks with Lua",
