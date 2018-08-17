@@ -867,6 +867,14 @@
       "quantitative"
     ]
   },
+  "https://github.com/gojektech/awesome-distributed-systems": {
+    "desc": "Awesome distributed systems",
+    "name": "Awesome distributed systems",
+    "tags": [
+      "distributedsystems",
+      "awesome-lists"
+    ]
+  },
   "https://github.com/google/python-fire": {
     "desc": "fire: Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.",
     "name": "fire: Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.",
