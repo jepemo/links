@@ -1557,6 +1557,16 @@
       "golang"
     ]
   },
+  "https://stanford.edu/~shervine/teaching/cs-229.html": {
+    "desc": "Stanford's CS229 machine learning cheatsheets",
+    "name": "Machine learning cheatsheets",
+    "tags": [
+      "machinelarning",
+      "stanford",
+      "cheatsheets",
+      "deeplearning"
+    ]
+  },
   "https://steemit.com/bitcoin/@vhmcrypto/trading-strategy-101-understanding-cryptocurrency-volume": {
     "desc": "Trading Strategy 101 \u2013 Understanding Cryptocurrency Volume",
     "name": "Trading Strategy 101 \u2013 Understanding Cryptocurrency Volume",
