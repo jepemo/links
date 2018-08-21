@@ -245,6 +245,15 @@
       "tutorial"
     ]
   },
+  "http://www.acodersjourney.com/2018/08/database-sharding/": {
+    "desc": "System Design Interview Concepts \u2013 Database Sharding",
+    "name": "System Design Interview Concepts \u2013 Database Sharding",
+    "tags": [
+      "distributedsystems",
+      "databases",
+      "sharding"
+    ]
+  },
   "http://www.carbondesignsystem.com/": {
     "desc": "Carbon design system",
     "name": "Carbon design System",
