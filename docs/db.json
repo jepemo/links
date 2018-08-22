@@ -791,6 +791,14 @@
       "tutorial"
     ]
   },
+  "https://github.com/DavidJohnstonCEO/DecentralizedApplications": {
+    "desc": "The General Theory of Decentralized Applications, Dapps",
+    "name": "The General Theory of Decentralized Applications, Dapps",
+    "tags": [
+      "blockchain",
+      "dapps"
+    ]
+  },
   "https://github.com/DovAmir/awesome-design-patterns": {
     "desc": "Awesome design patterns list",
     "name": "Awesome design patterns",
