@@ -1142,6 +1142,14 @@
       "consitency"
     ]
   },
+  "https://jes.al/crypto-table/": {
+    "desc": "A Periodic Table of Cryptocurrencies",
+    "name": "Crypto Table",
+    "tags": [
+      "cryptocurrencies",
+      "graph"
+    ]
+  },
   "https://jvns.ca/blog/2018/03/05/things-ive-learned-networking/": {
     "desc": "A few things I've learned about computer networking",
     "name": "A few things I've learned about computer networking",
