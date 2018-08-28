@@ -1608,6 +1608,16 @@
       "trading"
     ]
   },
+  "https://stephenmann.io/post/whats-in-a-production-web-application/": {
+    "desc": "What's in a Production Web Application?",
+    "name": "What's in a Production Web Application?",
+    "tags": [
+      "infrastructure",
+      "devops",
+      "web",
+      "webserver"
+    ]
+  },
   "https://suckless.org/": {
     "desc": "software that sucks less",
     "name": "software that sucks less",
