@@ -415,6 +415,15 @@
       "paper"
     ]
   },
+  "https://beej.us/guide/bggdb/": {
+    "desc": "Beej's Quick Guide to GDB",
+    "name": "Beej's Quick Guide to GDB",
+    "tags": [
+      "clang",
+      "debugging",
+      "gdb"
+    ]
+  },
   "https://bitbucket.org/MartinFelis/love-android-sdl2/": {
     "desc": "Love2d Android Bitbucket",
     "name": "Love2d Android Bitbucket",
