@@ -1469,6 +1469,16 @@
       "essay"
     ]
   },
+  "https://people.csail.mit.edu/jshun/6886-s18/": {
+    "desc": "6.886 Graph Analytics Spring 2018",
+    "name": "6.886 Graph Analytics Spring 2018",
+    "tags": [
+      "graph",
+      "graphanalysis",
+      "course",
+      "papers"
+    ]
+  },
   "https://pillow.readthedocs.io/en/5.1.x/": {
     "desc": "Pillow is the friendly PIL fork",
     "name": "Pillow is the friendly PIL fork",
