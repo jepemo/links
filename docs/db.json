@@ -417,6 +417,15 @@
       "webdevelopment"
     ]
   },
+  "https://about.sourcegraph.com/go/gophercon-2018-rethinking-classical-concurrency-patterns/": {
+    "desc": "GopherCon 2018 - Rethinking Classical Concurrency Patterns",
+    "name": "GopherCon 2018 - Rethinking Classical Concurrency Patterns",
+    "tags": [
+      "golang",
+      "concurrency",
+      "patterns"
+    ]
+  },
   "https://arxiv.org/pdf/1409.5196.pdf": {
     "desc": "How to read probability distributions as statements about process",
     "name": "How to read probability distributions as statements about process",
