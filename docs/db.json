@@ -264,6 +264,16 @@
       "theme"
     ]
   },
+  "http://www.dataorienteddesign.com/dodmain/": {
+    "desc": "Data-Oriented Design BOOK",
+    "name": "Data-Oriented Design",
+    "tags": [
+      "data",
+      "book",
+      "patterns",
+      "algorithms"
+    ]
+  },
   "http://www.dbms2.com/2015/04/16/notes-on-indexes-and-index-like-structures/": {
     "desc": "Notes on indexes and index-like structures",
     "name": "Notes on indexes and index-like structures",
