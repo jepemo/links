@@ -1263,6 +1263,16 @@
       "introduction"
     ]
   },
+  "https://medium.com/@arriqaaq/chord-building-a-dht-distributed-hash-table-in-golang-67c3ce17417b": {
+    "desc": "Chord: Building a DHT (Distributed Hash Table) in Golang",
+    "name": "Chord: Building a DHT (Distributed Hash Table) in Golang",
+    "tags": [
+      "golang",
+      "dht",
+      "distributedsystems",
+      "implementation"
+    ]
+  },
   "https://medium.com/@bellmar/hello-world-on-z-os-a0ef31c1e87f": {
     "desc": "Hello World on zOS",
     "name": "Hello World on zOS",
