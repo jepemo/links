@@ -1489,6 +1489,15 @@
       "linux"
     ]
   },
+  "https://ops.tips/blog/dmesg-under-the-hood/": {
+    "desc": "Dmesg allows us to grasp what's going on under the hood when the kernel gets bad. Check out how dmesg is able to read kernel logs and show to the user",
+    "name": "Dmesg under the hood",
+    "tags": [
+      "dmesg",
+      "linux",
+      "internals"
+    ]
+  },
   "https://ordepdev.me/posts/what-you-should-know-about-database-storage-and-retrieval": {
     "desc": "List of papers about databases",
     "name": "What you should know about database storage and retrieval",
