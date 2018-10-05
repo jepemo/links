@@ -688,6 +688,17 @@
       "programming"
     ]
   },
+  "https://depletionmode.com/zircon-process.html": {
+    "desc": "Admiring the Zircon Part 1: Understanding Minimal Process Creation",
+    "name": "Admiring the Zircon Part 1: Understanding Minimal Process Creation",
+    "tags": [
+      "zircon",
+      "programming",
+      "internals",
+      "os",
+      "so"
+    ]
+  },
   "https://developers.google.com/machine-learning/crash-course/": {
     "desc": "MACHINE LEARNING CRASH COURSE FROM GOOGLE",
     "name": "Curso intensivo de aprendizaje autom\u00e1tico",
