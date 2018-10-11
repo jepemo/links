@@ -426,6 +426,16 @@
       "patterns"
     ]
   },
+  "https://arjunsreedharan.org/post/148675821737/memory-allocators-101-write-a-simple-memory": {
+    "desc": "This article is about writing a simple memory allocator in C",
+    "name": "Memory Allocators 101 - Write a simple memory allocator",
+    "tags": [
+      "clang",
+      "internals",
+      "memory",
+      "programming"
+    ]
+  },
   "https://arxiv.org/pdf/1409.5196.pdf": {
     "desc": "How to read probability distributions as statements about process",
     "name": "How to read probability distributions as statements about process",
