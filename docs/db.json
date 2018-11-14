@@ -1074,6 +1074,16 @@
       "library"
     ]
   },
+  "https://github.com/seriousmac/awesome-qa": {
+    "desc": "Awesome Question Answering",
+    "name": "awesome-qa",
+    "tags": [
+      "questionanswering",
+      "awesome-lists",
+      "qa",
+      "papers"
+    ]
+  },
   "https://github.com/theanalyst/awesome-distributed-systems": {
     "desc": "A curated list to learn about distributed systems",
     "name": "A curated list to learn about distributed systems",
