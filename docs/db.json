@@ -922,6 +922,15 @@
       "cryptocurrency"
     ]
   },
+  "https://github.com/cyberwizardinstitute/workshops": {
+    "desc": "lecture notes for cyberwizard workshops",
+    "name": "Workshops Guide",
+    "tags": [
+      "workshop",
+      "sheets",
+      "guides"
+    ]
+  },
   "https://github.com/donnemartin/system-design-primer": {
     "desc": "Learn how to design large-scale systems. Prep for the system design interview.",
     "name": "Systems design primer",
