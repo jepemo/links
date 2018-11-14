@@ -912,6 +912,15 @@
       "nlu"
     ]
   },
+  "https://github.com/adnzzzzZ/blog": {
+    "desc": "Blog posts about game programming",
+    "name": "gamedev blog",
+    "tags": [
+      "gamedev",
+      "programming",
+      "gameprogramming"
+    ]
+  },
   "https://github.com/cmahon/awesome-cryptocurrency": {
     "desc": "A curated list of awesome blockchain, cryptocurrency and fintech resources. Early stage work in progress.",
     "name": "awesome cryptocurrencies",
@@ -1146,6 +1155,14 @@
       "dataanalysis",
       "machinelearning",
       "projects"
+    ]
+  },
+  "https://github.com/yuanqing/vim-basics": {
+    "desc": "https://github.com/yuanqing/vim-basics",
+    "name": "Vim Basics",
+    "tags": [
+      "vim",
+      "101"
     ]
   },
   "https://gkbrk.com/2018/06/fetching-activitypub-feeds/": {
