@@ -1715,6 +1715,16 @@
       "golang"
     ]
   },
+  "https://staltz.com/reinvent-the-social-web.html": {
+    "desc": "REINVENT THE SOCIAL WEB",
+    "name": "REINVENT THE SOCIAL WEB",
+    "tags": [
+      "dweb",
+      "socialnetworks",
+      "distributed",
+      "scuttlebutt"
+    ]
+  },
   "https://stanford.edu/~shervine/teaching/cs-229.html": {
     "desc": "Stanford's CS229 machine learning cheatsheets",
     "name": "Machine learning cheatsheets",
