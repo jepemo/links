@@ -2141,6 +2141,15 @@
       "tutorial"
     ]
   },
+  "https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/": {
+    "desc": "Notes on Distributed Systems for Young Bloods",
+    "name": "Notes on Distributed Systems for Young Bloods",
+    "tags": [
+      "distributedsystems",
+      "101",
+      "notes"
+    ]
+  },
   "https://www.toptal.com/python/introduction-python-microservices-nameko": {
     "desc": "Introduction to Python Microservices with Nameko",
     "name": "Introduction to Python Microservices with Nameko",
