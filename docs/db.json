@@ -409,6 +409,15 @@
       "implementation"
     ]
   },
+  "https://80000hours.org/articles/ml-engineering-career-transition-guide/": {
+    "desc": "ML engineering for AI safety & robustness: a Google Brain engineer\u2019s guide to entering the field",
+    "name": "ML engineering for AI safety & robustness: a Google Brain engineer\u2019s guide to entering the field",
+    "tags": [
+      "machinelearning",
+      "guide",
+      "101"
+    ]
+  },
   "https://able.bio/drenther/react-server-side-rendering-from-scratch--43mfqwo": {
     "desc": "We will implement a basic server-side rendering React app from scratch using express",
     "name": "React Server-Side Rendering from Scratch",
