@@ -374,6 +374,14 @@
       "bitcoin"
     ]
   },
+  "http://www.petecorey.com/blog/tags/#elixir": {
+    "desc": "BLog series about elixir",
+    "name": "Blog series about Elixir",
+    "tags": [
+      "elixir",
+      "programming"
+    ]
+  },
   "http://www.philipotoole.com/designing-a-search-system-for-log-data-part-i/": {
     "desc": "Designing a search system for log data \u2014 part 1",
     "name": "Designing a search system for log data \u2014 part 1",
@@ -2159,6 +2167,15 @@
       "distributedsystems",
       "101",
       "notes"
+    ]
+  },
+  "https://www.theerlangelist.com/article/macros_1": {
+    "desc": "Series of articles about elixir macros programming",
+    "name": "Understanting Macros (Elixir)",
+    "tags": [
+      "elixir",
+      "programming",
+      "macros"
     ]
   },
   "https://www.toptal.com/python/introduction-python-microservices-nameko": {
