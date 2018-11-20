@@ -1932,6 +1932,14 @@
       "cuba"
     ]
   },
+  "https://words.saulecabrera.com/posts/exploring-plug-the-body-reader/": {
+    "desc": "Elixir plug introduction",
+    "name": "Exploring Plug: The Body Reader",
+    "tags": [
+      "elixir",
+      "plug"
+    ]
+  },
   "https://www.aitribune.com/article/2018071087": {
     "desc": "This tutorial will implement the genetic algorithm optimization technique in Python based on a simple example in which we are trying to maximize the output of an equation. The tutorial uses the decimal representation for genes, one point crossover, and uniform mutation",
     "name": "Genetic Algorithm Implementation in Python",
