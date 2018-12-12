@@ -15,6 +15,15 @@
       "theory"
     ]
   },
+  "http://academictorrents.com/": {
+    "desc": "Research data",
+    "name": "Academic torrents",
+    "tags": [
+      "torrents",
+      "datasets",
+      "database"
+    ]
+  },
   "http://akumuli.org/akumuli/2017/04/29/nbplustree/": {
     "desc": "Storage engine design(Part 1)",
     "name": "Storage engine design(Part 1)",
