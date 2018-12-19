@@ -2140,6 +2140,17 @@
       "multimedia"
     ]
   },
+  "https://www.quantinsti.com/blog/rnn-lstm-gru-trading": {
+    "desc": "RNN, LSTM, And GRU For Trading",
+    "name": "RNN, LSTM, And GRU For Trading",
+    "tags": [
+      "machinelearning",
+      "trading",
+      "finance",
+      "python",
+      "programming"
+    ]
+  },
   "https://www.quantstart.com/articles/Quantitative-Finance-Reading-List": {
     "desc": "Quantitative Finance Reading List",
     "name": "Quantitative Finance Reading List",
