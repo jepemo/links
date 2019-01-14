@@ -1526,6 +1526,16 @@
       "introduction"
     ]
   },
+  "https://musicmap.info/": {
+    "desc": "Music map styles",
+    "name": "Music map",
+    "tags": [
+      "music",
+      "infography",
+      "list",
+      "history"
+    ]
+  },
   "https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/": {
     "desc": "An Illustrated Proof of the CAP Theorem",
     "name": "An Illustrated Proof of the CAP Theorem",
