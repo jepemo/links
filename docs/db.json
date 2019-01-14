@@ -218,6 +218,15 @@
       "console"
     ]
   },
+  "http://themlbook.com/wiki/doku.php": {
+    "desc": "Introduction Book to machine learning",
+    "name": "The Hundred-Page Machine Learning Book",
+    "tags": [
+      "machinelearning",
+      "book",
+      "introduction"
+    ]
+  },
   "http://videlalvaro.github.io/2015/12/learning-about-distributed-systems.html": {
     "desc": "What We Talk About When We Talk About Distributed Systems",
     "name": "What We Talk About When We Talk About Distributed Systems",
