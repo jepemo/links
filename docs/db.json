@@ -384,6 +384,17 @@
       "tutorial"
     ]
   },
+  "http://www.maizure.org/projects/decoded-gnu-coreutils/index.html": {
+    "desc": "Decoded: GNU coreutils",
+    "name": "Decoded: GNU coreutils",
+    "tags": [
+      "gnu",
+      "coreutils",
+      "linux",
+      "commands",
+      "utils"
+    ]
+  },
   "http://www.petecorey.com/blog/2018/07/23/building-a-better-receive-loop/": {
     "desc": "Building a Better Receive Loop",
     "name": "Building a Better Receive Loop",
