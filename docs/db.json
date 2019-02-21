@@ -208,6 +208,15 @@
       "os"
     ]
   },
+  "http://people.ischool.berkeley.edu/~dbamman/nlp18.html": {
+    "desc": "Natural language processsing slides from Berkley 2018",
+    "name": "Natural Language Processing slides",
+    "tags": [
+      "nlp",
+      "slides",
+      "berkeley"
+    ]
+  },
   "http://rogueliketutorials.com/": {
     "desc": "Python Roguelike Tutorial",
     "name": "Python Roguelike Tutorial",
