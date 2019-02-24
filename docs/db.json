@@ -404,6 +404,17 @@
       "utils"
     ]
   },
+  "http://www.oldlinux.org/download/ECLK-5.0-WithCover.pdf": {
+    "desc": "A heavily Commented Linux Kernel Source Code",
+    "name": "A heavily Commented Linux Kernel Source Code",
+    "tags": [
+      "kernel",
+      "linux",
+      "programming",
+      "os",
+      "internals"
+    ]
+  },
   "http://www.petecorey.com/blog/2018/07/23/building-a-better-receive-loop/": {
     "desc": "Building a Better Receive Loop",
     "name": "Building a Better Receive Loop",
