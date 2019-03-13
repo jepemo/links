@@ -449,6 +449,16 @@
       "introduction"
     ]
   },
+  "http://www.radicle.xyz/": {
+    "desc": "radicle - A peer-to-peer stack for code collaboration",
+    "name": "radicle - A peer-to-peer stack for code collaboration",
+    "tags": [
+      "ipfs",
+      "distributedweb",
+      "filesystem",
+      "git"
+    ]
+  },
   "http://www.redbook.io/index.html": {
     "desc": "Readings in Database Systems, 5th Edition",
     "name": "Readings in Database Systems, 5th Edition",
