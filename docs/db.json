@@ -310,6 +310,15 @@
       "implementation"
     ]
   },
+  "http://www.defmacro.org/": {
+    "desc": "Blog abount functional programming, databases, etc",
+    "name": "Defmacro Blog",
+    "tags": [
+      "blog",
+      "tech",
+      "technical"
+    ]
+  },
   "http://www.dourish.com/goodies/jargon.html": {
     "desc": "The Original Hacker's Dictionary",
     "name": "The Original Hacker's Dictionary",
