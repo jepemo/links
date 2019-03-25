@@ -1958,6 +1958,17 @@
       "chaosnet"
     ]
   },
+  "https://txt.black/~jack/": {
+    "desc": "Minimalistic blog about technology",
+    "name": "Txt jack blog",
+    "tags": [
+      "blog",
+      "personal",
+      "technology",
+      "old-skool",
+      "unix"
+    ]
+  },
   "https://unwttng.com/home": {
     "desc": "Jack Preston blog",
     "name": "Jack Preston blog",
