@@ -1838,6 +1838,16 @@
       "programming"
     ]
   },
+  "https://shubheksha.com/posts/": {
+    "desc": "Shubheksha Jalan Blog",
+    "name": "Shubheksha Jalan blog",
+    "tags": [
+      "blog",
+      "oldskool",
+      "papers",
+      "ditributedsystems"
+    ]
+  },
   "https://stackshare.io/stream/stream-and-go-news-feeds-for-over-300-million-end-users": {
     "desc": "Stream & Go: News Feeds for Over 300 Million End Users",
     "name": "Stream & Go: News Feeds for Over 300 Million End Users",
