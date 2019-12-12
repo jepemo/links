@@ -736,6 +736,15 @@
       "ecto"
     ]
   },
+  "https://codewords.recurse.com/issues/two/git-from-the-inside-out": {
+    "desc": "This essay explains how Git works. It assumes you understand Git well enough to use it to version control your projects",
+    "name": "Git from the inside out",
+    "tags": [
+      "git",
+      "internals",
+      "learning"
+    ]
+  },
   "https://coinmarketcap.com": {
     "desc": "Show the historical values of the cryptocurrencies",
     "name": "CryptoCurrency Market Capitalizations",
@@ -1034,6 +1043,16 @@
       "book"
     ]
   },
+  "https://github.com/enaqx/awesome-pentest#books": {
+    "desc": "Secutiry book list",
+    "name": "Secutiry book list",
+    "tags": [
+      "infosec",
+      "book",
+      "list",
+      "secutiry"
+    ]
+  },
   "https://github.com/englianhu/binary.com-interview-question": {
     "desc": "The sample question for Interview a job in Binary options",
     "name": "The sample question for Interview a job in Binary options",
@@ -1083,6 +1102,16 @@
     "tags": [
       "awesome-list",
       "informationretrieval"
+    ]
+  },
+  "https://github.com/honda0306/notes-on-security": {
+    "desc": "Security resources",
+    "name": "Notes-on-Security",
+    "tags": [
+      "security",
+      "resources",
+      "awesome-list",
+      "infosec"
     ]
   },
   "https://github.com/iliakan/javascript-tutorial-en": {
@@ -1933,6 +1962,16 @@
       "nlp"
     ]
   },
+  "https://tisiphone.net/2015/10/12/starting-an-infosec-career-the-megamix-chapters-1-3/": {
+    "desc": "Starting an InfoSec Career",
+    "name": "Starting an InfoSec Career",
+    "tags": [
+      "infosec",
+      "security",
+      "howto",
+      "path"
+    ]
+  },
   "https://tomassetti.me/guide-parsing-algorithms-terminology/": {
     "desc": "in-depth presentation of the concepts and algorithms used in parsing",
     "name": "A Guide to Parsing: Algorithms and Terminology",
@@ -2121,6 +2160,15 @@
       "101"
     ]
   },
+  "https://www.cse.unsw.edu.au/~gernot/benchmarking-crimes.html": {
+    "desc": "Systems Benchmarking Crimes",
+    "name": "Systems Benchmarking Crimes",
+    "tags": [
+      "benchmarks",
+      "howto",
+      "paper"
+    ]
+  },
   "https://www.datacamp.com/community/tutorials/finance-python-trading": {
     "desc": "Python For Finance: Algorithmic Trading",
     "name": "Python For Finance: Algorithmic Trading",
@@ -2130,6 +2178,16 @@
       "algorithms",
       "101",
       "introduction"
+    ]
+  },
+  "https://www.defcon.org/html/links/book-list.html": {
+    "desc": "Defcon book list",
+    "name": "Defcon book list",
+    "tags": [
+      "infosec",
+      "boolist",
+      "security",
+      "hacking"
     ]
   },
   "https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147": {
