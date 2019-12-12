@@ -494,6 +494,17 @@
       "101"
     ]
   },
+  "https://aaronrenner.io/2019/09/18/application-layering-a-pattern-for-extensible-elixir-application-design.html": {
+    "desc": "Application Layering - A Pattern for Extensible Elixir Application Design",
+    "name": "Application Layering - A Pattern for Extensible Elixir Application Design",
+    "tags": [
+      "elixir",
+      "softwarepatterns",
+      "software",
+      "patterns",
+      "architecture"
+    ]
+  },
   "https://able.bio/drenther/react-server-side-rendering-from-scratch--43mfqwo": {
     "desc": "We will implement a basic server-side rendering React app from scratch using express",
     "name": "React Server-Side Rendering from Scratch",
@@ -691,6 +702,14 @@
       "language"
     ]
   },
+  "https://bootcamp.geekshubsacademy.com/especializacion/devops/": {
+    "desc": "Bootcamp devops",
+    "name": "Bootcamp Devops",
+    "tags": [
+      "devops",
+      "bootcamp"
+    ]
+  },
   "https://boyter.org/posts/how-to-start-go-project-2018/": {
     "desc": "How to start a Go project in 2018",
     "name": "How to start a Go project in 2018",
@@ -715,6 +734,16 @@
     "tags": [
       "cryptocurrencies",
       "trading"
+    ]
+  },
+  "https://chelseatroy.com/2017/09/16/advance-your-tech-career-what-are-stock-options-and-how-do-i-use-them/": {
+    "desc": "Advance Your Tech Career: What are stock options, and how do I use them?",
+    "name": "Advance Your Tech Career: What are stock options, and how do I use them?",
+    "tags": [
+      "bussiness",
+      "culture",
+      "tech",
+      "tips"
     ]
   },
   "https://chris.beams.io/posts/git-commit/": {
@@ -751,6 +780,16 @@
     "tags": [
       "cryptocurrencies",
       "stats"
+    ]
+  },
+  "https://course.elementsofai.com/": {
+    "desc": "Free online course AI",
+    "name": "Free Online Course AI",
+    "tags": [
+      "ai",
+      "artificialintelligence",
+      "course",
+      "mooc"
     ]
   },
   "https://cryptowat.ch/": {
@@ -940,6 +979,16 @@
       "python",
       "web",
       "tutorial"
+    ]
+  },
+  "https://gist.github.com/zhengbli/76c36f875efc51d3421f99d3d116ad2c": {
+    "desc": "Discriminated Unions in C# -- An Unexceptional Love Story",
+    "name": "Discriminated Unions in C# -- An Unexceptional Love Story",
+    "tags": [
+      "dotnet",
+      "csharp",
+      "architecture",
+      "patterns"
     ]
   },
   "https://github.com/DavidJohnstonCEO/DecentralizedApplications": {
@@ -1141,6 +1190,18 @@
       "graphic",
       "diagram",
       "developer"
+    ]
+  },
+  "https://github.com/kgrzybek/modular-monolith-with-ddd": {
+    "desc": "Full Modular Monolith .NET application with Domain-Driven Design approach",
+    "name": "Modular Monolith with DDD",
+    "tags": [
+      "csharp",
+      "software",
+      "architecture",
+      "patterns",
+      "dotnet",
+      "microservices"
     ]
   },
   "https://github.com/learn-anything/books": {
@@ -1430,6 +1491,16 @@
       "webdev",
       "resources",
       "ssl"
+    ]
+  },
+  "https://logicmag.io/play/interview-with-an-anonymous-algorithmic-trader/": {
+    "desc": "Money Machines: an Interview with an Anonymous Algorithmic Trader",
+    "name": "Money Machines: an Interview with an Anonymous Algorithmic Trader",
+    "tags": [
+      "trading",
+      "interview",
+      "finances",
+      "quantitative"
     ]
   },
   "https://love2d.org/forums/viewtopic.php?t=82166": {
@@ -1877,6 +1948,16 @@
       "ditributedsystems"
     ]
   },
+  "https://spectrum.ieee.org/tech-talk/robotics/artificial-intelligence/andrey-markov-and-claude-shannon-built-the-first-language-generation-models": {
+    "desc": "Andrey Markov & Claude Shannon Counted Letters to Build the First Language-Generation Models",
+    "name": "Andrey Markov & Claude Shannon Counted Letters to Build the First Language-Generation Models",
+    "tags": [
+      "nlp",
+      "naturallanguageprocessing",
+      "intro",
+      "history"
+    ]
+  },
   "https://stackshare.io/stream/stream-and-go-news-feeds-for-over-300-million-end-users": {
     "desc": "Stream & Go: News Feeds for Over 300 Million End Users",
     "name": "Stream & Go: News Feeds for Over 300 Million End Users",
@@ -2208,6 +2289,15 @@
       "hacking"
     ]
   },
+  "https://www.hodlbot.io/blog//constructing-cryptocurrency-indices": {
+    "desc": "Constructing a Cryptocurrency Index - Analysis & Methodology",
+    "name": "Constructing a Cryptocurrency Index - Analysis & Methodology",
+    "tags": [
+      "cryptocurrencies",
+      "trading",
+      "indexes"
+    ]
+  },
   "https://www.inqdo.com/aws-explained-the-basics/?lang=en": {
     "desc": "AWS explained: the basics",
     "name": "AWS explained: the basics",
@@ -2225,6 +2315,18 @@
       "golang",
       "article",
       "programming"
+    ]
+  },
+  "https://www.kamilgrzybek.com/design/modular-monolith-primer/": {
+    "desc": "Modular Monolith: A Primer",
+    "name": "Modular Monolith: A Primer",
+    "tags": [
+      "csharp",
+      "software",
+      "architecture",
+      "patterns",
+      "dotnet",
+      "microservices"
     ]
   },
   "https://www.kdnuggets.com/2018/04/understanding-behind-sentiment-analysis-part-1.html": {
@@ -2401,6 +2503,17 @@
     "tags": [
       "css",
       "guide"
+    ]
+  },
+  "https://zohaib.me/railway-programming-pattern-in-elixir/": {
+    "desc": "Railway Oriented Programming in Elixir",
+    "name": "Railway Oriented Programming in Elixir",
+    "tags": [
+      "elixir",
+      "softwarepatterns",
+      "patterns",
+      "software",
+      "functional"
     ]
   }
 }
