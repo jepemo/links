@@ -2015,6 +2015,17 @@
       "oldskool"
     ]
   },
+  "https://sujithjay.com/data-systems/dynamo-cassandra/": {
+    "desc": "Dynamo vs Cassandra : Systems Design of NoSQL Databases",
+    "name": "Dynamo vs Cassandra : Systems Design of NoSQL Databases",
+    "tags": [
+      "distributedsystems",
+      "databases",
+      "cassandra",
+      "dynamo",
+      "theory"
+    ]
+  },
   "https://talks.golang.org/2013/distsys.slide#1": {
     "desc": "Go, for Distributed Systems",
     "name": "Go, for Distributed Systems",
