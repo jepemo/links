@@ -1513,6 +1513,15 @@
       "android"
     ]
   },
+  "https://martinheinz.dev/": {
+    "desc": "Martin Heinz Blog",
+    "name": "Martin Heinz Blog",
+    "tags": [
+      "blog",
+      "development",
+      "personal"
+    ]
+  },
   "https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e": {
     "desc": "How computers understand Human Language",
     "name": "Natural Language Processing is Fun!",
