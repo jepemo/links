@@ -883,6 +883,16 @@
       "reference"
     ]
   },
+  "https://docs.quantifiedcode.com/python-anti-patterns/index.html": {
+    "desc": "Python Anti-Patterns",
+    "name": "Python Anti-Patterns",
+    "tags": [
+      "python",
+      "softwarepatterns",
+      "softwaredesign",
+      "patterns"
+    ]
+  },
   "https://eli.thegreenplace.net/2017/concurrent-servers-part-1-introduction/": {
     "desc": "Concurrent Servers: Part 1 - Introduction",
     "name": "Concurrent Servers: Part 1 - Introduction",
