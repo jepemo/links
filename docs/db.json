@@ -728,6 +728,24 @@
       "storage"
     ]
   },
+  "https://carolchen.me/blog/jits-impls/": {
+    "desc": "How JIT Compilers are Implemented and Fast: Pypy, LuaJIT, Graal and More",
+    "name": "How JIT Compilers are Implemented and Fast: Pypy, LuaJIT, Graal and More",
+    "tags": [
+      "compilers",
+      "jit",
+      "python"
+    ]
+  },
+  "https://carolchen.me/blog/jits-intro/": {
+    "desc": "A Deep Introduction to JIT Compilers: JITs are not very Just-in-time",
+    "name": "A Deep Introduction to JIT Compilers: JITs are not very Just-in-time",
+    "tags": [
+      "compilers",
+      "jit",
+      "python"
+    ]
+  },
   "https://chainoperator.com/cryptocurrency-trading-guide/": {
     "desc": "Trading Cryptocurrency in 2018: The Definitive Guide",
     "name": "Trading Cryptocurrency in 2018: The Definitive Guide",
@@ -1475,6 +1493,15 @@
       "comic"
     ]
   },
+  "https://kolosek.com/elixir-basic-api-guide/": {
+    "desc": "Elixir api guide",
+    "name": "Elixir api guide",
+    "tags": [
+      "elixir",
+      "api",
+      "guide"
+    ]
+  },
   "https://learnxinyminutes.com/docs/elixir/": {
     "desc": "Learn Elixir in Y minutes",
     "name": "Learn Elixir in Y Minutes",
@@ -1521,6 +1548,23 @@
       "packaging",
       "love2d",
       "android"
+    ]
+  },
+  "https://martinfowler.com/articles/agile-threat-modelling.html": {
+    "desc": "A Guide to Threat Modelling for Developers",
+    "name": "A Guide to Threat Modelling for Developers",
+    "tags": [
+      "security",
+      "softwaredevelopment"
+    ]
+  },
+  "https://martinfowler.com/articles/branching-patterns.html": {
+    "desc": "Patterns for Managing Source Code Branches",
+    "name": "Patterns for Managing Source Code Branches",
+    "tags": [
+      "branching",
+      "softwaredevelopment",
+      "patterns"
     ]
   },
   "https://martinheinz.dev/": {
@@ -2173,6 +2217,17 @@
       "ethereum"
     ]
   },
+  "https://victorzhou.com/tag/machine-learning/": {
+    "desc": "Machine Learning is, put simply, getting computers to generalize from examples. And that's what I try to do: put [seemingly complicated] things simply. My posts on Machine Learning (ML) consist primarily of beginner-focused introductions to common ML models or concepts. I felt like too many ML tutorials weren't accessible enough, so I strove to make my guides as clear and beginner-friendly as possible.",
+    "name": "Machine Learning",
+    "tags": [
+      "machinelearning",
+      "tutorial",
+      "101",
+      "neuralnetworks",
+      "implementation"
+    ]
+  },
   "https://w3c-ccg.github.io/did-spec/": {
     "desc": "Data Model and Syntaxes for Decentralized Identifiers (DIDs)",
     "name": "Decentralized Identifiers (DIDs)",
@@ -2233,6 +2288,14 @@
     "tags": [
       "reverseengineering",
       "introduction"
+    ]
+  },
+  "https://www.benkuhn.net/progessays/": {
+    "desc": "Essays on programming I think about a lot",
+    "name": "Essays on programming I think about a lot",
+    "tags": [
+      "articles",
+      "programming"
     ]
   },
   "https://www.bitwiseinvestments.com/index": {
@@ -2504,6 +2567,15 @@
       "elixir",
       "programming",
       "macros"
+    ]
+  },
+  "https://www.toptal.com/algorithms/metropolis-hastings-bayesian-inference": {
+    "desc": "MCMC Methods: Metropolis-Hastings and Bayesian Inference",
+    "name": "MCMC Methods: Metropolis-Hastings and Bayesian Inference",
+    "tags": [
+      "mathematics",
+      "inference",
+      "bayesian"
     ]
   },
   "https://www.toptal.com/python/introduction-python-microservices-nameko": {
