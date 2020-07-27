@@ -540,6 +540,16 @@
       "paper"
     ]
   },
+  "https://aws.amazon.com/es/builders-library/challenges-with-distributed-systems/": {
+    "desc": "Amazon blog introduction to challenges with distributed systems",
+    "name": "Challenges with distributed systems",
+    "tags": [
+      "distributedsystems",
+      "amazon",
+      "article",
+      "introduction"
+    ]
+  },
   "https://beej.us/guide/bggdb/": {
     "desc": "Beej's Quick Guide to GDB",
     "name": "Beej's Quick Guide to GDB",
@@ -1377,6 +1387,14 @@
       "theory"
     ]
   },
+  "https://gto76.github.io/linux-cheatsheet/": {
+    "desc": "Linux cheatsheet",
+    "name": "Linux cheatsheet",
+    "tags": [
+      "linux",
+      "cheatsheet"
+    ]
+  },
   "https://hackaday.com/2018/07/12/its-all-in-the-libs-building-a-plugin-system-using-dynamic-loading/": {
     "desc": "IT\u2019S ALL IN THE LIBS \u2013 BUILDING A PLUGIN SYSTEM USING DYNAMIC LOADING",
     "name": "IT\u2019S ALL IN THE LIBS \u2013 BUILDING A PLUGIN SYSTEM USING DYNAMIC LOADING",
@@ -2011,6 +2029,15 @@
       "ditributedsystems"
     ]
   },
+  "https://sjmulder.nl/en/textonly.html": {
+    "desc": "Text-only* websites",
+    "name": "Text-only* websites",
+    "tags": [
+      "websites",
+      "text",
+      "oldskool"
+    ]
+  },
   "https://spectrum.ieee.org/tech-talk/robotics/artificial-intelligence/andrey-markov-and-claude-shannon-built-the-first-language-generation-models": {
     "desc": "Andrey Markov & Claude Shannon Counted Letters to Build the First Language-Generation Models",
     "name": "Andrey Markov & Claude Shannon Counted Letters to Build the First Language-Generation Models",
@@ -2381,6 +2408,18 @@
       "networks",
       "routing",
       "protocols"
+    ]
+  },
+  "https://www.freecodecamp.org/news/systems-design-for-interviews/": {
+    "desc": "System Design Interview Questions \u2013 Concepts You Should Know",
+    "name": "System Design Interview Questions \u2013 Concepts You Should Know",
+    "tags": [
+      "systemsdesign",
+      "interviews",
+      "introduction",
+      "examples",
+      "system",
+      "design"
     ]
   },
   "https://www.hackplayers.com/2018/08/crypton-una-recopilacion-para-aprender-crypto.html": {
